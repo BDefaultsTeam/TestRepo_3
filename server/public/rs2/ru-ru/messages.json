@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Добро пожаловать в Microsoft Edge",
+    "speedGetStarted": "Начните прямо сейчас",
+    "importBookmarks": "Импортировать закладки",
+    "customizeWithExtensions": "Установить расширения",
+    "seeWhatsNew": "Узнать, что нового",
+    "tabsWelcomeWindows10": "<span class=\"g1\"><strong>Более быстрый</strong> и</span>&nbsp;<span class=\"g1\"><strong>более безопасный</strong> браузер,</span>&nbsp;<span class=\"g2\">созданный специально для Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Легкое управление</strong> вкладками",
+    "tabsTabPreviews": "Находите нужные страницы, просто просматривая миниатюры вкладок",
+    "tabsOneAtATime": "По одной",
+    "tabsAllAtOnce": "Или все сразу",
+    "tabsForLater": "Сохраняйте вкладки \"на потом\"",
+    "tabsBringBack": "Возвращайтеськнимоднимщелчком",
+	"welcomeTagline1":"<strong>Более быстрый</strong> и&nbsp;",
+	"welcomeTagline2":"<strong>более безопасный</strong> браузер,&nbsp;",
+	"welcomeTagline3":"созданный специально для Windows 10."
+}

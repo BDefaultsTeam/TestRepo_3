@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Chào mừng bạn đến với Microsoft Edge",
+    "speedGetStarted": "Bắt đầu ngay bây giờ",
+    "importBookmarks": "Nhập dấu trang của bạn",
+    "customizeWithExtensions": "Tùy chỉnh với tiện ích mở rộng",
+    "seeWhatsNew": "Xem thông tin mới",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Trình duyệt <strong>nhanh hơn</strong>,</span>&nbsp;<span class=\"g1\"><strong>an toàn hơn</strong></span>&nbsp;<span class=\"g2\">được thiết kế cho Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Tab lộn xộn</strong> &mdash; đã được khắc phục!",
+    "tabsTabPreviews": "Tìm trang của bạn với bản xem trước tab",
+    "tabsOneAtATime": "Mỗi lần một bản xem trước",
+    "tabsAllAtOnce": "Hoặc tất cả các bản xem trước cùng một lúc",
+    "tabsForLater": "Lưu trữ tab để sử dụng sau",
+    "tabsBringBack": "Khôi phục tab bằng một lần bấm chuột",
+	"welcomeTagline1":"Trình duyệt <strong>nhanh hơn</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>an toàn hơn</strong>&nbsp;",
+	"welcomeTagline3":"được thiết kế cho Windows 10."
+}

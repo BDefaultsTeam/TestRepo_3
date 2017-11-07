@@ -1,0 +1,54 @@
+{
+    "Header":
+    {
+        "Main": "Bun venit la Microsoft Edge",
+        "Secondary": "Să începem"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importați-vă preferințele",
+        "Tab2": "Navigați în siguranță",
+        "Tab3": "Particularizați cu ajutorul extensiilor",
+        "Tab4": "Sunteți pe drumul cel bun!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Importați-vă preferințele din alte browsere și le vedeți organizate în Hub <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Cu Windows Defender și tehnologia SmartScreen din Microsoft Edge, PC-ul dvs. este deja protejat de software, site-uri și descărcări rău intenționate.",
+        "Tab3": "Personalizați Microsoft Edge cu extensii populare, precum butonul Pin It de la Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass și altele.",
+        "Tab4": "Doriți mai multe sfaturi? Faceți clic mai jos pentru a vedea ce este nou în Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importați acum",
+        "Button2": "Confirmați că sunteți acoperiți",
+        "Button3": "Obțineți extensii",
+        "Button4": "Aflați mai multe sfaturi"
+    }
+	,
+    "Alt":
+    {
+        "One": "Unu",
+        "Two": "Doi",
+		"Three": "Trei",
+		"Favoritesillustration": "Ilustrație cu folderul Preferințe",
+		"Favoritesfolder": "Folderul Preferințe",
+		"Safetyillustration": "Ilustrație cu Scutul de protecție",
+		"Safetyshield": "Scutul de protecție",
+		"Extensionsillustration": "Ilustrație cu extensii din Microsoft Edge",
+		"Extensions": "Extensii"
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Bun venit la Microsoft Edge. Să începem. Unu. Importați-vă preferințele. Doi. Navigați în siguranță. Trei. Particularizați cu ajutorul extensiilor.",
+        "AriaLabel2": "Ilustrație cu folderul Preferințe. Unu. Importați-vă preferințele. Importați-vă preferințele din alte browsere și le vedeți organizate în Hub.",
+        "AriaLabel3": "Ilustrație cu Scutul de protecție. Doi. Navigați în siguranță. fender și tehnologia SmartScreen din Microsoft Edge, PC-ul dvs. este deja protejat de software, site-uri și descărcări rău intenționate.",
+        "AriaLabel4": "Ilustrație cu extensii din Microsoft Edge. Trei. Particularizați cu ajutorul extensiilor. Personalizați Microsoft Edge cu extensii populare, precum butonul Pin It de la Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass și altele.",
+        "AriaLabel5": "Sunteți pe drumul cel bun! Doriți mai multe sfaturi? Faceți clic mai jos pentru a vedea ce este nou în Microsoft Edge.",
+        "AriaLabel6": "Aflați mai multe sfaturi"
+    }
+}

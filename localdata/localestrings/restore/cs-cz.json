@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "cs-cz",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Něco se pokazilo, ale vyřešili jsme to",
+        "clearedData": "Microsoft Edge se nemohl správně spustit, a proto jsme museli vymazat určitá data, abychom vám umožnili znovu procházet web.",
+        "favoritesOK": "Oblíbené položky a hesla jsou v pořádku",
+        "favoritesSaved": "Uložili jsme je pro vás, a proto se tím nemusíte zabývat.",
+        "historyAndCookies": "Historie a soubory cookie",
+        "signBackIn": "Tohle jsme vymazali, a proto se budete muset k webům znovu přihlásit.",
+        "settingsExtensions": "Nastavení a rozšíření",
+        "changedSettings": "Jakékoli případné změny nastavení a rozšíření bude potřeba provést znovu."
+    }
+}

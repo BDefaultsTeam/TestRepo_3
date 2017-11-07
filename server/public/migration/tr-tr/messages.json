@@ -1,0 +1,54 @@
+{
+    "Header":
+    {
+        "Main": "Microsoft Edge'e hoş geldiniz",
+        "Secondary": "Ayarlarınızı yapalım"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Her şeyiniz yanınızda olsun",
+        "Tab2": "Güvenle sörf yapın",
+        "Tab3": "Uzantılarla özelleştirin",
+        "Tab4": "Kullanmaya başlayabilirsiniz!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Yabancılık çekmemeniz için başka bir tarayıcıdan yer imlerinizi ve diğer bilgileri getireceğiz.",
+        "Tab2": "Microsoft Edge'deki Windows Defender ve SmartScreen teknolojisi sayesinde bilgisayarınız kötü amaçlı yazılımlara, web sitelerine ve indirmelere karşı zaten korunmaktadır.",
+        "Tab3": "Microsoft Edge'i Pinterest'in Pin It düğmesi, Amazon Assistant, AdBlock, Adblock Plus, LastPass ve diğer popüler uzantılarla kişiselleştirin.",
+        "Tab4": "Daha fazla ipucu mu istiyorsunuz? Microsoft Edge'deki yenilikleri görmek için aşağıdaki bağlantıya tıklatın."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Hemen içe aktarın",
+        "Button2": "Dahil olduğunuzu doğrulayın",
+        "Button3": "Uzantıları edinin",
+        "Button4": "Daha fazla ipucu"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Bir",
+        "Two": "İki",
+        "Three": "Üç",
+        "Favoritesillustration": "Sık kullanılanlar klasörü örneği",
+        "Favoritesfolder": "Sık kullanılanlar klasörü",
+        "Safetyillustration": "Güvenlik kalkanı örneği",
+        "Safetyshield": "Güvenlik kalkanı",
+        "Extensionsillustration": "Microsoft Edge'deki uzantılar örneği",
+        "Extensions": "Uzantılar"
+    }
+	,
+	"AriaLabel":
+    {
+        "AriaLabel1": "Microsoft Edge'e hoş geldiniz. Ayarlarınızı yapalım. Bir. Her şeyiniz yanınızda olsun. İki. Güvenle sörf yapın. Üç. Uzantılarla özelleştirin.",
+        "AriaLabel2": "Sık kullanılanlar klasörü örneği. Bir. Her şeyiniz yanınızda olsun. Yabancılık çekmemeniz için başka bir tarayıcıdan yer imlerinizi ve diğer bilgileri getireceğiz.",
+        "AriaLabel3": "Güvenlik kalkanı örneği. İki. Güvenle sörf yapın. Microsoft Edge'deki Windows Defender ve SmartScreen teknolojisi sayesinde bilgisayarınız kötü amaçlı yazılımlara, web sitelerine ve indirmelere karşı zaten korunmaktadır.",
+        "AriaLabel4": "Microsoft Edge'deki uzantılar örneği. Üç. Uzantılarla özelleştirin. Microsoft Edge'i Pinterest'in Pin It düğmesi, Amazon Assistant, AdBlock, Adblock Plus, LastPass ve diğer popüler uzantılarla kişiselleştirin.",
+        "AriaLabel5": "Kullanmaya başlayabilirsiniz! Daha fazla ipucu mu istiyorsunuz? Microsoft Edge'deki yenilikleri görmek için aşağıdaki bağlantıya tıklatın.",
+        "AriaLabel6": "Daha fazla ipucu"
+    }
+}

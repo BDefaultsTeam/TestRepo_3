@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "nb-no",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Noe gikk galt, men vi har løst det",
+        "clearedData": "Microsoft Edge kunne ikke starte riktig, og vi måtte fjerne noen data for å få deg tilbake på nettet.",
+        "favoritesOK": "Favoritter og passord er OK",
+        "favoritesSaved": "Disse ble lagret, så ingen problemer der.",
+        "historyAndCookies": "Logg og informasjonskapsler",
+        "signBackIn": "Disse ble fjernet, så du må logge på nettsteder på nytt.",
+        "settingsExtensions": "Innstillinger og utvidelser",
+        "changedSettings": "Hvis du har endret noen innstillinger eller utvidelser, må du gjøre det på nytt."
+    }
+}

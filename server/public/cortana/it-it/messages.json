@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Benvenuto in Microsoft Edge",
+        "Secondary": "Per iniziare subito"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Ritrova i tuoi contenuti",
+        "Tab2": "Fatti aiutare da Cortana",
+        "Tab3": "Personalizza con le estensioni",
+        "Tab4": "Pronto per iniziare!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "I tuoi segnalibri e altre informazioni verranno recuperati da un altro browser, così ti sentirai sempre a tuo agio.",
+        "Tab2": "Accedi rapidamente a recensioni, elementi consigliati e buoni sconto oppure cerca i termini che non conosci senza uscire dalla pagina visualizzata.",
+        "Tab3": "Personalizza Microsoft Edge con estensioni popolari quali il pulsante Pin It di Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass e molto altro. ",
+        "Tab4": "Desideri altri suggerimenti? Fai clic di seguito per scoprire le novità in Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Iniziamo",
+        "Button2": "Configura Cortana",
+        "Button3": "Ottieni le estensioni",
+        "Button4": "Altri suggerimenti"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Uno",
+        "Two": "Due",
+        "Three": "Tre",
+        "Favoritesillustration": "Illustrazione della cartella Preferiti",
+        "Favoritesfolder": "Cartella Preferiti",
+        "Safetyillustration": "Illustrazione dell'icona a forma di scudo per la sicurezza",
+        "Safetyshield": "Icona a forma di scudo per la sicurezza",
+        "Extensionsillustration": "Illustrazione delle estensioni in Microsoft Edge",
+        "Extensions": "Estensioni"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Benvenuto in Microsoft Edge. Per iniziare subito. Uno. Ritrova i tuoi contenuti. Due. Fatti aiutare da Cortana. Tre. Personalizza con le estensioni.",
+        "AriaLabel2": "Illustrazione della cartella Preferiti. Uno. I tuoi segnalibri e altre informazioni verranno recuperati da un altro browser, così ti sentirai sempre a tuo agio.",
+        "AriaLabel3": "Illustrazione dell'icona a forma di scudo per la sicurezza. Due. Accedi rapidamente a recensioni, elementi consigliati e buoni sconto oppure cerca i termini che non conosci senza uscire dalla pagina visualizzata.",
+        "AriaLabel4": "Illustrazione delle estensioni in Microsoft Edge. Tre. Personalizza con le estensioni. Personalizza Microsoft Edge con estensioni popolari quali il pulsante Pin It di Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass e molto altro.",
+        "AriaLabel5": "Pronto per iniziare! Desideri altri suggerimenti? Fai clic di seguito per scoprire le novità in Microsoft Edge.",
+        "AriaLabel6": "Altri suggerimenti"
+    }
+}

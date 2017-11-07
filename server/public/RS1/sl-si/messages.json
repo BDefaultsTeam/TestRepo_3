@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Dobrodošli v brskalniku Microsoft Edge",
+        "Secondary": "Začetne nastavitve"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Uvozite svoje priljubljene",
+        "Tab2": "Deskajte varno",
+        "Tab3": "Prilagodite z razširitvami",
+        "Tab4": "Zdaj lahko začnete!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Svoje priljubljene pridobite iz drugih brskalnikov in si jih oglejte v središču <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "S programom Windows Defender in tehnologijo SmartScreen v brskalniku Microsoft Edge je vaš računalnik že zaščiten pred zlonamerno programsko opremo, spletnimi mesti in prenosi.",
+        "Tab3": "Brskalnik Microsoft Edge lahko prilagodite s priljubljenimi razširitvami, kot so gumb »Pin It« v storitvi Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass in druge.",
+        "Tab4": "Ali želite več nasvetov? Kliknite spodaj in si oglejte novosti v brskalniku Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Uvozite zdaj",
+        "Button2": "Potrdite, da ste končali",
+        "Button3": "Pridobite razširitve",
+        "Button4": "Pridobite več nasvetov"
+    }
+	,
+    "Alt":
+    {
+        "One": "Ena",
+        "Two": "Dva",
+		"Three": "Tri",
+		"Favoritesillustration": "Ilustracija mape za priljubljene",
+		"Favoritesfolder": "Mapa za priljubljene",
+		"Safetyillustration": "Ilustracija znaka za varnost",
+		"Safetyshield": "Znak za varnost",
+		"Extensionsillustration": "Ilustracija razširitev v brskalniku Microsoft Edge",
+		"Extensions": "Razširitve"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Dobrodošli v brskalniku Microsoft Edge. Začetne nastavitve. Ena. Uvozite svoje priljubljene. Dva. Deskajte varno. Tri. Prilagodite z razširitvami.",
+        "AriaLabel2": "Ilustracija mape za priljubljene. Ena. Uvozite svoje priljubljene. Svoje priljubljene pridobite iz drugih brskalnikov in si jih oglejte v središču.",
+        "AriaLabel3": "Ilustracija znaka za varnost. Dva. Deskajte varno. S programom Windows Defender in tehnologijo SmartScreen v brskalniku Microsoft Edge je vaš računalnik že zaščiten pred zlonamerno programsko opremo, spletnimi mesti in prenosi.",
+        "AriaLabel4": "Ilustracija razširitev v brskalniku Microsoft Edge. Tri. Prilagodite z razširitvami. Brskalnik Microsoft Edge lahko prilagodite s priljubljenimi razširitvami, kot so gumb »Pin It« v storitvi Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass in druge.",
+        "AriaLabel5": "Zdaj lahko začnete! Ali želite več nasvetov? Kliknite spodaj in si oglejte novosti v brskalniku Microsoft Edge.",
+        "AriaLabel6": "Pridobite več nasvetov"
+    }
+    }

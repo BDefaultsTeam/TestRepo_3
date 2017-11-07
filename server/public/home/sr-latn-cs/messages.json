@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Dobro došli u Microsoft Edge",
+        "Secondary": "Hajde da sve podesimo"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Uvezite omiljene lokacije",
+        "Tab2": "Bezbedno surfujte",
+        "Tab3": "Prilagođavanje pomoću proširenja",
+        "Tab4": "Spremni ste!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Uvezite omiljene lokacije iz drugih pregledača i prikažite ih u Čvorištu <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Uz Windows zaštitnik i SmartScreen tehnologiju u pregledaču Microsoft Edge, vaš računar je već zaštićen od zlonamernog softvera, veb lokacija i preuzimanja.",
+        "Tab3": "Personalizujte Microsoft Edge popularnim proširenjima, kao što su dugme Pinterest Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass i još mnoga druga.",
+        "Tab4": "Da li želite više saveta? Kliknite u nastavku da biste videli šta je novo u programu Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Uvezite odmah",
+        "Button2": "Potvrdite da ste zaštićeni",
+        "Button3": "Preuzmite proširenja",
+        "Button4": "Dobijte više saveta"
+    }
+	,
+    "Alt":
+    {
+        "One": "Jedan",
+        "Two": "Dva",
+		"Three": "Tri",
+		"Favoritesillustration": "Ilustracija fascikle „Omiljene lokacije“",
+		"Favoritesfolder": "Fascikla „Omiljene lokacije“",
+		"Safetyillustration": "Ilustracija štita",
+		"Safetyshield": "Štit",
+		"Extensionsillustration": "Ilustracija proširenja za Microsoft Edge",
+		"Extensions": "Proširenja"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Dobro došli u Microsoft Edge. Hajde da sve podesimo. Jedan. Uvezite omiljene lokacije. Dva. Bezbedno surfujte. Tri. Prilagođavanje pomoću proširenja.",
+        "AriaLabel2": "Ilustracija fascikle „Omiljene lokacije“. Jedan. Uvezite omiljene lokacije. Uvezite omiljene lokacije iz drugih pregledača i prikažite ih u Čvorištu.",
+        "AriaLabel3": "Fascikla „Omiljene lokacije“. Dva. Bezbedno surfujte. Uz Windows zaštitnik i SmartScreen tehnologiju u pregledaču Microsoft Edge, vaš računar je već zaštićen od zlonamernog softvera, veb lokacija i preuzimanja.",
+        "AriaLabel4": "Ilustracija proširenja za Microsoft Edge. Tri. Personalizujte Microsoft Edge popularnim proširenjima, kao što su dugme Pinterest Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass i još mnoga druga.",
+        "AriaLabel5": "Spremni ste! Da li želite više saveta? Kliknite u nastavku da biste videli šta je novo u programu Microsoft Edge.",
+        "AriaLabel6": "Dobijte više saveta"
+    }
+    }

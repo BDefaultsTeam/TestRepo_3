@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "lt-lt",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Iškilo problema, tačiau mes ją pašalinome",
+        "clearedData": "„Microsoft Edge“ nepavyko tinkamai paleisti, todėl mes turėjome išvalyti kai kuriuos duomenis, kad jūs toliau galėtumėte naršyti žiniatinklyje.",
+        "favoritesOK": "Parankiniams ir slaptažodžiams tai įtakos neturi",
+        "favoritesSaved": "Juos mes įrašėme už jus, taigi viskas gerai.",
+        "historyAndCookies": "Istorija ir slapukai",
+        "signBackIn": "Šie duomenys buvo išvalyti, todėl jums teks iš naujo prisijungti prie svetainių.",
+        "settingsExtensions": "Parametrai ir plėtiniai",
+        "changedSettings": "Jei buvote pakeitę kuriuos nors parametrus ar plėtinius, turėsite vėl tai padaryti."
+    }
+}

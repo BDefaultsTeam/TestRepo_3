@@ -1,0 +1,73 @@
+$fs: 16;
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    font-size: $fs * 1px;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    font-size: $fs * 1px;
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-color: $darkblue;
+}
+
+h1, h2 {
+    font-size: (46/$fs) * 1rem;
+    font-weight: 100;
+    line-height: 1.25;
+}
+
+h2 {
+    font-size: (34/$fs) * 1rem;
+}
+
+.contentContainer {
+    @include abs(0, 0, 70px, 0);
+}
+
+.content {
+    position: absolute;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+    //border: 1px dotted rgba(gold, 0.25);
+}
+
+#welcome-heading {
+    margin: 0 0 0.35em 0;
+    opacity: 0;
+}
+
+#welcome-tagline-container {
+    #welcome-claim, #welcome-tagline {
+        position: absolute;
+        width: 100%;
+        margin-top: -0.2em;
+        opacity: 0;
+        span {
+            display: inline-block;
+        }
+        a {
+            color: inherit;
+            text-decoration: underline;
+            &:hover {
+                color: white;
+            }
+        }
+    }
+
+    #welcome-claim {
+        strong {
+            font-weight: 700;
+            color: white;
+        }
+    }
+}
+

@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge-க்கு வரவேற்கிறோம்",
+    "speedGetStarted": "இப்போது தொடங்கவும்",
+    "importBookmarks": "புக்மார்க்குகளை இறக்குமதி செய்க",
+    "customizeWithExtensions": "நீட்டிப்புகளைச் சேர்க்கவும்",
+    "seeWhatsNew": "புதிதாக என்ன உள்ளது",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Windows 10-க்காக வடிவமைக்கப்பட்ட</span>&nbsp;<span class=\"g1\"><strong>வேகமான</strong>,</span>&nbsp;<span class=\"g1\"><strong>பாதுகாப்பான</strong> உலாவி.</span>",
+    "tabsWelcomeClaim": "<strong>சவ்களில் தட்டவும்</strong> &mdash; தீர்க்கப்பட்டது!",
+    "tabsTabPreviews": "தாவல் முன்னோட்டங்களைப் பயன்படுத்தி உங்கள் பக்கங்களைக் கண்டறியவும்",
+    "tabsOneAtATime": "ஒரு நேரத்தில் ஒன்று",
+    "tabsAllAtOnce": "அல்லது எல்லாம் ஒரே நேரத்தில்",
+    "tabsForLater": "பிறகு பார்ப்பதற்கான தாவல்களை அப்பால் அமைக்கவும்",
+    "tabsBringBack": "ஒரு கிளிக்குடன் அவற்றை மீண்டும் கொண்டுவரவும்",
+	"welcomeTagline1":"Windows 10-க்காக வடிவமைக்கப்பட்ட&nbsp;",
+	"welcomeTagline2":"<strong>வேகமான</strong>,&nbsp;",
+	"welcomeTagline3":"<strong>பாதுகாப்பான</strong> உலாவி."
+}

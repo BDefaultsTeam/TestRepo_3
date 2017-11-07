@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Dobro došli u Microsoft Edge",
+        "Secondary": "Pripremimo vas za rad"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Prenesite svoje stvari",
+        "Tab2": "Surfajte sigurno",
+        "Tab3": "Prilagodba pomoću proširenja",
+        "Tab4": "Spremni ste!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Prenijet ćemo vaše knjižne oznake i druge informacije iz drugog preglednika tako da se osjećate kao kod kuće.",
+        "Tab2": "Microsoft Edge štiti vas od prijevara s krađom identiteta i zlonamjernog softvera dok ste na mreži pa možete pregledavati web s povjerenjem.",
+        "Tab3": "Personalizirajte Microsoft Edge popularnim proširenjima kao što su gumb Pin It servisa Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass i mnoga druga. ",
+        "Tab4": "Želite još savjeta? Kliknite u nastavku i pogledajte novosti u pregledniku Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Krenimo",
+        "Button2": "Potvrdite da ste pokriveni",
+        "Button3": "Nabavite proširenja",
+        "Button4": "Pronađite još više savjeta"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Jedan",
+        "Two": "Dva",
+        "Three": "Tri",
+        "Favoritesillustration": "Ilustracija mape Favoriti",
+        "Favoritesfolder": "Mapa Favoriti",
+        "Safetyillustration": "Ilustracija sigurnosnog štita",
+        "Safetyshield": "Sigurnosni štit",
+        "Extensionsillustration": "Ilustracija proširenja u pregledniku Microsoft Edge",
+        "Extensions": "Proširenja"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Dobro došli u Microsoft Edge. Pripremimo vas za rad. Jedan. Prenesite svoje stvari. Dva. Surfajte sigurno. Tri. Prilagodba pomoću proširenja. ",
+        "AriaLabel2": "Mapa Favoriti. Jedan. Prenesite svoje stvari. Prenijet ćemo vaše knjižne oznake i druge informacije iz drugog preglednika tako da se osjećate kao kod kuće.",
+        "AriaLabel3": "Ilustracija sigurnosnog štita. Dva. Surfajte sigurno. Microsoft Edge štiti vas od prijevara s krađom identiteta i zlonamjernog softvera dok ste na mreži pa možete pregledavati web s povjerenjem.",
+        "AriaLabel4": "Ilustracija proširenja u pregledniku Microsoft Edge. Tri. Prilagodba pomoću proširenja. Personalizirajte Microsoft Edge popularnim proširenjima kao što su gumb Pin It servisa Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass i mnoga druga.",
+        "AriaLabel5": "Spremni ste!. Želite još savjeta? Kliknite u nastavku i pogledajte novosti u pregledniku Microsoft Edge.",
+        "AriaLabel6": "Pronađite još više savjeta"
+    }
+}

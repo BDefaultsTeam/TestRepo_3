@@ -1,0 +1,55 @@
+{
+    "Header":
+    {
+        "Main": "歡迎使用 Microsoft Edge",
+        "Secondary": "為您準備就緒"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "獲取一切所需",
+        "Tab2": "安全上網",
+        "Tab3": "透過額外功能自訂一切",
+        "Tab4": "您已準備就緒！"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "我們會為您轉移另一網頁瀏覽器中的書籤及其他資訊，讓您感覺賓至如歸。",
+        "Tab2": "Microsoft Edge 採用 Windows Defender 與 SmartScreen 技術，有效防範電腦免受惡意程式、網站及下載項目侵襲。",
+        "Tab3": "您將可在 Microsoft Edge 中加入 Pinterest 的 Pin It 按鍵、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等額外功能，為瀏覽器注入個人化風格。",
+        "Tab4": "想查看更多秘訣？按一下下方，即可一覽 Microsoft Edge 嶄新功能。"
+    }
+    ,
+    "Button":
+    {
+        "Button1": "立即使用",
+        "Button2": "保障全面，安心穩妥",
+        "Button3": "下載額外功能",
+        "Button4": "查看更多秘訣"
+    }
+    ,
+    "Alt":
+    {
+        "One": "一",
+        "Two": "二",
+        "Three": "三",
+        "Favoritesillustration": "[我的最愛] 資料夾插圖",
+        "Favoritesfolder": "[我的最愛] 資料夾",
+        "Safetyillustration": "安全屏障插圖",
+        "Safetyshield": "安全屏障",
+        "Extensionsillustration": "Microsoft Edge 額外功能插圖",
+        "Extensions": "額外功能"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "歡迎使用 Microsoft Edge. 為您準備就緒. 一. 獲取一切所需. 二. 安全上網. 三. 透過額外功能自訂一切. ",
+        "AriaLabel2": "[我的最愛] 資料夾. 一. 獲取一切所需. 我們會為您轉移另一網頁瀏覽器中的書籤及其他資訊，讓您感覺賓至如歸。.",
+        "AriaLabel3": "安全屏障插圖. 二. 安全上網. Microsoft Edge 採用 Windows Defender 與 SmartScreen 技術，有效防範電腦免受惡意程式、網站及下載項目侵襲。",
+        "AriaLabel4": "Microsoft Edge 額外功能插圖. 三. 透過額外功能自訂一切. 您將可在 Microsoft Edge 中加入 Pinterest 的 Pin It 按鍵、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等額外功能，為瀏覽器注入個人化風格。",
+        "AriaLabel5": "您已準備就緒！. 想查看更多秘訣？按一下下方，即可一覽 Microsoft Edge 嶄新功能。",
+        "AriaLabel6": "查看更多秘訣. "
+    }
+
+}

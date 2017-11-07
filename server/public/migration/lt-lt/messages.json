@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Sveiki, čia „Microsoft Edge“",
+        "Secondary": "Pasiruoškite pradėti naudoti"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Naudokitės visu savo turiniu.",
+        "Tab2": "Naršykite ir būkite saugūs",
+        "Tab3": "Pritaikykite savo poreikiams naudodami plėtinius",
+        "Tab4": "Jau galite naudotis!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Perkelsime iš kitos naršyklės jūsų žymeles ir kitą informaciją, kad nuo pat pradžių jaustumėtės patogiai.",
+        "Tab2": "Naudojant „Windows“ sargybą ir „SmartScreen“ technologiją naršyklėje „Microsoft Edge“, jūsų kompiuteris jau yra apsaugotas nuo kenkėjiškos programinės įrangos, svetainių ir atsisiuntimų.",
+        "Tab3": "Suasmeninkite „Microsoft Edge“ pridėdami populiarių plėtinių, pvz., „Pinterest“ mygtuką „Pin It“, „Amazon Assistant“, „AdBlock“, „Adblock Plus“, „LastPass“ ir kt. ",
+        "Tab4": "Norite daugiau patarimų? Spustelėkite toliau ir sužinokite, kas nauja naršyklėje „Microsoft Edge“."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Pradėkime",
+        "Button2": "Būkite tikri, kad turite viską, ko reikia",
+        "Button3": "Gaukite plėtinių",
+        "Button4": "Gauti daugiau patarimų"
+    }
+	,
+    "Alt":
+    {
+        "One": "Vienas",
+        "Two": "Du",
+		"Three": "Trys",
+		"Favoritesillustration": "Parankinių aplanko iliustracija",
+		"Favoritesfolder": "Parankinių aplankas",
+		"Safetyillustration": "Saugos skydo iliustracija",
+		"Safetyshield": "Saugos skydas",
+		"Extensionsillustration": "„Microsoft Edge“ plėtinių iliustracija",
+		"Extensions": "Plėtiniai"
+    }    
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Sveiki, čia „Microsoft Edge“. Pasiruoškite pradėti naudoti. Vienas. Naudokitės visu savo turiniu. Du. Naršykite ir būkite saugūs. Trys. Pritaikykite savo poreikiams naudodami plėtinius.",
+        "AriaLabel2": "Parankinių aplanko iliustracija. Vienas. Perkelsime iš kitos naršyklės jūsų žymeles ir kitą informaciją, kad nuo pat pradžių jaustumėtės patogiai.",
+        "AriaLabel3": "Saugos skydo iliustracija. Du. Naršykite ir būkite saugūs. Naudojant „Windows“ sargybą ir „SmartScreen“ technologiją naršyklėje „Microsoft Edge“, jūsų kompiuteris jau yra apsaugotas nuo kenkėjiškos programinės įrangos, svetainių ir atsisiuntimų.",
+        "AriaLabel4": "„Microsoft Edge“ plėtinių iliustracija. Trys. Pritaikykite savo poreikiams naudodami plėtinius. Suasmeninkite „Microsoft Edge“ pridėdami populiarių plėtinių, pvz., „Pinterest“ mygtuką „Pin It“, „Amazon Assistant“, „AdBlock“, „Adblock Plus“, „LastPass“ ir kt.",
+        "AriaLabel5": "Jau galite naudotis!. Norite daugiau patarimų? Spustelėkite toliau ir sužinokite, kas nauja naršyklėje „Microsoft Edge“.",
+        "AriaLabel6": "Gauti daugiau patarimų"
+    }
+}

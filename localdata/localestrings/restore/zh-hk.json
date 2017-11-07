@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "zh-hk",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "發生問題，不過我們已經解決",
+        "clearedData": "Microsoft Edge 無法正常啟動，因此我們必須清除部分資料，以便讓您繼續瀏覽網絡。",
+        "favoritesOK": "我的最愛和密碼沒問題",
+        "favoritesSaved": "我們已經為您儲存好，這邊一切沒問題。",
+        "historyAndCookies": "歷程記錄和 Cookie",
+        "signBackIn": "這些已清除，因此您必須重新登入網站。",
+        "settingsExtensions": "設定與擴充功能",
+        "changedSettings": "如果您已變更任何設定或擴充功能，將需要再次進行該動作。"
+    }
+}

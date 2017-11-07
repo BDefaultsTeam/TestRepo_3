@@ -1,0 +1,16 @@
+﻿{
+    "speedWelcomeToEdge": "欢迎使用 Microsoft Edge",
+    "speedGetStarted": "立即行动",
+    "GetApps": "从 Windows 应用商店获取应用程序",
+    "customizeWithExtensions": "利用扩展程序进行定制",
+    "seeWhatsNew": "了解新增功能",    
+    "tabsWelcomeClaim": "<strong>杂乱无章的标签页</strong> &mdash; 已解决！",
+    "tabsTabPreviews": "利用标签页预览查找您的页面",
+    "tabsOneAtATime": "一次完成一个",
+    "tabsAllAtOnce": "或者一次完成全部",
+    "tabsForLater": "搁置标签页供以后查看",
+    "tabsBringBack": "单击一次找回标签页",
+	"welcomeTagline1":"<strong>更快速</strong>、",
+	"welcomeTagline2":"<strong>更安全</strong>的浏览器，",
+	"welcomeTagline3":"专为 Windows 10 S 设计。"
+}

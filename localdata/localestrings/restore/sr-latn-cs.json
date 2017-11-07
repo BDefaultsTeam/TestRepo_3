@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "sr-latn-cs",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Došlo je do problema, ali smo uspeli da ga otklonimo",
+        "clearedData": "Microsoft Edge nije mogao da se pokrene pravilno, pa smo morali da obrišemo određene podatke da biste mogli ponovo da pregledate veb.",
+        "favoritesOK": "Sve je u redu sa omiljenim lokacijama i lozinkama",
+        "favoritesSaved": "Sačuvali smo ih za vas, tako da je ovde sve u redu.",
+        "historyAndCookies": "Istorija i kolačići",
+        "signBackIn": "Obrisali smo ih, tako da ćete morati da se prijavite ponovo na veb lokacije.",
+        "settingsExtensions": "Postavke i proširenja",
+        "changedSettings": "Ako ste promenili neke postavke ili proširenja, moraćete to da ponovite."
+    }
+}

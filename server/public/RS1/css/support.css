@@ -1,0 +1,108 @@
+﻿/* All high contrast styling rules */
+@media screen and (-ms-high-contrast: active) {
+    body {
+        background-image:none;
+    }
+}
+
+/* All high contrast styling rules */
+@media not screen and (-ms-high-contrast: active) {
+    body {
+        background-image: url("../img/FRE_RS1_bg_summer.png");
+    }
+}
+
+/*Handling blank spaces in Larger screen resolution i.e. above 800px*/
+@media only screen and (min-height:1501px){
+    .btn-wrap {
+        margin-top: 9%;
+    }    
+    #welcome {
+        margin-top: 12%;
+    }
+    #final_text {
+        margin-top: 50.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 1500px) and (min-height:1301px){
+    .btn-wrap {
+        margin-top: 8%;
+    }    
+    #welcome {
+        margin-top: 10%;
+    }
+    #final_text {
+        margin-top: 50.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 1300px) and (min-height:1201px){
+    .btn-wrap {
+        margin-top: 8%;
+    }    
+    #welcome {
+        margin-top: 8%;
+    }
+    #final_text {
+        margin-top: 50.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 1200px) and (min-height:1101px) {
+    #welcome {
+        margin-top: 5%;
+    }      
+    .btn-wrap {
+        margin-top: 8%;
+    }
+
+    #final_text {
+        margin-top: 40.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 1100px) and (min-height:1001px) {
+    #welcome {
+        margin-top: 5%;
+    }      
+    .btn-wrap {
+        margin-top: 5%;
+    }
+    #final_text {
+        margin-top: 33.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 1000px) and (min-height:901px) {
+    #welcome {
+        margin-top: 5%;
+    }    
+    #final_text {
+        margin-top: 33.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}
+@media only screen and (max-height: 900px) and (min-height:801px)  {
+    #welcome {
+        margin-top: 3%;
+    }
+    #final_text {
+        margin-top:15.35%;
+    }
+    #tips {
+        margin-top: 4%;
+    }
+}

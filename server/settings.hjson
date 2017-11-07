@@ -1,0 +1,66 @@
+{
+    "defaults": {
+        "cacheDefaultTTL": 3600000,
+        "cdn": {
+            "enabled": false,
+            "versionsBaseUrl": "https://edgewelcome.azureedge.net/site/"
+        },
+
+        "errors": {
+            "showStacktrace": false
+        },
+
+        "session" : {
+            "secret": "Kj6mSSSG7EWQhd2g"
+        },
+
+        "locales": {
+            "dataPath": "data/localeData.json",
+            "exclude": {
+                
+            }
+        },
+
+        "cookieConsent": {
+            "domain": "microsoftedgewelcome.microsoft.com"
+        },
+
+        "cms": {
+
+            "environment": "local",
+            
+            "storage":{
+                "localdata": {
+                    "engine": "directory",
+                    "path": "localdata"
+                }
+            },
+            "databases": {
+                "tables": {
+                    "localestrings": {
+                        "partitionKeyName": "groupId",
+                        "rowKeyName": "locale",
+                        "storage": { "local": "localdata" }
+                    }
+                }
+            }
+        }
+
+    },
+
+    "development": {
+        "errors": {
+            "showStacktrace": true
+        },
+        "cdn": {
+            "enabled": false
+        }
+    },  
+
+    "production": {
+        "cdn": {
+            "enabled": true
+        }
+    }
+
+}

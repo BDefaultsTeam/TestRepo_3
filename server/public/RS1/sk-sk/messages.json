@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "Víta vás Microsoft Edge",
+        "Secondary": "Nastavenie"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Import obľúbených položiek",
+        "Tab2": "Bezpečné surfovanie po webe",
+        "Tab3": "Prispôsobenie pomocou rozšírení",
+        "Tab4": "Môžete pokračovať."  
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Keď prenesiete svoje obľúbené položky z iných prehliadačov, zobrazia sa v Centre <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Microsoft Edge využíva nástroj Windows Defender a technológiu SmartScreen, takže váš počítač je už chránený pred škodlivým softvérom, škodlivými webovými lokalitami a stiahnutými súbormi.",
+        "Tab3": "Microsoft Edge si môžete prispôsobiť pomocou populárnych rozšírení, ako sú napríklad tlačidlo Pin It od spoločnosti Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass a ďalšie.",
+        "Tab4": "Chcete ďalšie tipy? Kliknutím nižšie môžete zobraziť novinky v prehliadači Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importovať",
+        "Button2": "Overte si to",
+        "Button3": "Získajte rozšírenia",
+        "Button4": "Získať ďalšie tipy"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Jeden",
+        "Two": "Dva",
+        "Three": "Tri",
+        "Favoritesillustration": "Ilustrácia priečinka Obľúbené položky",
+        "Favoritesfolder": "Priečinok Obľúbené položky",
+        "Safetyillustration": "Ilustrácia bezpečnostného štítu",
+        "Safetyshield": "Bezpečnostný štít",
+        "Extensionsillustration": "Ilustrácia rozšírení v prehliadači Microsoft Edge",
+        "Extensions": "Rozšírenia"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Víta vás Microsoft Edge. Nastavenie. Jeden. Import obľúbených položiek. Dva. Bezpečné surfovanie po webe. Tri. Prispôsobenie pomocou rozšírení.",
+        "AriaLabel2": "Ilustrácia priečinka Obľúbené položky. Jeden. Import obľúbených položiek. Keď prenesiete svoje obľúbené položky z iných prehliadačov, zobrazia sa v Centre.",        
+        "AriaLabel3": "Ilustrácia bezpečnostného štítu. Dva. Bezpečné surfovanie po webe. Microsoft Edge využíva nástroj Windows Defender a technológiu SmartScreen, takže váš počítač je už chránený pred škodlivým softvérom, škodlivými webovými lokalitami a stiahnutými súbormi.",
+        "AriaLabel4": "Ilustrácia rozšírení v prehliadači Microsoft Edge. Tri. Prispôsobenie pomocou rozšírení. Microsoft Edge si môžete prispôsobiť pomocou populárnych rozšírení, ako sú napríklad tlačidlo Pin It od spoločnosti Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass a ďalšie.",
+        "AriaLabel5": "Môžete pokračovať. Chcete ďalšie tipy? Kliknutím nižšie môžete zobraziť novinky v prehliadači Microsoft Edge.",
+        "AriaLabel6": "Získať ďalšie tipy"
+    }
+}
+

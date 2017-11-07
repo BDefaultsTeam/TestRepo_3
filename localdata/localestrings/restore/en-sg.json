@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "en-sg",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Something went wrong, but we resolved it",
+        "clearedData": "Microsoft Edge couldn't start properly, so we had to clear some data to get you back to browsing the web.",
+        "favoritesOK": "Favorites and passwords are OK",
+        "favoritesSaved": "We saved these for you, so we're all good here.",
+        "historyAndCookies": "History and cookies",
+        "signBackIn": "These were cleared so you'll need to sign back in to websites.",
+        "settingsExtensions": "Settings and Extensions",
+        "changedSettings": "If you changed any settings or extensions, you'll need to do that again."
+    }
+}

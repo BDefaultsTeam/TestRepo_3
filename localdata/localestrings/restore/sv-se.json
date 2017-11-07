@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "sv-se",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Ett fel uppstod, men vi löste det",
+        "clearedData": "Microsoft Edge kunde inte startas korrekt, och vissa data behövde rensas innan du kunde fortsätta surfa.",
+        "favoritesOK": "Favoriter och lösenord finns kvar",
+        "favoritesSaved": "Vi har sparat dem åt dig.",
+        "historyAndCookies": "Historik och cookies",
+        "signBackIn": "Dessa rensades, så du måste logga in på webbplatser på nytt.",
+        "settingsExtensions": "Inställningar och tillägg",
+        "changedSettings": "Om du hade ändrat inställningar eller tillägg måste du göra om det igen."
+    }
+}

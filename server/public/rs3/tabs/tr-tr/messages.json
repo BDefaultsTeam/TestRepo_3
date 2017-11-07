@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge'e hoş geldiniz",
+    "speedGetStarted": "Hemen kullanmaya başlayın",
+    "importBookmarks": "Yer işaretlerinizi içeri aktarın",
+    "customizeWithExtensions": "Uzantılarla özelleştirin",
+    "seeWhatsNew": "Yenilikleri görün",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Daha <strong>hızlı</strong>,</span>&nbsp;<span class=\"g1\"><strong>daha güvenli</strong> tarayıcı,</span>&nbsp;<span class=\"g2\">Windows 10 için tasarlandı.</span>",
+    "tabsWelcomeClaim": "<strong>Sekme karmaşası</strong> &mdash; sona erdi!",
+    "tabsTabPreviews": "Sayfalarınızı sekme önizlemeleriyle bulun",
+    "tabsOneAtATime": "Tek tek",
+    "tabsAllAtOnce": "Veya hepsi birlikte",
+    "tabsForLater": "Daha sonra kullanmak üzere sekmeleri ayırın",
+    "tabsBringBack": "Tek tıklamayla geri getirin",
+	"welcomeTagline1":"Daha <strong>hızlı</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>daha güvenli</strong> tarayıcı,&nbsp;",
+	"welcomeTagline3":"Windows 10 için tasarlandı."
+}

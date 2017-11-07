@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge লৈ স্বাগতম",
+    "speedGetStarted": "এতিয়া আৰম্ভ কৰক",
+    "importBookmarks": "আপোনাৰ বুকমাৰ্কসমূহ আমদানি কৰক",
+    "customizeWithExtensions": "এক্সটেনশ্বনৰ সৈতে কাষ্টমাইজ কৰক",
+    "seeWhatsNew": "নতুন কি কি আছে চাওক",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Windows 10-ৰ বাবে <strong>দ্ৰুত</strong>,</span>&nbsp;<span class=\"g1\"><strong>নিৰাপদ</strong> ব্ৰাউজাৰ</span>&nbsp;<span class=\"g2\">ডিজাইন কৰা হৈছে৷</span>",
+    "tabsWelcomeClaim": "<strong>টেব চাওছ</strong> &mdash; সমাধান কৰিছে!",
+    "tabsTabPreviews": "টেব প্ৰিভিউৰ সৈতে আপোনাৰ পৃষ্ঠাসমূহ বিচাৰক",
+    "tabsOneAtATime": "এবাৰত এটা",
+    "tabsAllAtOnce": "বা এবাৰত সকলো",
+    "tabsForLater": "পিছলৈ টেবসমূহ একাষৰীয়াকৈ ছেট কৰক",
+    "tabsBringBack": "এটা ক্লিকতে সেইবোৰ ঘূৰাই আনক",
+	"welcomeTagline1":"Windows 10-ৰ বাবে <strong>দ্ৰুত</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>নিৰাপদ</strong> ব্ৰাউজাৰ&nbsp;",
+	"welcomeTagline3":"ডিজাইন কৰা হৈছে৷"
+}

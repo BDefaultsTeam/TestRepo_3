@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "欢迎使用 Microsoft Edge",
+        "Secondary": "让我们为您完成设置"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "导入您的收藏夹",
+        "Tab2": "安全地上网冲浪",
+        "Tab3": "利用扩展程序进行定制",
+        "Tab4": "您已准备就绪！"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "从其他浏览器获取您的收藏夹并在“中心” <span id=\"lblHubIcon\"></span> 中查看它们。",
+        "Tab2": "凭借 Microsoft Edge 中的 Windows Defender 和 SmartScreen 技术，您的电脑已获得针对恶意软件、网站和下载内容的防护。",
+        "Tab3": "利用热门的扩展程序，如 Pinterest 的 Pin It 按钮、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等，对 Microsoft Edge 进行个性化设置。",
+        "Tab4": "是否需要更多提示？单击下面以查看 Microsoft Edge 的新增功能。"
+        
+    }
+    ,
+    "Button":
+    {
+        "Button1": "立即导入",
+        "Button2": "确认您可享用的功能",
+        "Button3": "获取扩展程序",
+        "Button4": "获取更多提示"
+    }
+	,
+    "Alt":
+    {
+        "One": "一",
+        "Two": "二",
+		"Three": "三",
+		"Favoritesillustration": "收藏夹文件夹图示",
+		"Favoritesfolder": "收藏夹文件夹",
+		"Safetyillustration": "安全盾图示",
+		"Safetyshield": "安全盾",
+		"Extensionsillustration": "Microsoft Edge 中的扩展程序图示",
+		"Extensions": "扩展程序"
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "欢迎使用 Microsoft Edge 让我们为您完成设置。 一。 导入您的收藏夹。 二。 安全地上网冲浪。 三。 利用扩展程序进行定制。",        
+        "AriaLabel2": "收藏夹文件夹图示。 一。 导入您的收藏夹。 从其他浏览器获取您的收藏夹并在“中心” 中查看它们。",
+        "AriaLabel3": "安全盾图示。 二。 安全地上网冲浪。 凭借 Microsoft Edge 中的 Windows Defender 和 SmartScreen 技术，您的电脑已获得针对恶意软件、网站和下载内容的防护。",
+        "AriaLabel4": "Microsoft Edge 中的扩展程序图示。 三。 利用扩展程序进行定制。 利用热门的扩展程序，如 Pinterest 的 Pin It 按钮、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等，对 Microsoft Edge 进行个性化设置。",
+        "AriaLabel5": "您已准备就绪。 是否需要更多提示？单击下面以查看 Microsoft Edge 的新增功能。",
+        "AriaLabel6": "获取更多提示。"
+    }
+}

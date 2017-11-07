@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Selamat datang di Microsoft Edge",
+        "Secondary": "Ayo persiapkan diri Anda"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Ambil barang Anda",
+        "Tab2": "Berselancar dengan aman",
+        "Tab3": "Sesuaikan dengan ekstensi",
+        "Tab4": "Anda siap untuk memulai!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Kami akan membawakan bookmark dan info lainnya dari browser lain, agar Anda merasa nyaman.",
+        "Tab2": "Dengan teknologi Pertahanan Windows dan SmartScreen di Microsoft Edge, PC sudah terlindungi dari perangkat lunak, situs web, dan unduhan berbahaya.",
+        "Tab3": "Personalisasikan Microsoft Edge dengan ekstensi populer seperti tombol Pin It Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, dan banyak lagi. ",
+        "Tab4": "Butuh kiat lainnya? Klik di bawah ini untuk melihat apa yang baru pada Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Ayo mulai!",
+        "Button2": "Konfirmasikan Anda terlindungi",
+        "Button3": "Dapatkan ekstensi",
+        "Button4": "Dapatkan kiat lainnya"
+    }
+	,
+    "Alt":
+    {
+        "One": "Satu",
+        "Two": "Dua",
+		"Three": "Tiga",
+		"Favoritesillustration": "Ilustrasi folder favorit",
+		"Favoritesfolder": "Folder favorit",
+		"Safetyillustration": "Ilustrasi pelindung keamanan",
+		"Safetyshield": "Pelindung keamanan",
+		"Extensionsillustration": "Ilustrasi ekstensi di Microsoft Edge",
+		"Extensions": "Ekstensi"
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Selamat datang di Microsoft Edge. Ayo persiapkan diri Anda. Satu. Ambil barang Anda. Dua. Berselancar dengan aman. Tiga. Sesuaikan dengan ekstensi.",
+        "AriaLabel2": "Ilustrasi folder favorit. Satu. Ambil barang Anda. Kami akan membawakan bookmark dan info lainnya dari browser lain, agar Anda merasa nyaman.",
+        "AriaLabel3": "Ilustrasi pelindung keamanan. Dua. Berselancar dengan aman. Dengan teknologi Pertahanan Windows dan SmartScreen di Microsoft Edge, PC sudah terlindungi dari perangkat lunak, situs web, dan unduhan berbahaya.",
+        "AriaLabel4": "Ilustrasi ekstensi di Microsoft Edge. Tiga. Sesuaikan dengan ekstensi. Personalisasikan Microsoft Edge dengan ekstensi populer seperti tombol Pin It Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, dan banyak lagi.",
+        "AriaLabel5": "Anda siap untuk memulai!. Butuh kiat lainnya? Klik di bawah ini untuk melihat apa yang baru pada Microsoft Edge.",
+        "AriaLabel6": "Dapatkan kiat lainnya"
+    }
+}

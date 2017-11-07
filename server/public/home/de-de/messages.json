@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Willkommen bei Microsoft Edge",
+        "Secondary": "Beginnen Sie jetzt mit der Einrichtung"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Favoriten importieren",
+        "Tab2": "Sicheres Surfen",
+        "Tab3": "Mit Erweiterungen anpassen",
+        "Tab4": "Jetzt kann es losgehen!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Importieren Sie Ihre Favoriten aus anderen Browsern einfach in den Hub <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Mit Windows Defender und der SmartScreen-Technologie von Microsoft Edge ist Ihr PC bereits geschützt vor Schadsoftware sowie böswilligen Websites und Downloads.",
+        "Tab3": "Passen Sie Microsoft Edge mit beliebten Erweiterungen wie der Schaltfläche „Pin It“ von Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass und vielen mehr individuell an.",
+        "Tab4": "Interessiert an weiteren Tipps? Klicken Sie auf die folgende Schaltfläche, und erfahren Sie mehr über die neuen Features von Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Jetzt importieren",
+        "Button2": "Schutz bestätigen",
+        "Button3": "Erweiterungen abrufen",
+        "Button4": "Weitere Tipps"
+    }
+	,
+    "Alt":
+    {
+		"One": "Eins",
+		"Two": "Zwei",
+		"Three": "Drei",
+		"Favoritesillustration": "Abbildung mit dem Ordner „Favoriten“",
+		"Favoritesfolder": "Ordner „Favoriten“",
+		"Safetyillustration": "Abbildung mit Sicherheitsschild",
+		"Safetyshield": "Sicherheitsschild",
+		"Extensionsillustration": "Abbildung zu Erweiterungen für Microsoft Edge",
+		"Extensions": "Erweiterungen"
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Willkommen bei Microsoft Edge. Beginnen Sie jetzt mit der Einrichtung. Eins. Favoriten importieren. Zwei. Sicheres Surfen. Drei. Mit Erweiterungen anpassen.",
+        "AriaLabel2": "Abbildung mit dem Ordner „Favoriten“. Eins. Favoriten importieren. Importieren Sie Ihre Favoriten aus anderen Browsern einfach in den Hub.",
+        "AriaLabel3": "Abbildung mit Sicherheitsschild. Zwei. Sicheres Surfen. Mit Windows Defender und der SmartScreen-Technologie von Microsoft Edge ist Ihr PC bereits geschützt vor Schadsoftware sowie böswilligen Websites und Downloads.",
+        "AriaLabel4": "Abbildung zu Erweiterungen für Microsoft Edge. Drei. Mit Erweiterungen anpassen. Passen Sie Microsoft Edge mit beliebten Erweiterungen wie der Schaltfläche „Pin It“ von Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass und vielen mehr individuell an.",
+        "AriaLabel5": "Jetzt kann es losgehen! Interessiert an weiteren Tipps? Klicken Sie auf die folgende Schaltfläche, und erfahren Sie mehr über die neuen Features von Microsoft Edge.",
+        "AriaLabel6": "Weitere Tipps"
+    }
+}

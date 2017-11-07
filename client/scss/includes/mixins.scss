@@ -1,0 +1,283 @@
+// Useful SASS references
+// - Function cheat sheet: https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46
+
+// Positioning
+
+@mixin pos($pos: null, $t: null, $r: null, $b:null, $l: null) {
+    position: $pos;
+    top: $t;
+    right: $r;
+    bottom: $b;
+    left: $l;
+}
+
+@mixin rel($t: null, $r: null, $b:null, $l: null) {
+    @include pos(relative, $t, $r, $b, $l);
+}
+
+@mixin abs($t: null, $r: null, $b:null, $l: null) {
+    @if $t == null and $r == null and $b == null and $l == null {
+        @include pos(absolute, 0, 0, 0, 0);
+    }
+    @else {
+        @include pos(absolute, $t, $r, $b, $l);
+    }
+}
+
+@mixin fixed($t: null, $r: null, $b:null, $l: null) {
+    @if $t == null and $r == null and $b == null and $l == null {
+        @include pos(fixed, 0, 0, 0, 0);
+    }
+    @else {
+        @include pos(fixed, $t, $r, $b, $l);
+    }
+}
+
+@mixin left-top($l: 0, $t: 0) {
+    @include pos(absolute, $t, null, null, $l);
+}
+
+@mixin right-top($r: 0, $t: 0) {
+    @include pos(absolute, $t, $r, null, null);
+}
+
+@mixin left-bottom($l: 0, $b: 0) {
+    @include pos(absolute, null, null, $b, $l);
+}
+
+@mixin right-bottom($r: 0, $b: 0) {
+    @include pos(absolute, null, $r, $b, null);
+}
+
+// Pseduo Block Element
+// Adds boilerplate to pseudo elements so that they can be treated as block elements.
+
+@mixin pseudo($content: '') {
+    content: $content;
+    display: block;
+}
+
+// Font Smoothing
+// The default will make type appear thinner and lighter on Mac (so that it more closely
+// resembles type rendering on Windows)
+
+@mixin font-smoothing($val: antialiased) {
+    -webkit-font-smoothing: $val;
+}
+
+// Gradients
+// Generates background gradients. Use autoprefixer for prefixing.
+
+// Standard linear gradient
+// .foo {
+//     @include gradient(to bottom, red 0%, white 50%, black 100%);
+// }
+@mixin gradient($direction, $stops... ) {
+    background-image: -webkit-linear-gradient($direction, $stops... );
+    background-image: linear-gradient($direction, $stops... );    
+}
+
+// Box shadow
+// Simplify the syntax used for box shadows
+
+@mixin box-shadow($offset-x: 0, $offset-y: 2px, $blur: 5px, $spread: 0, $color: rgba(black, 0.5)) {
+    box-shadow: $offset-x $offset-y $blur $spread $color;
+}
+
+@mixin box-shadow-y($offset-y, $blur, $color) {
+    @include box-shadow(0, $offset-y, $blur, 0, $color);
+}
+
+@mixin box-shadow-blur($blur, $color) {
+    @include box-shadow(0, round($blur * 0.35), $blur, 0, $color);
+}
+
+// Control reset
+// Completely resets the appearance of controls (input and button)
+
+@mixin control-reset {
+    appearance: none;
+    border: none;
+    outline: none;
+    &:focus {
+        border: none;
+        outline: none;
+    }
+    
+}
+
+// Placeholder
+// Generates styles for placeholder text for input elements. This has some weird syntax so
+// we don't rely on autoprefixing for browser prefixes.
+//
+// Details: https://stackoverflow.com/questions/17181849/placeholder-mixin-scss-css 
+//
+// Usage:
+//
+// .foo {
+//     @include placeholder {
+//         color: green;
+//     }
+// }
+//
+// @include placeholder {
+//     color: red;
+// }
+
+@mixin optional-at-root($sel) {
+    @at-root #{if(not &, $sel, selector-append(&, $sel))} {
+        @content;
+    }
+}
+
+@mixin placeholder {
+    @include optional-at-root('::-webkit-input-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root(':-moz-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root('::-moz-placeholder') {
+        @content;
+    }
+
+    @include optional-at-root(':-ms-input-placeholder') {
+        @content;
+    }
+}
+
+// Disable text selection
+@mixin noselect {
+    -webkit-touch-callout: none;
+    user-select: none;
+}
+
+// Background images
+// Helpers to simplify the process of applying a background image to a div.
+
+@mixin bg-image($src, $width, $height, $scale: 1) {
+    width: $width * $scale;
+    height: $height * $scale;
+    background-image: url($src);
+    background-repeat: no-repeat;
+    background-size: ($width * $scale) ($height * $scale);
+}
+
+@mixin bg-image-sized($src, $width, $height, $scale: 1) {
+    background-image: url($src);
+    background-repeat: no-repeat;
+    background-size: ($width * $scale) ($height * $scale);
+}
+
+@mixin bg-image-aspect($src, $imgwidth, $imgheight, $width: '100%') {
+    width: $width;
+    background-image: url($src);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    &:before {
+        display: block;
+        width: 100%;
+        padding-bottom: ($imgheight / $imgwidth) * 100%;
+        content: '';
+    }
+}
+
+@mixin bg-image-hover($src, $srchover, $width, $height, $scale: 1, $fade: 0) {
+    width: $width * $scale;
+    height: $height * $scale;
+    &:before {
+        @include left-top;
+        width: $width * $scale;
+        height: $height * $scale;
+        content: '';
+        background-image: url($src);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    &:after {
+        @include left-top;
+        width: $width * $scale;
+        height: $height * $scale;
+        content: '';
+        background-image: url($srchover);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0;
+        transition: opacity $fade;
+    }
+    &:hover {
+        &:after {
+            opacity: 1;
+        }
+    }
+}
+
+// Aspect
+
+@mixin aspect($aspect) {
+    display: block;
+    content:  '';
+    width: 100%;
+    padding-bottom: 100% * (1/$aspect);
+}
+
+@mixin aspect-after($aspect) {
+    &:after {
+        @include aspect($aspect);
+    }
+}
+
+@mixin aspect-before($aspect) {
+    &:before {
+        @include aspect($aspect);
+    }
+}
+
+
+// Helpful Constants
+
+// Cubic
+$easeInCubic     :  cubic-bezier(0.550, 0.055, 0.675, 0.190);
+$easeOutCubic    :  cubic-bezier(0.215, 0.610, 0.355, 1.000);
+$easeInOutCubic  :  cubic-bezier(0.645, 0.045, 0.355, 1.000);
+
+// Circ
+$easeInCirc      :  cubic-bezier(0.600, 0.040, 0.980, 0.335);
+$easeOutCirc     :  cubic-bezier(0.075, 0.820, 0.165, 1.000);
+$easeInOutCirc   :  cubic-bezier(0.785, 0.135, 0.150, 0.860);
+
+// Expo
+$easeInExpo      :  cubic-bezier(0.950, 0.050, 0.795, 0.035);
+$easeOutExpo     :  cubic-bezier(0.190, 1.000, 0.220, 1.000);
+$easeInOutExpo   :  cubic-bezier(1.000, 0.000, 0.000, 1.000);
+
+// Quad
+$easeInQuad      :  cubic-bezier(0.550, 0.085, 0.680, 0.530);
+$easeOutQuad     :  cubic-bezier(0.250, 0.460, 0.450, 0.940);
+$easeInOutQuad   :  cubic-bezier(0.455, 0.030, 0.515, 0.955);
+
+// Quart
+$easeInQuart     :  cubic-bezier(0.895, 0.030, 0.685, 0.220);
+$easeOutQuart    :  cubic-bezier(0.165, 0.840, 0.440, 1.000);
+$easeInOutQuart  :  cubic-bezier(0.770, 0.000, 0.175, 1.000);
+
+// Quint
+$easeInQuint     :  cubic-bezier(0.755, 0.050, 0.855, 0.060);
+$easeOutQuint    :  cubic-bezier(0.230, 1.000, 0.320, 1.000);
+$easeInOutQuint  :  cubic-bezier(0.860, 0.000, 0.070, 1.000);
+
+// Sine
+$easeInSine      :  cubic-bezier(0.470, 0.000, 0.745, 0.715);
+$easeOutSine     :  cubic-bezier(0.390, 0.575, 0.565, 1.000);
+$easeInOutSine   :  cubic-bezier(0.445, 0.050, 0.550, 0.950);
+
+// Back
+$easeInBack      :  cubic-bezier(0.600, -0.280, 0.735, 0.045);
+$easeOutBack     :  cubic-bezier(0.175,  0.885, 0.320, 1.275);
+$easeInOutBack   :  cubic-bezier(0.680, -0.550, 0.265, 1.550);
+
+// Custom
+$easeOutSmallBounce: cubic-bezier(0.175, 0.885, 0.315, 1.190);

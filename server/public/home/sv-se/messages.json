@@ -1,0 +1,54 @@
+{
+    "Header":
+    {
+        "Main": "Välkommen till Microsoft Edge",
+        "Secondary": "Kom igång"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importera dina favoriter",
+        "Tab2": "Surfa säkert",
+        "Tab3": "Anpassa med tillägg",
+        "Tab4": "Du är nu klar!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Ta dina favoriter från andra webbläsare och lägg till dem i Hubben <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Din dator är redan skyddad från skadliga programvaror, webbplatser och nedladdningar tack vare Windows Defender och SmartScreen-teknik i Microsoft Edge.",
+        "Tab3": "Anpassa Microsoft Edge med populära tillägg som Pinterests Pin It-knapp, Amazon Assistant, AdBlock, Adblock Plus och LastPass.",
+        "Tab4": "Vill du få mer tips? Klicka nedan för att visa vad som är nytt i Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importera nu",
+        "Button2": "Bekräfta att du är skyddad",
+        "Button3": "Skaffa tillägg",
+        "Button4": "Få fler tips"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Ett",
+        "Two": "Två",
+        "Three": "Tre",
+        "Favoritesillustration": "Bild på mappen Favoriter",
+        "Favoritesfolder": "Mappen Favoriter",
+        "Safetyillustration": "Bild på Säkerhetssköld",
+        "Safetyshield": "Säkerhetssköld",
+        "Extensionsillustration": "Bild på tillägg i Microsoft Edge",
+        "Extensions": "Tillägg"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Välkommen till Microsoft Edge. Kom igång. Ett. Importera dina favoriter. Två. Surfa säkert. Tre. Anpassa med tillägg.",
+        "AriaLabel2": "Bild på mappen Favoriter. Ett. Importera dina favoriter. Ta dina favoriter från andra webbläsare och lägg till dem i Hubben.",
+        "AriaLabel3": "Bild på Säkerhetssköld. Två. Surfa säkert. Din dator är redan skyddad från skadliga programvaror, webbplatser och nedladdningar tack vare Windows Defender och SmartScreen-teknik i Microsoft Edge.",
+        "AriaLabel4": "Bild på tillägg i Microsoft Edge. Tre. Anpassa med tillägg. Anpassa Microsoft Edge med populära tillägg som Pinterests Pin It-knapp, Amazon Assistant, AdBlock, Adblock Plus och LastPass.",
+        "AriaLabel5": "Du är nu klar! Vill du få mer tips? Klicka nedan för att visa vad som är nytt i Microsoft Edge.",
+        "AriaLabel6": "Få fler tips"
+    }
+}

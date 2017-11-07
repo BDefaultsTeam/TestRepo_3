@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "hr-hr",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Nešto nije bilo u redu, no riješili smo to",
+        "clearedData": "Microsoft Edge nije se mogao pravilno pokrenuti pa smo morali izbrisati neke podatke kako biste mogli nastaviti pregledavati web.",
+        "favoritesOK": "Favorite i lozinke su dobro",
+        "favoritesSaved": "Spremili smo ih za vas, bez brige.",
+        "historyAndCookies": "Povijest i kolačići",
+        "signBackIn": "Izbrisali smo ih pa ćete se morati opet prijaviti na web-mjesta.",
+        "settingsExtensions": "Postavke i proširenja",
+        "changedSettings": "Ako ste mijenjali postavke ili proširenja, morat ćete to ponoviti."
+    }
+}

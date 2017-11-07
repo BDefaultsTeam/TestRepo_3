@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "et-ee",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Midagi valesti, kuid me lahendasime selle",
+        "clearedData": "Microsoft Edge ei käivitunud õigesti, seega pidime andmeid kustutama, et saaksid uuesti veebilehti sirvida.",
+        "favoritesOK": "Lemmikute ja paroolidega on kõik korras",
+        "favoritesSaved": "Me salvestasime need sinu jaoks, seega ära muretse.",
+        "historyAndCookies": "Ajalugu ja küpsised",
+        "signBackIn": "Need tühjendati, seega pead uuesti veebilehtedel sisse logima.",
+        "settingsExtensions": "Sätted ja laiendused",
+        "changedSettings": "Kui muutsite mõnd sätet või laiendit, peate seda uuesti tegema."
+    }
+}

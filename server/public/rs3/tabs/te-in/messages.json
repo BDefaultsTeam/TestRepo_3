@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edgeకి స్వాగతం",
+    "speedGetStarted": "ఇప్పుడే ప్రారంభించండి",
+    "importBookmarks": "మీ బుక్‌మార్క్‌లను దిగుమతి చేసుకోండి",
+    "customizeWithExtensions": "పొడిగింపులను అనుకూలీకరించండి",
+    "seeWhatsNew": "కొత్తవి ఏమిటో చూడండి",
+    "tabsWelcomeWindows10": "<span class=\"g1\">ఈ <strong>వేగవంతమైన</strong>,</span>&nbsp;<span class=\"g1\"><strong>సురక్షితం</strong> బ్రౌజర్</span>&nbsp;<span class=\"g2\">Windows 10 కోసం సృజించబడినది.</span>",
+    "tabsWelcomeClaim": "<strong>టాబ్ గడబిడ</strong> &mdash; పరిష్కృతమైనది!",
+    "tabsTabPreviews": "టాబ్ పూర్వదర్శనాలతోమీ పేజీలను కనుగొనండి",
+    "tabsOneAtATime": "ఒక్కటి ఒక్కసారికే",
+    "tabsAllAtOnce": "లేదా అన్ని ఒక్కసారే",
+    "tabsForLater": "తరువాత కోసం టాబ్‌లను పక్కకిపెట్టండి",
+    "tabsBringBack": "ఒక్క క్లిక్‌తో వాటిని వెనక్కి తెండి",
+	"welcomeTagline1":"ఈ <strong>వేగవంతమైన</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>సురక్షితం</strong> బ్రౌజర్&nbsp;",
+	"welcomeTagline3":"Windows 10 కోసం సృజించబడినది."
+}

@@ -1,0 +1,19 @@
+﻿{
+	"speedWelcomeToEdge": "Ti diamo il benvenuto in Microsoft Edge",
+    "speedWelcomeWindows10": "<span class=\"g1\">Il browser <strong>più veloce</strong></span>&nbsp;<span class=\"g1\"><strong>e più sicuro</strong></span>&nbsp;<span class=\"g2\">progettato per Windows 10.</span>",
+    "speedFaster": "Più veloce sia di Chrome che di Firefox",
+    "speedGooglesBenchmark": "",
+    "speedMicrosoftEdge": "Microsoft Edge <br>",
+    "speedFastest": "Ancora più veloce",
+    "speedScore": "Valutazione della velocità",
+    "speedChrome": "Google Chrome",
+    "speedChromeSlower": "<strong>&mdash;</strong> 5% più lento",
+    "speedFirefox": "Mozilla Firefox",
+    "speedFirefoxSlower": "<strong>&mdash;</strong> 9% più lento",
+    "speedBasedOn": "",
+    "speedDetailsHere": "Vedi i dettagli qui.",
+    "speedGetStarted": "Inizia subito",
+    "importBookmarks": "Importa i tuoi segnalibri",
+    "customizeWithExtensions": "Personalizza con le estensioni",
+    "seeWhatsNew": "Scopri le novità"
+}

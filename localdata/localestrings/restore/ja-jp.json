@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "ja-jp",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "何らかのエラーが発生しましたが、問題は解決されました",
+        "clearedData": "Microsoft Edge が正しく起動されなかったため、一部のデータを消去いたしました。",
+        "favoritesOK": "お気に入りとパスワードは消去されておりません",
+        "favoritesSaved": "お気に入りとパスワードは元の状態のまま保存されているので、問題ございません。",
+        "historyAndCookies": "履歴と Cookie",
+        "signBackIn": "履歴と Cookie は削除されたため、各Web サイト上で再度サインインする必要があります。",
+        "settingsExtensions": "設定と拡張機能",
+        "changedSettings": "これまでに設定や拡張機能を変更されている場合、再度設定する必要があります。"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "Header":
+    {
+        "Main": "Chào mừng bạn đến với Microsoft Edge",
+        "Secondary": "Hãy bắt đầu thiết lập"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Nhập mục ưa thích của bạn",
+        "Tab2": "Lướt web an toàn",
+        "Tab3": "Tùy chỉnh với tiện ích mở rộng",
+        "Tab4": "Bạn đã sẵn sàng bắt đầu!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Nhập các mục ưa thích từ các trình duyệt khác và xem chúng trong Hub <span id=\"lblHubIcon\"></span>",
+        "Tab2": "Với Bộ bảo vệ Windows và công nghệ SmartScreen trong Microsoft Edge, máy tính của bạn đã được bảo vệ khỏi phần mềm, các trang web và nội dung tải xuống độc hại.",
+        "Tab3": "Cá nhân hóa Microsoft Edge với các tiện ích mở rộng phổ biến như nút Pin It của Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass và nhiều hơn nữa.",
+        "Tab4": "Bạn muốn nhận thêm mẹo? Bấm vào bên dưới để xem thông tin mới về Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Nhập ngay",
+        "Button2": "Xác nhận rằng bạn đang được bảo vệ ",
+        "Button3": "Tải tiện ích mở rộng",
+        "Button4": "Nhận thêm mẹo"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Một",
+        "Two": "Hai",
+        "Three": "Ba",
+        "Favoritesillustration": "Minh họa thư mục ưa thích",
+        "Favoritesfolder": "Thư mục ưa thích",
+        "Safetyillustration": "Minh họa khiên an toàn",
+        "Safetyshield": "Khiên an toàn",
+        "Extensionsillustration": "Minh họa tiện ích mở rộng trong Microsoft Edge",
+        "Extensions": "Tiện ích mở rộng"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Chào mừng bạn đến với Microsoft Edge. Hãy bắt đầu thiết lập. Một. Nhập mục ưa thích của bạn. Hai. Lướt web an toàn. Ba. Tùy chỉnh với tiện ích mở rộng.",
+        "AriaLabel2": "Thư mục ưa thích. Một. Nhập mục ưa thích của bạn. Nhập các mục ưa thích từ các trình duyệt khác và xem chúng trong Hub.",
+        "AriaLabel3": "Minh họa khiên an toàn. Hai. Lướt web an toàn. Với Bộ bảo vệ Windows và công nghệ SmartScreen trong Microsoft Edge, máy tính của bạn đã được bảo vệ khỏi phần mềm, các trang web và nội dung tải xuống độc hại.",
+        "AriaLabel4": "Minh họa tiện ích mở rộng trong Microsoft Edge. Ba. Tùy chỉnh với tiện ích mở rộng. Cá nhân hóa Microsoft Edge với các tiện ích mở rộng phổ biến như nút Pin It của Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass và nhiều hơn nữa.",
+        "AriaLabel5": "Bạn đã sẵn sàng bắt đầu!. Bạn muốn nhận thêm mẹo? Bấm vào bên dưới để xem thông tin mới về Microsoft Edge.",
+        "AriaLabel6": "Nhận thêm mẹo."
+    }
+}

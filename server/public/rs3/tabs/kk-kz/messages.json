@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge браузеріне қош келдіңіз",
+    "speedGetStarted": "Қазір бастау",
+    "importBookmarks": "Белгілеріңізді импорттау",
+    "customizeWithExtensions": "Кеңейтімдермен реттеу",
+    "seeWhatsNew": "Жаңалықтарды көру",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Windows 10 жүйесіне арналған</span>&nbsp;<span class=\"g1\"><strong>жылдамырақ</strong>,</span>&nbsp;<span class=\"g2\"><strong>қауіпсіздеу</strong> браузер.</span>",
+    "tabsWelcomeClaim": "<strong>Қойынды ретсіздігі</strong> &mdash; шешілді!",
+    "tabsTabPreviews": "Қойындыны алдын ала қарау мүмкіндігі бар беттерді табу",
+    "tabsOneAtATime": "Біртіндеп",
+    "tabsAllAtOnce": "немесе барлығын бірден",
+    "tabsForLater": "Қойындыларды кейін ысырып қоюға орнату",
+    "tabsBringBack": "Бір рет басып барлығын қайтару",
+    "welcomeTagline1":"Windows 10 жүйесіне арналған&nbsp;",
+    "welcomeTagline2":"<strong>жылдамырақ</strong>,&nbsp;",
+    "welcomeTagline3":"<strong>қауіпсіздеу</strong> браузер."
+	}

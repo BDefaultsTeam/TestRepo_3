@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "nl-nl",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Er is iets misgegaan, maar we hebben het opgelost",
+        "clearedData": "Aangezien Microsoft Edge niet wilde openen, hebben we een aantal gegevens gewist om dit te corrigeren.",
+        "favoritesOK": "Je favorieten en wachtwoorden zijn er nog",
+        "favoritesSaved": "We hebben deze voor je opgeslagen.",
+        "historyAndCookies": "Geschiedenis en cookies",
+        "signBackIn": "Deze zijn verwijderd, zodat je je opnieuw bij websites moet aanmelden.",
+        "settingsExtensions": "Instellingen en extensies",
+        "changedSettings": "Als je instellingen hebt gewijzigd of extensies hebt toegevoegd, dien je dit opnieuw te doen."
+    }
+}

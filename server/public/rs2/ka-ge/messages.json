@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "მოგესალმებათ Microsoft Edge",
+    "speedGetStarted": "დაიწყეთ ახლა",
+    "importBookmarks": "მოახდინეთ სანიშნეების იმპორტირება",
+    "customizeWithExtensions": "მოირგეთ გაფართოებების საშუალებით",
+    "seeWhatsNew": "იხილეთ სიახლეები",
+    "tabsWelcomeWindows10": "<span class=\"g1\">უფრო <strong>სწრაფი</strong>,</span>&nbsp;<span class=\"g1\"><strong>უსაფრთხო</strong> ბრაუზერი</span>&nbsp;<span class=\"g2\">სპეციალურად Windows 10-ისთვის.</span>",
+    "tabsWelcomeClaim": "<strong>ჩანართების ქაოტური განლაგება</strong> &mdash; წარსულს ჩაბარდა!",
+    "tabsTabPreviews": "მოძებნეთ გვერდები ჩანართებზე გადახედვით",
+    "tabsOneAtATime": "სათითაოდ",
+    "tabsAllAtOnce": "ან ყველა ერთად",
+    "tabsForLater": "გადადეთ ჩანართები მოგვიანებით დასათვალიერებლად",
+    "tabsBringBack": "ეკრანზე დააბრუნეთ ერთი დაწკაპუნებით",
+    "welcomeTagline1":"უფრო <strong>სწრაფი</strong>,&nbsp;",
+    "welcomeTagline2":"<strong>უსაფრთხო</strong> ბრაუზერი&nbsp;",
+    "welcomeTagline3":"სპეციალურად Windows 10-ისთვის."
+}

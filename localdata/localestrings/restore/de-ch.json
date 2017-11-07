@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "de-ch",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Fehler behoben",
+        "clearedData": "Microsoft Edge konnte nicht ordnungsgemäss gestartet werden. Wir mussten einige Daten löschen, damit Sie das Internet wieder nutzen können.",
+        "favoritesOK": "Favoriten und Kennwörter sind OK",
+        "favoritesSaved": "Diese Daten wurden gespeichert. Es sind keine Probleme zu erwarten.",
+        "historyAndCookies": "Verlauf und Cookies",
+        "signBackIn": "Diese Daten wurden gelöscht, daher müssen Sie sich bei Websites erneut anmelden.",
+        "settingsExtensions": "Einstellungen und Erweiterungen",
+        "changedSettings": "Änderungen an Einstellungen und Erweiterungen müssen erneut vorgenommen werden."
+    }
+}

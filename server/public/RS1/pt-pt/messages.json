@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Bem-vindo ao Microsoft Edge",
+        "Secondary": "Vamos começar a configuração"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importe os seus favoritos",
+        "Tab2": "Navegue em segurança",
+        "Tab3": "Personalize com extensões",
+        "Tab4": "Está pronto!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Veja os seus favoritos de outros browsers no Hub  <span id=\"lblHubIcon\"></span>",
+        "Tab2": "Com o Windows Defender e a tecnologia SmartScreen no Microsoft Edge, o seu PC já está protegido contra Web sites, transferências e software maliciosos.",
+        "Tab3": "Personalize o Microsoft Edge com extensões populares com o botão Pin It do Pinterest, o Amazon Assistant, o AdBlock, o Adblock Plus, o LastPass e muito mais.",
+        "Tab4": "Quer mais sugestões? Clique abaixo para ver as novidades do Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importe agora",
+        "Button2": "Confirme se está abrangido",
+        "Button3": "Obtenha extensões",
+        "Button4": "Obtenha mais sugestões"
+    }
+	,
+    "Alt":
+    {
+        "One": "Um",
+        "Two": "Dois",
+		"Three": "Três",
+		"Favoritesillustration": "Ilustração da pasta Favoritos",
+		"Favoritesfolder": "Pasta Favoritos",
+		"Safetyillustration": "Ilustração do escudo de segurança",
+		"Safetyshield": "Escudo de segurança",
+		"Extensionsillustration": "Ilustração de Extensões no Microsoft Edge",
+		"Extensions": "Extensões"
+    }
+,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Bem-vindo ao Microsoft Edge. Vamos começar a configuração. Um. Importe os seus favoritos. Dois. Navegue em segurança. Três. Personalize com extensões.",
+        "AriaLabel2": "Ilustração da pasta Favoritos. Um. Importe os seus favoritos. Veja os seus favoritos de outros browsers no Hub.",
+        "AriaLabel3": "Ilustração do escudo de segurança. Dois. Navegue em segurança.Com o Windows Defender e a tecnologia SmartScreen no Microsoft Edge, o seu PC já está protegido contra Web sites, transferências e software maliciosos.",
+        "AriaLabel4": "Ilustração de Extensões no Microsoft Edge. Três. Personalize com extensões. Personalize o Microsoft Edge com extensões populares com o botão Pin It do Pinterest, o Amazon Assistant, o AdBlock, o Adblock Plus, o LastPass e muito mais.",
+        "AriaLabel5": "Está pronto. Quer mais sugestões? Clique abaixo para ver as novidades do Microsoft Edge.",
+        "AriaLabel6": "Obtenha mais sugestões"
+    }
+}

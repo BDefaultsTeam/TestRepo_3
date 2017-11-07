@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "hu-hu",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Hiba történt, de sikerült megoldanunk.",
+        "clearedData": "A Microsoft Edge nem tudott megfelelően elindulni, ezért törölnünk kellett néhány adatot, hogy folytathasd a weben való böngészést.",
+        "favoritesOK": "A kedvencek és a jelszavak rendben",
+        "favoritesSaved": "Ezeket az adatokat mentettük, tehát innen nem hiányzik semmi.",
+        "historyAndCookies": "Előzmények és cookie-k",
+        "signBackIn": "Ezeket töröltük, ezért vissza kell jelentkezned a webhelyekre.",
+        "settingsExtensions": "Beállítások és bővítmények",
+        "changedSettings": "Ha módosítottad bármelyik beállítást vagy bővítményt, akkor újból el kell végezned ezt a műveletet."
+    }
+}

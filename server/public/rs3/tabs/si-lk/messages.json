@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge වෙත සාදරයෙන් පිළිගනිමු",
+    "speedGetStarted": "දැන් ආරම්භ",
+    "importBookmarks": "ඔබගේ පිටුසන් ආයාත කරන්න",
+    "customizeWithExtensions": "දිගු සමග අභිරුචිකරණය කරන්න",
+    "seeWhatsNew": "අලුතින් මොනවාදැයි බලන්න",
+    "tabsWelcomeWindows10": "<span class=\"g1\">Windows 10 සඳහා සැලසුම් කළ</span>&nbsp;<span class=\"g1\"><strong>වඩා වේගවත්</strong>,</span>&nbsp;<span class=\"g2\"><strong>වඩා ආරක්ෂිත</strong> බ්‍රව්සරය.</span>",
+    "tabsWelcomeClaim": "<strong>පටිති ව්‍යාකූලත්වය</strong> &mdash; විසඳන ලදී!",
+    "tabsTabPreviews": "ඔබගේ පටිති පෙරදසුන් සහිත පිටු සොයාගන්න",
+    "tabsOneAtATime": "වරකට එකක්",
+    "tabsAllAtOnce": "හෝ සියල්ල එකවර",
+    "tabsForLater": "පටිති පසුවට පසෙකින් තබන්න",
+    "tabsBringBack": "ක්ලික් කිරීමකින් ඒවා ආපසු ගෙන එන්න",
+	"welcomeTagline1":"Windows 10 සඳහා සැලසුම් කළ&nbsp;",
+	"welcomeTagline2":"<strong>වඩා වේගවත්</strong>,&nbsp;",
+	"welcomeTagline3":"<strong>වඩා ආරක්ෂිත</strong> බ්‍රව්සරය."
+}

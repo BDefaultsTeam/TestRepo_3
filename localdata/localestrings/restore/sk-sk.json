@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "sk-sk",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Vyskytla sa chyba, ale podarilo sa ju vyriešiť",
+        "clearedData": "Microsoft Edge sa nepodarilo spustiť správne, preto sme museli vymazať niektoré údaje, aby ste mohli pokračovať v prehliadaní webových stránok.",
+        "favoritesOK": "Obľúbené položky a heslá sú v poriadku",
+        "favoritesSaved": "Uložili sme ich pre vás, takže tu nie je žiadny problém.",
+        "historyAndCookies": "História a súbory cookie",
+        "signBackIn": "Tieto boli vymazané, preto sa budete musieť znova prihlásiť k webovým lokalitám.",
+        "settingsExtensions": "Nastavenia a rozšírenia",
+        "changedSettings": "Ak ste zmenili nejaké nastavenia alebo rozšírenia, budete to musieť urobiť znova."
+    }
+}

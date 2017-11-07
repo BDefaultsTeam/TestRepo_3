@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Welkom bij Microsoft Edge",
+        "Secondary": "Kom, we gaan je klaar maken"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importeer je favorieten",
+        "Tab2": "Surf veilig",
+        "Tab3": "Personaliseer via uitbreidingen",
+        "Tab4": "Je bent er helemaal klaar voor!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Haal je favoriete websites vanuit andere browsers en bekijk ze in de Hub <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Met Windows Defender en SmartScreen-technologie in Microsoft Edge is je pc al beveiligd tegen schadelijke software, websites en downloads.",
+        "Tab3": "Personaliseer je Microsoft Edge-browser met populaire uitbreidingen zoals de Pinterest's Pin It-knop, Amazon Assistant, AdBlock, Adblock Plus, LastPass en veel meer.",
+        "Tab4": "Wil je meer tips? Klik hieronder om te zien wat er nieuw is aan Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importeer nu",
+        "Button2": "Voel je veilig",
+        "Button3": "Download uitbreidingen",
+        "Button4": "Krijg meer tips"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Een",
+        "Two": "Twee",
+        "Three": "Drie",
+        "Favoritesillustration": "Afbeeldingen Favorieten map",
+        "Favoritesfolder": "Favorieten map",
+        "Safetyillustration": "Afbeelding veiligheidsschild",
+        "Safetyshield": "Veiligheidsschild",
+        "Extensionsillustration": "Afbeelding uitbreidingen in Microsoft Edge",
+        "Extensions": "Uitbreidingen"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Welkom bij Microsoft Edge. Kom, we gaan je klaar maken. Een. Importeer je favorieten. Twee. Surf veilig. Drie. Personaliseer via uitbreidingen.",
+        "AriaLabel2": "Favorieten map. Een. Importeer je favorieten. Haal je favoriete websites vanuit andere browsers en bekijk ze in de Hub.",
+        "AriaLabel3": "Afbeelding veiligheidsschild. Twee. Surf veilig. Met Windows Defender en SmartScreen-technologie in Microsoft Edge is je pc al beveiligd tegen schadelijke software, websites en downloads.",
+        "AriaLabel4": "Afbeelding uitbreidingen in Microsoft Edge. Drie. Personaliseer via uitbreidingen. Personaliseer je Microsoft Edge-browser met populaire uitbreidingen zoals de Pinterest's Pin It-knop, Amazon Assistant, AdBlock, Adblock Plus, LastPass en veel meer.",
+        "AriaLabel5": "Je bent er helemaal klaar voor!. Wil je meer tips? Klik hieronder om te zien wat er nieuw is aan Microsoft Edge.",
+        "AriaLabel6": "Krijg meer tips."
+    }
+}

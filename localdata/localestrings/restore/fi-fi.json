@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "fi-fi",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Jotakin meni vikaan, mutta ongelma selvitettiin",
+        "clearedData": "Microsoft Edgen käynnistys ei onnistunut, joten tyhjensimme joitakin tietoja, jotta pääset selaamaan Internetiä.",
+        "favoritesOK": "Suosikit ja salasanat ovat kunnossa",
+        "favoritesSaved": "Ne on tallennettu puolestasi, joten ei hätää.",
+        "historyAndCookies": "Historia ja evästeet",
+        "signBackIn": "Nämä tyhjennettiin, joten sinun on kirjauduttava uudelleen sivustoille.",
+        "settingsExtensions": "Asetukset ja laajennukset",
+        "changedSettings": "Jos olet tehnyt muutoksia asetuksiin tai laajennuksiin, ne on tehtävä uudelleen."
+    }
+}

@@ -1,0 +1,56 @@
+﻿{
+    "Header":
+    {
+        "Main": "Velkommen til Microsoft Edge",
+        "Secondary": "Lad os få din konfiguration klaret"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Hent dine ting",
+        "Tab2": "Surf sikkert",
+        "Tab3": "Tilpas med udvidelser",
+        "Tab4": "Du er klar til at gå i gang!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Vi overfører bogmærker og andre oplysninger fra en anden browser, så du føler dig hjemme med det samme.",
+        "Tab2": "Med Windows Defender- og SmartScreen-teknologi i Microsoft Edge er din pc allerede beskyttet mod ondartede softwareprogrammer, websteder og downloads.",
+        "Tab3": "Tilpas Microsoft Edge med populære udvidelser som Pinterests Pin It-knap, Amazon Assistant, AdBlock, Adblock Plus, LastPass mv. ",
+        "Tab4": "Vil du have flere tip? Klik herunder for at se nyhederne i Micros-oft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Start",
+        "Button2": "Bekræft, at du er dækket",
+        "Button3": "Få udvidelser",
+        "Button4": "Få flere tip"
+    }
+	,
+    "Alt":
+    {
+        "One": "En",
+        "Two": "To",
+		"Three": "Tre",
+		"Favoritesillustration": "Illustration af mappen Favoritter",
+		"Favoritesfolder": "Mappen Favoritter",
+		"Safetyillustration": "Illustration af sikkerhedsskjold",
+		"Safetyshield": "Sikkerhedsskjold",
+		"Extensionsillustration": "Illustration af udvidelser i Microsoft Edge",
+		"Extensions": "Udvidelser"
+  
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Velkommen til Microsoft Edge. Lad os få din konfiguration klaret. En. Hent dine ting. To. Surf sikkert. Tre. Tilpas med udvidelser.",
+        "AriaLabel2": "Illustration af mappen Favoritter. En. Hent dine ting. Vi overfører bogmærker og andre oplysninger fra en anden browser, så du føler dig hjemme med det samme.",
+        "AriaLabel3": "Illustration af sikkerhedsskjold. To. Surf sikkert. Med Windows Defender- og SmartScreen-teknologi i Microsoft Edge er din pc allerede beskyttet mod ondartede softwareprogrammer, websteder og downloads.",
+        "AriaLabel4": "Illustration af udvidelser i Microsoft Edge. Tre. Tilpas med udvidelser. Tilpas Microsoft Edge med populære udvidelser som Pinterests Pin It-knap, Amazon Assistant, AdBlock, Adblock Plus, LastPass mv.",
+        "AriaLabel5": "Du er klar til at gå i gang! Vil du have flere tip? Klik herunder for at se nyhederne i Microsoft Edge.",
+        "AriaLabel6": "Få flere tip"
+    }
+
+}

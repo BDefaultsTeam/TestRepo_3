@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "歡迎使用 Microsoft Edge",
+    "speedGetStarted": "立即開始使用",
+    "importBookmarks": "匯入您的書籤",
+    "customizeWithExtensions": "透過擴充功能進行自訂",
+    "seeWhatsNew": "查看新功能",
+    "tabsWelcomeWindows10": "<span class=\"g1\">專為 Windows 10 設計的</span><span class=\"g1\"><strong>更快速</strong>、</span><span class=\"g2\"><strong>更安全</strong>的瀏覽器。</span>",
+    "tabsWelcomeClaim": "<strong>索引標籤亂成一團</strong> &mdash; 沒問題！",
+    "tabsTabPreviews": "利用索引標籤預覽尋找您的網頁",
+    "tabsOneAtATime": "一次一個",
+    "tabsAllAtOnce": "或全部一起",
+    "tabsForLater": "把索引標籤放到一旁供稍後用",
+    "tabsBringBack": "只要按一下就能重新顯示",
+	"welcomeTagline1":"專為 Windows 10 設計的",
+	"welcomeTagline2":"<strong>更快速</strong>、",
+	"welcomeTagline3":"<strong>更安全</strong>的瀏覽器。"
+}

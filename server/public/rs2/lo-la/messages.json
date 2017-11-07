@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "ຍິນດີຕ້ອນຮັບສູ່ Microsoft Edge",
+    "speedGetStarted": "ເລີ່ມຕົ້ນເລີຍ",
+    "importBookmarks": "ນຳເຂົ້າ ບຸກມາກຂອງທ່ານ",
+    "customizeWithExtensions": "ກຳນົດສ່ວນເພີ່ມເອົາເອງ",
+    "seeWhatsNew": "ເບິ່ງສິ່ງໃໝ່",
+    "tabsWelcomeWindows10": "<span class=\"g1\">ບຣາວເຊີ <strong>ທີ່ໄວກວ່າ</strong>,</span>&nbsp;<span class=\"g1\"><strong>ປອດໄພກວ່າ</strong> ອອກແບບມາ</span>&nbsp;<span class=\"g2\">ສຳລັບ Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Tab chaos</strong> &mdash; ຖືກແກ້ໄຂແລ້ວ!",
+    "tabsTabPreviews": "ຊອກຫາໜ້າຂອງທ່ານດ້ວຍຕົວຢ່າງແຖບ",
+    "tabsOneAtATime": "ເທື່ອລະຄັ້ງ",
+    "tabsAllAtOnce": "ຫຼື ທັງໝົດຄັ້ງດຽວ",
+    "tabsForLater": "ຕັ້ງ aside tabs ພາຍຫຼັງ",
+    "tabsBringBack": "ນຳເອົາພວກມັນກັບຄືນດ້ວຍໜຶ່ງຄລິກ",
+	"welcomeTagline1":"ບຣາວເຊີ <strong>ທີ່ໄວກວ່າ</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>ປອດໄພກວ່າ</strong> ອອກແບບມາ&nbsp;",
+	"welcomeTagline3":"ສຳລັບ Windows 10."
+}

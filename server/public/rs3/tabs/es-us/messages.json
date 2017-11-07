@@ -1,0 +1,17 @@
+﻿{
+	"speedWelcomeToEdge": "Bienvenido a Microsoft Edge",
+	"speedGetStarted": "Empieza ya",
+	"importBookmarks": "Importa tus favoritos",
+	"customizeWithExtensions": "Personaliza con extensiones",
+	"seeWhatsNew": "Entérate de lo nuevo",
+	"tabsWelcomeWindows10": "<span class=\"g1\">El explorador más <strong>rápido</strong> y</span>&nbsp;<span class=\"g1\"><strong>seguro</strong></span>&nbsp;<span class=\"g2\">diseñado para Windows 10.</span>",
+	"tabsWelcomeClaim": "<strong>Desorden de pestañas</strong> resuelto.",
+	"tabsTabPreviews": "Encuentra tus páginas con la vista previa de pestañas",
+	"tabsOneAtATime": "Una a una",
+	"tabsAllAtOnce": "Todas a la vez",
+	"tabsForLater": "Guarda las pestañas para más tarde",
+	"tabsBringBack": "Recupéralas con un clic",
+    "welcomeTagline1":"El explorador más <strong>rápido</strong> y&nbsp;",
+    "welcomeTagline2":"<strong>seguro</strong>&nbsp;",
+    "welcomeTagline3":"der er designet til Windows 10."
+}

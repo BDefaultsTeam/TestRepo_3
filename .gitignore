@@ -1,0 +1,31 @@
+# files built for the web
+server/public/css/
+server/public/scripts/
+temp/
+
+# CDN versions
+server/cdnVersions.json
+
+# files synced from Azure data
+# server/sync/
+snapshots
+
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Sublime files
+*.sublime-*
+
+# dev environment specific settings
+server/settings.dev.json
+
+# WebStorm files
+.idea
+
+# NodeJS modules
+node_modules
+
+# logs
+*.log
+logs/

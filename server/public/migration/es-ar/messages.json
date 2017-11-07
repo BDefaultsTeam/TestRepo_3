@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Bienvenido a Microsoft Edge",
+        "Secondary": "Preparemos la configuración"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Tené todas tus cosas a mano",
+        "Tab2": "Explorá de forma segura",
+        "Tab3": "Personalizá con extensiones",
+        "Tab4": "¡Ya estás listo comenzar!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Importaremos tus marcadores e información de otros buscadores para que te sintás como en casa.",
+        "Tab2": "Con Windows Defender y la tecnología SmartScreen en Microsoft Edge, tu PC ya está protegido de software, sitios web y descargas malintencionadas.",
+        "Tab3": "Personalizá Microsoft Edge con extensiones populares como el botón Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, entre otros. ",
+        "Tab4": "¿Deseás más consejos? Hacé clic a continuación para ver las novedades de Microsoft Edge."        
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Comencemos",
+        "Button2": "Tenemos lo que estás buscando",
+        "Button3": "Conseguí extensiones",
+        "Button4": "Obtené más consejos"
+    }
+	,
+    "Alt":
+    {
+        "One": "Uno",
+        "Two": "Dos",
+		"Three": "Tres",
+		"Favoritesillustration": "Ilustración de la carpeta de favoritos",
+		"Favoritesfolder": "Carpeta de favoritos",
+		"Safetyillustration": "Ilustración del escudo de seguridad",
+		"Safetyshield": "Escudo de seguridad",
+		"Extensionsillustration": "Extensiones en la ilustración de Microsoft Edge",
+		"Extensions": "Extensiones"
+    }
+	,
+	"AriaLabel":
+    {
+        "AriaLabel1": "Bienvenido a Microsoft Edge. Preparemos la configuración. Uno. Tené todas tus cosas a mano. Dos. Explorá de forma segura. Tres. Personalizá con extensiones.",
+        "AriaLabel2": "Ilustración de la carpeta de favoritos. Uno. Tené todas tus cosas a mano. Importaremos tus marcadores e información de otros buscadores para que te sintás como en casa.",
+        "AriaLabel3": "Ilustración del escudo de seguridad. Dos. Explorá de forma segura. Con Windows Defender y la tecnología SmartScreen en Microsoft Edge, tu PC ya está protegido de software, sitios web y descargas malintencionadas.",
+        "AriaLabel4": "Extensiones en la ilustración de Microsoft Edge. Tres. Personalizá con extensiones. Personalizá Microsoft Edge con extensiones populares como el botón Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, entre otros.",
+        "AriaLabel5": "¡Ya estás listo comenzar!. ¿Deseás más consejos? Hacé clic a continuación para ver las novedades de Microsoft Edge.",
+        "AriaLabel6": "Obtené más consejos"
+    }
+}

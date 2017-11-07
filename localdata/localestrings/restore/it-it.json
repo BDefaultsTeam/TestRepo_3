@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "it-it",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Si è verificato un problema ma lo abbiamo risolto",
+        "clearedData": "Microsoft Edge non riusciva ad avviarsi correttamente, quindi abbiano dovuto cancellare alcuni dati per ripristinare le funzionalità.",
+        "favoritesOK": "Preferiti e password sono a posto",
+        "favoritesSaved": "Li abbiamo salvati per te, quindi non devi fare nulla.",
+        "historyAndCookies": "Cronologia e cookie",
+        "signBackIn": "Questi dati sono stati cancellati, quindi dovrai ripetere l'accesso ai siti Web.",
+        "settingsExtensions": "Impostazioni ed estensioni",
+        "changedSettings": "Se avevi modificato impostazioni o estensioni, dovrai farlo di nuovo."
+    }
+}

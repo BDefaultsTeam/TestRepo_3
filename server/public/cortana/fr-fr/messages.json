@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Bienvenue sur Microsoft Edge",
+        "Secondary": "Laissez-nous vous aider à être opérationnel"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importez vos données personnelles",
+        "Tab2": "Laissez Cortana vous aider",
+        "Tab3": "Personnalisez avec des extensions",
+        "Tab4": "Vous êtes prêt !"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Nous importerons vos signets et autres infos d'un autre navigateur afin que vous vous sentiez chez vous.",
+        "Tab2": "Obtenez un accès instantané aux critiques, recommandations et coupons ou recherchez des mots inconnus sans quitter la page actuelle.",
+        "Tab3": "Personnalisez Microsoft Edge avec des extensions à la mode comme notamment le bouton Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass et bien d'autres encore. ",
+        "Tab4": "Plus de conseils ? Cliquez ci-dessous pour voir les nouveautés de Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importer",
+        "Button2": "Configurer Cortana",
+        "Button3": "Obtenez des extensions",
+        "Button4": "Plus de conseils"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Un",
+        "Two": "Deux",
+        "Three": "Trois",
+        "Favoritesillustration": "Illustration du dossier Favoris",
+        "Favoritesfolder": "Dossier Favoris",
+        "Safetyillustration": "Illustration d'un bouclier de protection",
+        "Safetyshield": "Bouclier de protection",
+        "Extensionsillustration": "Illustration des extensions dans Microsoft Edge",
+        "Extensions": "Extensions"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Bienvenue sur Microsoft Edge. Laissez-nous vous aider à être opérationnel. Un. Importez vos données personnelles. Deux. Laissez Cortana vous aider. Trois. Personnalisez avec des extensions.",
+        "AriaLabel2": "Illustration du dossier Favoris. Un. Importez vos données personnelles. Nous importerons vos signets et autres infos d'un autre navigateur afin que vous vous sentiez chez vous.",
+        "AriaLabel3": "Illustration d'un bouclier de protection. Deux. Laissez Cortana vous aider. Obtenez un accès instantané aux critiques, recommandations et coupons ou recherchez des mots inconnus sans quitter la page actuelle.",
+        "AriaLabel4": "Illustration des extensions dans Microsoft Edge. Trois. Personnalisez avec des extensions. Personnalisez Microsoft Edge avec des extensions à la mode comme notamment le bouton Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass et bien d'autres encore.",
+        "AriaLabel5": "Vous êtes prêt! Plus de conseils ? Cliquez ci-dessous pour voir les nouveautés de Microsoft Edge.",
+        "AriaLabel6": "Plus de conseils"
+    }
+}

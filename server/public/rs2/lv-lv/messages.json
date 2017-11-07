@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge iepazīšanās",
+    "speedGetStarted": "Sākt darbu tūlīt",
+    "importBookmarks": "Importēt grāmatzīmes",
+    "customizeWithExtensions": "Pielāgot, izmantojot paplašinājumus",
+    "seeWhatsNew": "Skatīt jaunumus",
+    "tabsWelcomeWindows10": "<span class=\"g1\"><strong>Ātrāka</strong> un</span>&nbsp;<span class=\"g1\"><strong>drošāka</strong> pārlūkprogramma,</span>&nbsp;<span class=\"g2\"> kas veidota tieši operētājsistēmai Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Ciļņu haoss</strong> &mdash; atrisināts!",
+    "tabsTabPreviews": "Atrodiet savas lapas, izmantojot ciļņu priekšskatījumu",
+    "tabsOneAtATime": "Viena vienā reizē",
+    "tabsAllAtOnce": "Vai visas kopā",
+    "tabsForLater": "Iestatiet novirzītās cilnes vēlākam laikam",
+    "tabsBringBack": "Iegūstiet tās atpakaļ noklikšķinot",
+	"welcomeTagline1":"<strong>Ātrāka</strong> un&nbsp;",
+	"welcomeTagline2":"<strong>drošāka</strong> pārlūkprogramma,&nbsp; ",
+	"welcomeTagline3":"kas veidota tieši operētājsistēmai Windows 10."
+}

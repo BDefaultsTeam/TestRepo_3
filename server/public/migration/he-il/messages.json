@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "ברוך הבא ל- Microsoft Edge",
+        "Secondary": "בוא נתחיל בהגדרה"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "קבלו את המידע שלכם",
+        "Tab2": "גלוש בבטחה",
+        "Tab3": "התאם אישית בעזרת הרחבות",
+        "Tab4": "אתה מוכן לצאת לדרך!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "אנו נעביר את הסימניות שלכם וכן מידע נוסף מדפדפן אחר, כך שתוכלו להרגיש בבית.",
+        "Tab2": "עם Windows Defender וטכנולוגיית SmartScreen ב- Microsoft Edge, המחשב שלך כבר מוגן מפני תוכנות, הורדות ואתרים זדוניים.",
+        "Tab3": "התאם אישית את Microsoft Edge עם הרחבות פופולריות כמו לחצן Pin It של Pinterest, ‏Amazon Assistant, ‏AdBlock, ‏Adblock Plus, ‏LastPass ועוד. ",
+        "Tab4": "רוצה עצות נוספות? לחץ בהמשך כדי לראות מה חדש ב- Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "בואו נתחיל",
+        "Button2": "ודאו שאתם מכוסים",
+        "Button3": "קבל הרחבות",
+        "Button4": "קבל עצות נוספות"
+    }
+	,
+    "Alt":
+    {
+        "One": "אחת",
+        "Two": "שתיים",
+		"Three": "שלוש",
+		"Favoritesillustration": "איור של התיקיה 'מועדפים'",
+		"Favoritesfolder": "התיקיה 'מועדפים'",
+		"Safetyillustration": "איור של מגן",
+		"Safetyshield": "מגן",
+		"Extensionsillustration": "איור של הרחבות ב- Microsoft Edge",
+		"Extensions": "הרחבות"
+    }
+	,
+	 "AriaLabel":
+    {
+        "AriaLabel1": "ברוך הבא ל- Microsoft Edge. בוא נתחיל בהגדרה. אחת. ייבא את המועדפים שלך. שתיים. גלוש בבטחה. שלוש. התאם אישית בעזרת הרחבות",
+        "AriaLabel2": "איור של התיקיה 'מועדפים'. אחת. ייבא את המועדפים שלך. השג את הדפים המועדפים עליך מדפדפנים אחרים והצג אותם במרכז hub icon",
+        "AriaLabel3": "איור של מגן. שתיים. גלוש בבטחה. עם Windows Defender וטכנולוגיית SmartScreen ב- Microsoft Edge, המחשב שלך כבר מוגן מפני תוכנות, הורדות ואתרים זדוניים.",
+        "AriaLabel4": "איור של הרחבות ב- Microsoft Edge. שלוש. התאם אישית בעזרת הרחבות. התאם אישית את Microsoft Edge עם הרחבות פופולריות כמו לחצן Pin It של Pinterest, ‏Amazon Assistant, ‏AdBlock, ‏Adblock Plus, ‏LastPass ועוד.",
+        "AriaLabel5": "אתה מוכן לצאת לדרך!. רוצה עצות נוספות? לחץ בהמשך כדי לראות מה חדש ב- Microsoft Edge.",
+        "AriaLabel6": "קבל עצות נוספות"
+    }
+
+}

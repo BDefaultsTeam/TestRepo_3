@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Laipni lūdzam pārlūkprogrammā Microsoft Edge",
+        "Secondary": "Sāksim ar galveno"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Ņemiet saturu līdzi",
+        "Tab2": "Droša sērfošana internetā",
+        "Tab3": "Pārlūkprogrammas pielāgošana, izmantojot paplašinājumus",
+        "Tab4": "Esat gatavs!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Mēs iegūsim jūsu grāmatzīmes un citu informāciju no citas pārlūkprogrammas, tāpēc jūs jutīsities kā mājās.",
+        "Tab2": "Pārlūkprogrammā Microsoft Edge darbojas programmatūra un Windows Defender un risinājums SmartScreen, tādēļ jūsu dators jau ir aizsargāts pret ļaunprātīgu programmatūru, vietnēm un lejupielādēm.",
+        "Tab3": "Personalizējiet pārlūkprogrammu Microsoft Edge, izmantojot populārus paplašinājumus, piemēram, Pinterest pogu Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass un citus paplašinājumus. ",
+        "Tab4": "Vai vēlaties vairāk padomu? Noklikšķiniet tālāk, lai skatītu jaunumus pārlūkprogrammā Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Aiziet!",
+        "Button2": "Pārliecinieties, ka viss ir izdarīts",
+        "Button3": "Iegūt paplašinājumus",
+        "Button4": "Saņemt citus padomus"
+    }
+	,
+    "Alt":
+    {
+        "One": "Viens",
+        "Two": "Divi",
+		"Three": "Trīs",
+		"Favoritesillustration": "Izlases mapes ilustrācija",
+		"Favoritesfolder": "Izlases mape",
+		"Safetyillustration": "Drošības vairoga ilustrācija",
+		"Safetyshield": "Drošības vairogs",
+		"Extensionsillustration": "Ilustrācija paplašinājumiem pārlūkprogrammā Microsoft Edge",
+		"Extensions": "Paplašinājumi"
+    }
+	,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Laipni lūdzam pārlūkprogrammā Microsoft Edge. Sāksim ar galveno. Viens. Ņemiet saturu līdzi. Divi. Droša sērfošana internetā. Trīs. Pārlūkprogrammas pielāgošana, izmantojot paplašinājumus.",
+        "AriaLabel2": "Izlases mapes ilustrācija. Viens. Ņemiet saturu līdzi. Mēs iegūsim jūsu grāmatzīmes un citu informāciju no citas pārlūkprogrammas, tāpēc jūs jutīsities kā mājās.",
+        "AriaLabel3": "Drošības vairoga ilustrācija. Divi. Droša sērfošana internetā. Pārlūkprogrammā Microsoft Edge darbojas programmatūra un Windows Defender un risinājums SmartScreen, tādēļ jūsu dators jau ir aizsargāts pret ļaunprātīgu programmatūru, vietnēm un lejupielādēm.",
+        "AriaLabel4": "Ilustrācija paplašinājumiem pārlūkprogrammā Microsoft Edge. Trīs. Pārlūkprogrammas pielāgošana, izmantojot paplašinājumus. Personalizējiet pārlūkprogrammu Microsoft Edge, izmantojot populārus paplašinājumus, piemēram, Pinterest pogu Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass un citus paplašinājumus.",
+        "AriaLabel5": "Esat gatavs!. Vai vēlaties vairāk padomu? Noklikšķiniet tālāk, lai skatītu jaunumus pārlūkprogrammā Microsoft Edge.",
+        "AriaLabel6": "Saņemt citus padomus"
+    }
+}

@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "Tämä on Microsoft Edge",
+        "Secondary": "Tehdäänpä määritykset"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Tuo suosikkisi",
+        "Tab2": "Surffaa turvallisesti",
+        "Tab3": "Mukauta laajennuksilla",
+        "Tab4": "Voit aloittaa käytön!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Voit napata suosikkisi muista selaimista ja tarkastella niitä keskuksessa <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Microsoft Edge -selaimen Windows Defender- ja SmartScreen-tekniikat pitävät tietokoneesi suojattuna haitallisilta ohjelmistoilta, sivustoilta ja lataustiedostoilta.",
+        "Tab3": "Räätälöi Microsoft Edge suosituilla laajennuksilla, joita ovat esimerkiksi Pinterestin Pin It -painike, Amazon Assistant, AdBlock, Adblock Plus, LastPass ja monet muut. ",
+        "Tab4": "Haluatko lisää vihjeitä? Saat lisätietoja uusista Microsoft Edge -ominaisuuksista napsauttamalla alla olevaa linkkiä."
+        
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Tuo heti",
+        "Button2": "Varmista suojasi",
+        "Button3": "Hanki laajennukset",
+        "Button4": "Hanki lisää vihjeitä"
+    }
+	,
+    "Alt":
+    {
+        "One": "Yksi",
+        "Two": "Kaksi",
+		"Three": "Kolme",
+		"Favoritesillustration": "Suosikit-kansio kuvitettuna",
+		"Favoritesfolder": "Suosikit-kansio",
+		"Safetyillustration": "Turvakilven kuvitus",
+		"Safetyshield": "Turvakilpi",
+		"Extensionsillustration": "Microsoft Edge -laajennukset kuvitettuina",
+		"Extensions": "Laajennukset"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Tämä on Microsoft Edge. Tehdäänpä määritykset. Yksi. Tuo suosikkisi. Kaksi. Surffaa turvallisesti. Kolme. Mukauta laajennuksilla.",
+        "AriaLabel2": "Suosikit-kansio kuvitettuna. Yksi. Tuo suosikkisi. Voit napata suosikkisi muista selaimista ja tarkastella niitä keskuksessa.",
+        "AriaLabel3": "Turvakilven kuvitus. Kaksi. Surffaa turvallisesti. Microsoft Edge -selaimen Windows Defender- ja SmartScreen-tekniikat pitävät tietokoneesi suojattuna haitallisilta ohjelmistoilta, sivustoilta ja lataustiedostoilta.",
+        "AriaLabel4": "Microsoft Edge -laajennukset kuvitettuina. Kolme. Mukauta laajennuksilla. Räätälöi Microsoft Edge suosituilla laajennuksilla, joita ovat esimerkiksi Pinterestin Pin It -painike, Amazon Assistant, AdBlock, Adblock Plus, LastPass ja monet muut.",
+        "AriaLabel5": "Voit aloittaa käytön! Want more tips? Haluatko lisää vihjeitä? Saat lisätietoja uusista Microsoft Edge -ominaisuuksista napsauttamalla alla olevaa linkkiä.",
+        "AriaLabel6": "Hanki lisää vihjeitä"
+    }
+    }

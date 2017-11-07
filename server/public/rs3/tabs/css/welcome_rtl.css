@@ -1,0 +1,1722 @@
+﻿@charset "UTF-8";
+
+*, .p-3xl, .p-4xl, .p-b-3xl, .p-b-4xl, .p-b-lg, .p-b-md, .p-b-none, .p-b-sm, .p-b-xl, .p-b-xs, .p-h-3xl, .p-h-4xl, .p-h-lg, .p-h-md, .p-h-none, .p-h-sm, .p-h-xl, .p-h-xs, .p-l-3xl, .p-l-4xl, .p-l-lg, .p-l-md, .p-l-none, .p-l-sm, .p-l-xl, .p-l-xs, .p-lg, .p-md, .p-none, .p-r-3xl, .p-r-4xl, .p-r-lg, .p-r-md, .p-r-none, .p-r-sm, .p-r-xl, .p-r-xs, .p-sm, .p-t-3xl, .p-t-4xl, .p-t-lg, .p-t-md, .p-t-none, .p-t-sm, .p-t-xl, .p-t-xs, .p-v-3xl, .p-v-4xl, .p-v-lg, .p-v-md, .p-v-none, .p-v-sm, .p-v-xl, .p-v-xs, .p-xl, .p-xs, input[type=checkbox], input[type=radio]
+{
+    box-sizing: border-box;
+}
+
+img, legend
+{
+    border: 0;
+}
+
+:focus, a:active, a:hover, button, span
+{
+    outline: 0;
+}
+
+body, html, svg:not(:root)
+{
+    overflow: hidden;
+}
+
+.p-t-xs, .p-v-xs, .p-xs
+{
+    padding-top: 8px;
+}
+
+.p-b-xs, .p-v-xs, .p-xs
+{
+    padding-bottom: 8px;
+}
+
+.p-h-xs, .p-l-xs, .p-xs
+{
+    padding-left: 8px;
+}
+
+.p-h-xs, .p-r-xs, .p-xs
+{
+    padding-right: 8px;
+}
+
+.m-t-xs, .m-v-xs, .m-xs
+{
+    margin-top: 8px;
+}
+
+.m-b-xs, .m-v-xs, .m-xs
+{
+    margin-bottom: 8px;
+}
+
+.m-h-xs, .m-l-xs, .m-xs
+{
+    margin-left: 8px;
+}
+
+.m-h-xs, .m-r-xs, .m-xs
+{
+    margin-right: 8px;
+}
+
+.p-sm, .p-t-sm, .p-v-sm
+{
+    padding-top: 12px;
+}
+
+.p-b-sm, .p-sm, .p-v-sm
+{
+    padding-bottom: 12px;
+}
+
+.p-h-sm, .p-l-sm, .p-sm
+{
+    padding-left: 12px;
+}
+
+.p-h-sm, .p-r-sm, .p-sm
+{
+    padding-right: 12px;
+}
+
+.m-sm, .m-t-sm, .m-v-sm
+{
+    margin-top: 12px;
+}
+
+.m-b-sm, .m-sm, .m-v-sm
+{
+    margin-bottom: 12px;
+}
+
+.m-h-sm, .m-l-sm, .m-sm
+{
+    margin-left: 12px;
+}
+
+.m-h-sm, .m-r-sm, .m-sm
+{
+    margin-right: 12px;
+}
+
+.p-md, .p-t-md, .p-v-md
+{
+    padding-top: 24px;
+}
+
+.p-b-md, .p-md, .p-v-md
+{
+    padding-bottom: 24px;
+}
+
+.p-h-md, .p-l-md, .p-md
+{
+    padding-left: 24px;
+}
+
+.p-h-md, .p-md, .p-r-md
+{
+    padding-right: 24px;
+}
+
+.m-md, .m-t-md, .m-v-md
+{
+    margin-top: 24px;
+}
+
+.m-b-md, .m-md, .m-v-md
+{
+    margin-bottom: 24px;
+}
+
+.m-h-md, .m-l-md, .m-md
+{
+    margin-left: 24px;
+}
+
+.m-h-md, .m-md, .m-r-md
+{
+    margin-right: 24px;
+}
+
+.p-lg, .p-t-lg, .p-v-lg
+{
+    padding-top: 36px;
+}
+
+.p-b-lg, .p-lg, .p-v-lg
+{
+    padding-bottom: 36px;
+}
+
+.p-h-lg, .p-l-lg, .p-lg
+{
+    padding-left: 36px;
+}
+
+.p-h-lg, .p-lg, .p-r-lg
+{
+    padding-right: 36px;
+}
+
+.m-lg, .m-t-lg, .m-v-lg
+{
+    margin-top: 36px;
+}
+
+.m-b-lg, .m-lg, .m-v-lg
+{
+    margin-bottom: 36px;
+}
+
+.m-h-lg, .m-l-lg, .m-lg
+{
+    margin-left: 36px;
+}
+
+.m-h-lg, .m-lg, .m-r-lg
+{
+    margin-right: 36px;
+}
+
+.p-t-xl, .p-v-xl, .p-xl
+{
+    padding-top: 48px;
+}
+
+.p-b-xl, .p-v-xl, .p-xl
+{
+    padding-bottom: 48px;
+}
+
+.p-h-xl, .p-l-xl, .p-xl
+{
+    padding-left: 48px;
+}
+
+.p-h-xl, .p-r-xl, .p-xl
+{
+    padding-right: 48px;
+}
+
+.m-t-xl, .m-v-xl, .m-xl
+{
+    margin-top: 48px;
+}
+
+.m-b-xl, .m-v-xl, .m-xl
+{
+    margin-bottom: 48px;
+}
+
+.m-h-xl, .m-l-xl, .m-xl
+{
+    margin-left: 48px;
+}
+
+.m-h-xl, .m-r-xl, .m-xl
+{
+    margin-right: 48px;
+}
+
+.p-2xl, .p-b-2xl, .p-h-2xl, .p-l-2xl, .p-r-2xl, .p-t-2xl, .p-v-2xl
+{
+    box-sizing: border-box;
+}
+
+.p-2xl, .p-t-2xl, .p-v-2xl
+{
+    padding-top: 64px;
+}
+
+.p-2xl, .p-b-2xl, .p-v-2xl
+{
+    padding-bottom: 64px;
+}
+
+.p-2xl, .p-h-2xl, .p-l-2xl
+{
+    padding-left: 64px;
+}
+
+.p-2xl, .p-h-2xl, .p-r-2xl
+{
+    padding-right: 64px;
+}
+
+.m-2xl, .m-t-2xl, .m-v-2xl
+{
+    margin-top: 64px;
+}
+
+.m-2xl, .m-b-2xl, .m-v-2xl
+{
+    margin-bottom: 64px;
+}
+
+.m-2xl, .m-h-2xl, .m-l-2xl
+{
+    margin-left: 64px;
+}
+
+.m-2xl, .m-h-2xl, .m-r-2xl
+{
+    margin-right: 64px;
+}
+
+.p-3xl, .p-t-3xl, .p-v-3xl
+{
+    padding-top: 80px;
+}
+
+.p-3xl, .p-b-3xl, .p-v-3xl
+{
+    padding-bottom: 80px;
+}
+
+.p-3xl, .p-h-3xl, .p-l-3xl
+{
+    padding-left: 80px;
+}
+
+.p-3xl, .p-h-3xl, .p-r-3xl
+{
+    padding-right: 80px;
+}
+
+.m-3xl, .m-t-3xl, .m-v-3xl
+{
+    margin-top: 80px;
+}
+
+.m-3xl, .m-b-3xl, .m-v-3xl
+{
+    margin-bottom: 80px;
+}
+
+.m-3xl, .m-h-3xl, .m-l-3xl
+{
+    margin-left: 80px;
+}
+
+.m-3xl, .m-h-3xl, .m-r-3xl
+{
+    margin-right: 80px;
+}
+
+.p-4xl, .p-t-4xl, .p-v-4xl
+{
+    padding-top: 96px;
+}
+
+.p-4xl, .p-b-4xl, .p-v-4xl
+{
+    padding-bottom: 96px;
+}
+
+.p-4xl, .p-h-4xl, .p-l-4xl
+{
+    padding-left: 96px;
+}
+
+.p-4xl, .p-h-4xl, .p-r-4xl
+{
+    padding-right: 96px;
+}
+
+.m-4xl, .m-t-4xl, .m-v-4xl
+{
+    margin-top: 96px;
+}
+
+.m-4xl, .m-b-4xl, .m-v-4xl
+{
+    margin-bottom: 96px;
+}
+
+.m-4xl, .m-h-4xl, .m-l-4xl
+{
+    margin-left: 96px;
+}
+
+.m-4xl, .m-h-4xl, .m-r-4xl
+{
+    margin-right: 96px;
+}
+
+.p-none, .p-t-none, .p-v-none
+{
+    padding-top: 0;
+}
+
+.p-b-none, .p-none, .p-v-none
+{
+    padding-bottom: 0;
+}
+
+.p-h-none, .p-l-none, .p-none
+{
+    padding-left: 0;
+}
+
+.p-h-none, .p-none, .p-r-none
+{
+    padding-right: 0;
+}
+
+.m-none, .m-t-none, .m-v-none
+{
+    margin-top: 0;
+}
+
+.m-b-none, .m-none, .m-v-none
+{
+    margin-bottom: 0;
+}
+
+.m-h-none, .m-l-none, .m-none
+{
+    margin-left: 0;
+}
+
+.m-h-none, .m-none, .m-r-none
+{
+    margin-right: 0;
+}
+
+.table
+{
+    display: table;
+}
+
+.table-row
+{
+    display: table-row;
+}
+
+.table-cell
+{
+    vertical-align: top;
+    display: table-cell;
+    float: none;
+}
+
+.w-100
+{
+    width: 100%;
+}
+
+.h-100
+{
+    height: 100%;
+}
+
+.w-66
+{
+    width: 66%;
+}
+
+.h-66
+{
+    height: 66%;
+}
+
+.w-75
+{
+    width: 75%;
+}
+
+.h-75
+{
+    height: 75%;
+}
+
+.h-50
+{
+    height: 50%;
+}
+
+.w-33
+{
+    width: 33%;
+}
+
+.h-33
+{
+    height: 33%;
+}
+
+.w-25
+{
+    width: 25%;
+}
+
+.h-25
+{
+    height: 25%;
+}
+
+.h-10px
+{
+    height: 10px;
+}
+
+@font-face
+{
+    font-family: ms-segoe;
+    font-weight: 400;
+    font-style: normal;
+    src: url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot);
+    src: local("Segoe UI"),local("Segoe"),local("Segoe WP"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot?#iefix) format("embedded-opentype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.woff) format("woff"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.ttf) format("truetype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.svg#web) format("svg");
+}
+
+@font-face
+{
+    font-family: ms-segoe;
+    font-weight: 200;
+    font-style: normal;
+    src: url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot);
+    src: local("Segoe UI Light"),local("Segoe WP Light"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot?#iefix) format("embedded-opentype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.woff) format("woff"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.ttf) format("truetype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.svg#web) format("svg");
+}
+
+@font-face
+{
+    font-family: ms-segoe;
+    font-weight: 600;
+    font-style: normal;
+    src: url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot);
+    src: local("Segoe UI Semibold"),local("Segoe WP Semibold"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot?#iefix) format("embedded-opentype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.woff) format("woff"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.ttf) format("truetype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.svg#web) format("svg");
+}
+
+@font-face
+{
+    font-family: ms-segoe;
+    font-weight: 700;
+    font-style: normal;
+    src: url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot);
+    src: local("Segoe UI Bold"),local("Segoe WP Bold"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot?#iefix) format("embedded-opentype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.woff) format("woff"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.ttf) format("truetype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.svg#web) format("svg");
+}
+
+@font-face
+{
+    font-family: ms-segoe;
+    font-weight: 300;
+    font-style: normal;
+    src: url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semilight/latest.eot);
+    src: local("Segoe UI Semilight"),local("Segoe WP Semilight"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semilight/latest.eot?#iefix) format("embedded-opentype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semilight/latest.woff) format("woff"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semilight/latest.ttf) format("truetype"),url(//i.s-microsoft.com/fonts/Segoe-UI/West-European/Semilight/latest.svg#web) format("svg");
+}
+
+@font-face
+{
+    font-family: MWF-MDL2;
+    src: url(fonts/MWFMDL2.woff) format("woff"),url(fonts/MWFMDL2.ttf) format("truetype"),url(fonts/MWFMDL2.svg) format("svg");
+}
+
+body.ja-jp
+{
+    font-family: 'Yu Gothic UI',ms-segoe,sans-serif;
+}
+
+body.ko-kr
+{
+    font-family: 'Malgun Gothic',ms-segoe,sans-serif;
+}
+
+body.th-th
+{
+    font-family: 'Leelawadee UI',ms-segoe,sans-serif;
+}
+
+body.zh-cn
+{
+    font-family: 'Microsoft YaHei UI',ms-segoe,sans-serif;
+}
+
+body.zh-hk, body.zh-tw
+{
+    font-family: 'Microsoft JhengHei UI',ms-segoe,sans-serif;
+}
+
+a, abbr, acronym, address, applet, big, blockquote, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, ul, var
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    text-decoration: none;
+    background: 0 0;
+    font-size: inherit;
+    min-width: 0;
+    min-height: 0;
+    max-width: auto;
+    max-height: auto;
+    width: auto;
+    height: auto;
+    box-sizing: content-box;
+}
+
+div, h1, h2, h3, h4, h5
+{
+    position: static;
+}
+
+a, big, img, small, span
+{
+    position: inline;
+}
+
+ol, ul
+{
+    list-style: none;
+}
+
+html
+{
+    font-family: ms-segoe,sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary
+{
+    display: block;
+}
+
+audio, canvas, progress, video
+{
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+    audio:not([controls])
+    {
+        display: none;
+        height: 0;
+    }
+
+[hidden], template
+{
+    display: none;
+}
+
+a
+{
+    background-color: transparent;
+}
+
+abbr[title]
+{
+    border-bottom: 1px dotted;
+}
+
+b, optgroup, strong
+{
+    font-weight: 700;
+}
+
+dfn
+{
+    font-style: italic;
+}
+
+h1
+{
+    margin: .67em 0;
+}
+
+mark
+{
+    background: #ff0;
+    color: #000;
+}
+
+small
+{
+    font-size: 80%;
+}
+
+sub, sup
+{
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup
+{
+    top: -.5em;
+}
+
+sub
+{
+    bottom: -.25em;
+}
+
+figure
+{
+    margin: 1em 40px;
+}
+
+hr
+{
+    box-sizing: content-box;
+    height: 0;
+}
+
+pre, textarea
+{
+    overflow: auto;
+}
+
+code, kbd, pre, samp
+{
+    font-family: monospace,monospace;
+    font-size: 1em;
+}
+
+button, input, optgroup, select, textarea
+{
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+button, select
+{
+    text-transform: none;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit]
+{
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+    button[disabled], html input[disabled]
+    {
+        cursor: default;
+    }
+
+    button::-moz-focus-inner, input::-moz-focus-inner
+    {
+        border: 0;
+        padding: 0;
+    }
+
+input
+{
+    line-height: normal;
+}
+
+    input[type=checkbox], input[type=radio]
+    {
+        padding: 0;
+    }
+
+    input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button
+    {
+        height: auto;
+    }
+
+    input[type=search]
+    {
+        -webkit-appearance: textfield;
+        box-sizing: content-box;
+    }
+
+        input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration
+        {
+            -webkit-appearance: none;
+        }
+
+fieldset
+{
+    border: 1px solid silver;
+    margin: 0 2px;
+    padding: .35em .625em .75em;
+}
+
+legend
+{
+    padding: 0;
+}
+
+table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td, th
+{
+    padding: 0;
+}
+
+@font-face
+{
+    font-family: MWF-MDL2;
+    src: url(fonts/MWFMDL2.woff) format("woff"),url(fonts/MWFMDL2.ttf) format("truetype"),url(fonts/MWFMDL2.svg) format("svg");
+}
+
+@font-face
+{
+    font-family: SegoeUI;
+    src: local("Segoe UI"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff2) format("woff2"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff) format("woff"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.ttf) format("truetype"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.svg#web) format("svg");
+    font-weight: 400;
+}
+
+@font-face
+{
+    font-family: SegoeUI;
+    src: local("Segoe UI Light"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff2) format("woff2"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff) format("woff"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.ttf) format("truetype"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.svg#web) format("svg");
+    font-weight: 100;
+}
+
+@font-face
+{
+    font-family: SegoeUI;
+    src: local("Segoe UI Semilight"),local("Segoe UI"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff2) format("woff2"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff) format("woff"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.ttf) format("truetype"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.svg#web) format("svg");
+    font-weight: 200;
+}
+
+@font-face
+{
+    font-family: SegoeUI;
+    src: local("Segoe UI Semibold"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semibold/latest.woff2) format("woff2"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semibold/latest.woff) format("woff"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semibold/latest.ttf) format("truetype"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/semibold/latest.svg#web) format("svg");
+    font-weight: 600;
+}
+
+@font-face
+{
+    font-family: SegoeUI;
+    src: local("Segoe UI Bold"),local("Segoe UI"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/bold/latest.woff2) format("woff2"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/bold/latest.woff) format("woff"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/bold/latest.ttf) format("truetype"),url(//c.s-microsoft.com/static/fonts/segoe-ui/west-european/bold/latest.svg#web) format("svg");
+    font-weight: 700;
+}
+
+#errorPage .container
+{
+    max-width: 800px;
+    padding-top: 5%;
+    text-align: center;
+}
+
+    #errorPage .container .errorStack
+    {
+        border-radius: 10px;
+        background-clip: border-box;
+        margin: 60px 0 0;
+        padding: 20px;
+        font-family: monospace;
+        font-size: .7em;
+        text-align: left;
+    }
+
+.content, .speedBody .content
+{
+    text-align: center;
+    box-sizing: border-box;
+}
+
+button
+{
+    overflow: visible;
+    border: none;
+    background: 0 0;
+    padding: 0;
+    margin: 0;
+}
+
+.speedBody body, body
+{
+    background-color: #031732;
+}
+
+button.keyboard-focused
+{
+    outline: #0078DE dashed 2px;
+}
+
+body, html
+{
+    height: 100%;
+    font-size: 16px;
+}
+
+body
+{
+    margin: 0;
+    color: #fff;
+}
+
+h1, h2
+{
+    font-size: 2.875rem;
+    font-weight: 100;
+    line-height: 1.25;
+}
+
+h2
+{
+    font-size: 2.125rem;
+}
+
+.contentContainer
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 70px;
+    left: 0;
+}
+
+.content
+{
+    position: absolute;
+    margin: 0 auto;
+}
+
+#welcome-heading
+{
+    margin: 0 0 .35em;
+    opacity: 0;
+}
+
+#welcome-tagline-container #welcome-claim, #welcome-tagline-container #welcome-tagline
+{
+    position: absolute;
+    width: 100%;
+    margin-top: -.2em;
+    opacity: 0;
+}
+
+    #welcome-tagline-container #welcome-claim span, #welcome-tagline-container #welcome-tagline span
+    {
+        display: inline-block;
+    }
+
+    #welcome-tagline-container #welcome-claim a, #welcome-tagline-container #welcome-tagline a
+    {
+        color: inherit;
+        text-decoration: underline;
+    }
+
+        #welcome-tagline-container #welcome-claim a:hover, #welcome-tagline-container #welcome-tagline a:hover
+        {
+            color: #fff;
+        }
+
+    #welcome-tagline-container #welcome-claim strong
+    {
+        font-weight: 700;
+        color: #fff;
+    }
+
+.speedBody h1, .speedBody h2
+{
+    line-height: .7;
+    position: relative;
+}
+
+    .speedBody h1#welcome-heading
+    {
+        margin-bottom: .67em;
+    }
+
+.speedBody .contentContainer
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 70px;
+    left: 0;
+}
+
+.speedBody .content
+{
+    margin: -17rem auto 0 -40rem;
+    position: absolute;
+    width: 80rem;
+    left: 50%;
+    height: 34rem;
+    top: 50%;
+}
+
+.speedBody .dials, .speedBody .dials h3
+{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.speedBody body
+{
+    margin: 0;
+    color: #fff;
+}
+
+.speedBody .dials
+{
+    position: relative;
+    margin: 7em auto 0;
+}
+
+    .speedBody .dials h3
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.375rem;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+
+        .speedBody .dials h3 strong
+        {
+            font-weight: 400;
+        }
+
+    .speedBody .dials .edge-dial-column h3
+    {
+        top: -7rem;
+        font-size: 2.375rem;
+        font-weight: 200;
+        line-height: 1.1;
+        white-space: nowrap;
+    }
+
+        .speedBody .dials .edge-dial-column h3 strong
+        {
+            font-size: 1.5rem;
+            font-weight: 400;
+            color: #0078DE;
+        }
+
+    .speedBody .dials .chrome-dial-column h3 strong
+    {
+        color: #2BA257;
+    }
+
+    .speedBody .dials .ff-dial-column h3 strong
+    {
+        color: #E85B20;
+    }
+
+.speedBody .dial-column
+{
+    position: relative;
+    width: 24rem;
+    text-align: center;
+}
+
+.speedBody .dial-label
+{
+    position: absolute;
+    top: 31%;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 20px;
+    font-size: 2rem;
+    font-weight: 100;
+    line-height: .7em;
+    color: #0078DE;
+}
+
+.speedBody #welcome-faster span, .speedBody #welcome-windows span, .speedBody .edge-dial-column
+{
+    display: inline-block;
+}
+
+.speedBody .dial-label .dial-text-label
+{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #0078DE;
+}
+
+.speedBody .dial-label#edge-dial-text
+{
+    top: 30%;
+}
+
+    .speedBody .dial-label#edge-dial-text .dial-text-value
+    {
+        font-size: 1.3em;
+    }
+
+.speedBody .dial-label#chrome-dial-text .dial-text-label, .speedBody .dial-label#chrome-dial-text .dial-text-value
+{
+    color: #2BA257;
+}
+
+.speedBody .dial-label#ff-dial-text .dial-text-label, .speedBody .dial-label#ff-dial-text .dial-text-value
+{
+    color: #E85B20;
+}
+
+.speedBody .chrome-dial-column
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.speedBody .ff-dial-column
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.speedBody .dial-canvas
+{
+    width: 24rem;
+    height: 24rem;
+}
+
+.speedBody .dial-column h3 span
+{
+    opacity: 0;
+}
+
+.speedBody .edge-dial-column h3
+{
+    margin-top: 2.625rem;
+    transition: all .8s cubic-bezier(1,-1,.1,2.5);
+}
+
+    .speedBody .edge-dial-column h3 span
+    {
+        position: relative;
+        top: 50px;
+        opacity: 0;
+        transition: all .7s cubic-bezier(1,-1,.1,1.5);
+    }
+
+.speedBody .edge-dial-column.show-final h3
+{
+    margin-top: 0;
+}
+
+    .speedBody .edge-dial-column.show-final h3 span
+    {
+        top: 0;
+        opacity: 1;
+    }
+
+.speedBody .chrome-dial-column h3, .speedBody .ff-dial-column h3
+{
+    left: 4.5625rem;
+    transition: all 1.2s cubic-bezier(1,-1,.35,1);
+}
+
+    .speedBody .chrome-dial-column h3 span, .speedBody .ff-dial-column h3 span
+    {
+        position: relative;
+        left: 30px;
+        opacity: 0;
+        transition: all 1s cubic-bezier(1,-1,.35,1);
+    }
+
+.speedBody .chrome-dial-column.show-final h3, .speedBody .ff-dial-column.show-final h3
+{
+    left: 0;
+}
+
+    .speedBody .chrome-dial-column.show-final h3 span, .speedBody .ff-dial-column.show-final h3 span
+    {
+        left: 0;
+        opacity: 1;
+    }
+
+.speedBody .ff-dial-column h3
+{
+    left: 4.8125rem;
+}
+
+.speedBody .dial-column
+{
+    opacity: 0;
+}
+
+.speedBody #welcome-faster, .speedBody #welcome-windows
+{
+    position: relative;
+    opacity: 0;
+}
+
+.speedBody #welcome-faster
+{
+    top: -.8em;
+}
+
+@media (max-aspect-ratio:14/9)
+{
+    .speedBody .content
+    {
+        height: 36rem;
+        margin-top: -18rem;
+    }
+
+    .speedBody .dials
+    {
+        margin-top: 9rem;
+    }
+}
+
+@media (max-aspect-ratio:1/1)
+{
+    .speedBody .content
+    {
+        height: 38rem;
+        margin-top: -19rem;
+    }
+
+    .speedBody .dials
+    {
+        margin-top: 10rem;
+    }
+}
+
+#links
+{
+    position: absolute;
+    bottom: -60px;
+    width: 100%;
+    height: 128px;
+    margin: 0;
+    background-color: #0078DE;
+    text-align: center;
+    white-space: nowrap;
+    opacity: 0;
+}
+
+    #links span, #links svg, .welcome
+    {
+        position: relative;
+    }
+
+    #links .links-button, #links span
+    {
+        display: inline-block;
+        margin: 12px 8px 8px;
+        text-align: center;
+    }
+
+    #links span
+    {
+        top: .2em;
+        margin-right: 16px;
+    }
+
+    #links .links-button
+    {
+        height: 44px;
+        padding: 0 1.5em;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 40px;
+        color: #fff;
+        text-transform: uppercase;
+        white-space: nowrap;
+        background-color: rgba(3,23,50,.3);
+    }
+
+        #links .links-button:hover
+        {
+            color: #0078DE;
+            background-color: #fff;
+        }
+
+            #links .links-button:hover svg path
+            {
+                fill: #0078DE;
+            }
+
+        #links .links-button:after
+        {
+            position: relative;
+            top: .06em;
+            margin-left: .3em;
+            font-family: MWF-MDL2;
+            content: "";
+        }
+
+.safeBody #video-controls .play-button:after, .tabBody #video-controls .play-button:after
+{
+    font-family: MWF-MDL2;
+    content: '';
+}
+
+#links svg
+{
+    top: .4em;
+    margin-right: .2em;
+}
+
+#links span
+{
+    font-size: 19px;
+    font-weight: 300;
+}
+
+#link-bookmarks svg
+{
+    top: .3em;
+}
+
+.welcome
+{
+    margin-top: 0;
+}
+
+#source-links
+{
+    position: absolute;
+    top: -32px;
+    left: 20px;
+    font-size: 13px;
+    color: rgba(255,255,255,.5);
+}
+
+    #source-links a
+    {
+        color: rgba(0,120,222,.6);
+    }
+
+        #source-links a:hover
+        {
+            color: #0078DE;
+        }
+
+#video-container
+{
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+    #video-container .video-label
+    {
+        position: absolute;
+        display: block;
+        width: 40rem;
+        margin-left: -20rem;
+        font-size: 1.4em;
+        font-weight: 300;
+        line-height: 1.3;
+        text-align: center;
+        white-space: nowrap;
+        opacity: 0;
+    }
+
+        #video-container .video-label h3
+        {
+            font-size: 1em;
+            font-weight: 300;
+            display: inline-block;
+        }
+
+        #video-container .video-label strong
+        {
+            font-weight: 300;
+            color: #fff;
+        }
+
+#video-main
+{
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.showReplay #video-main
+{
+    opacity: .5;
+}
+
+.safeBody #video-controls
+{
+    position: absolute;
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+    .safeBody #video-controls.video-ended
+    {
+        display: block;
+    }
+
+    .safeBody #video-controls .play-button
+    {
+        position: relative;
+        width: 20px;
+        height: 20px;
+        top: 50%;
+        transform: translate(0,-50%) scale(6);
+        margin: 0 auto;
+        cursor: pointer;
+        opacity: .7;
+    }
+
+        .safeBody #video-controls .play-button:hover
+        {
+            opacity: 1;
+        }
+
+.safeBody .content-aspect
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.safeBody .video-label span
+{
+    opacity: 0;
+    display: inline-block;
+    transition: opacity .8s cubic-bezier(1,-1,.35,1);
+}
+
+.safeBody #video-label-chrome span, .safeBody #video-label-firefox span
+{
+    display: block;
+}
+
+.safeBody .video-label .video-label-content
+{
+    position: relative;
+    left: 0;
+    transition: left .8s cubic-bezier(1,-1,.35,1);
+}
+
+.safeBody .video-label.safe-show-final .video-label-content
+{
+    left: 0!important;
+}
+
+.safeBody .video-label.safe-show-final span
+{
+    opacity: 1!important;
+}
+
+.safeBody #video-label-chrome
+{
+    left: 13.5%;
+    top: 8em;
+    color: #2BA257;
+}
+
+    .safeBody #video-label-chrome .video-label-content
+    {
+        left: 6rem;
+    }
+
+.safeBody #video-label-edge
+{
+    left: 49%;
+    top: 4em;
+    color: #0078DE;
+}
+
+    .safeBody #video-label-edge span
+    {
+        font-size: 1.4em;
+        display: block;
+    }
+
+    .safeBody #video-label-edge .video-label-content
+    {
+        left: 6rem;
+    }
+
+.safeBody #video-label-firefox
+{
+    left: 85%;
+    top: 8em;
+    color: #E85B20;
+}
+
+    .safeBody #video-label-firefox .video-label-content
+    {
+        left: 5rem;
+    }
+
+.tabBody, .tabBody .contentContainer
+{
+    background-color: #0064B5;
+}
+
+    .tabBody .content
+    {
+        width: 100%;
+        height: 100%;
+    }
+
+    .tabBody #video-container
+    {
+        opacity: 0;
+    }
+
+    .tabBody #video-main
+    {
+        transition: transform .8s;
+        transform-origin: 50% 100%;
+        backface-visibility: hidden;
+    }
+
+    .tabBody #video-controls
+    {
+        position: absolute;
+        display: none;
+        width: 100%;
+        height: 100%;
+    }
+
+        .tabBody #video-controls.video-ended
+        {
+            display: block;
+        }
+
+        .tabBody #video-controls .play-button
+        {
+            position: relative;
+            top: 50%;
+            width: 20px;
+            height: 20px;
+            margin: 0 auto;
+            cursor: pointer;
+            opacity: .7;
+            transform: translate(0,-50%) scale(6);
+        }
+
+            .tabBody #video-controls .play-button:hover
+            {
+                opacity: 1;
+            }
+
+    .tabBody .desk-container
+    {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+    }
+
+        .tabBody .desk-container #desk
+        {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 303px;
+            background-color: #0078D7;
+        }
+
+        .tabBody .desk-container #desk-content-left
+        {
+            position: absolute;
+            background-image: url(../images/desk_left.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .tabBody .desk-container #desk-content-right
+        {
+            position: absolute;
+            background-image: url(../images/desk_right.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+    .tabBody #links
+    {
+        background-color: #031732;
+    }
+
+        .tabBody #links .links-button
+        {
+            background-color: rgba(0,120,222,.3);
+        }
+
+            .tabBody #links .links-button:hover
+            {
+                color: #fff;
+                background-color: #0078D7;
+            }
+
+                .tabBody #links .links-button:hover svg path
+                {
+                    fill: #fff;
+                }
+
+    .tabBody .content-aspect
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+
+    .tabBody .video-text-overlay
+    {
+        position: absolute;
+        padding: .7rem 1.2rem;
+        color: #383838;
+        background: #FDD900;
+        border-radius: 3px;
+        box-shadow: -2px 2px 2px 0 rgba(0,0,0,.25);
+        opacity: 0;
+        transition: opacity .3s,margin-top .2s cubic-bezier(.165,.84,.44,1),margin-left .2s cubic-bezier(.165,.84,.44,1);
+        transform: translate(-50%,0);
+        transform-origin: 50% 120%;
+        margin-top: 10px;    
+        white-space: nowrap;
+    }
+
+        .tabBody .video-text-overlay:after
+        {
+            position: absolute;
+            bottom: -.75rem;
+            left: 50%;
+            display: block;
+            width: 0;
+            height: 0;
+            margin-left: -.85rem;
+            content: '';
+            border-width: .8rem .85rem 0;
+            border-style: solid;
+            border-color: #FDD900 transparent transparent;
+        }
+
+        .tabBody .video-text-overlay.side-arrow
+        {
+            margin-left: -10px;
+            margin-top: 0;
+            transform: translate(0,-50%);
+            transform-origin: left center;
+        }
+
+            .tabBody .video-text-overlay.side-arrow:after
+            {
+                position: absolute;
+                top: 50%;
+                right: -0.85rem;
+                margin-top: -.7rem;
+                margin-left: 0;
+                border-width: .8rem .85rem .8rem 0;
+                border-color: transparent #FDD900 transparent transparent;
+                transform: rotate(180deg);
+            }
+            
+        .tabBody .video-text-overlay.video-overlay-show
+        {
+            opacity: 1;
+            margin-top: 0;
+            margin-left: 0;
+        }
+
+    .tabBody #laptop-keyboard, .tabBody #laptop-lid
+    {
+        position: absolute;
+        top: 0;
+        margin: auto;
+        background-color: #095389;
+        transition: transform .8s;
+        transform-origin: 50% 100%;
+    }
+
+    .tabBody #laptop-keyboard
+    {
+        background-color: #095389;
+        transition: background-color .8s;
+    }
+
+    .tabBody #laptop-front
+    {
+        position: absolute;
+        margin: auto;
+        background-color: #063C66;
+    }
+
+/* Fixes for tab selection highlight, Button color changes in High contrast mode, Cookies Disclamier */
+
+#source-links a:focus, #link-bookmarks:focus, #link-extensions:focus, #link-new:focus
+{
+    outline: 0.5px dotted yellow;
+}
+
+@media screen and (-ms-high-contrast: black-on-white)
+{
+    #Page-1, #Page-2, #Page-3
+    {
+        fill: purple;
+    }
+    .tabBody #links .links-button:hover svg path
+    {
+        fill: blue;
+    }
+    #PCBContainer
+    {
+        background-color: #095389;
+    }
+    #source-links a:focus
+    {
+        border: 0.7px dotted black !important;
+    }
+    #msccLearnMore:focus
+    {
+        border: 0.7px dotted black !important;
+    }
+}
+
+
+@media screen and (-ms-high-contrast: active)
+{
+    #laptop-lid
+    {
+        background-color: #095389;
+    }
+
+    #laptop-keyboard
+    {
+        background-color: rgb(17, 113, 188);
+    }
+
+    #laptop-front
+    {
+        background-color: #063c66;
+    }
+
+    #source-links a:focus
+    {
+        border: 0.5px dotted yellow;
+    }
+    .tabBody #links .links-button:hover svg path
+    {
+        fill: blue;
+    }
+    .tabBody .video-text-overlay
+    {
+        background: #FDD900;
+    }
+    .tabBody .video-text-overlay:after
+    {
+        border-style: solid;
+        border-color: #FDD900 transparent transparent;
+    }
+    .tabBody .video-text-overlay.side-arrow:after
+    {
+        border-color: transparent #FDD900 transparent transparent;
+    }
+    #msccLearnMore:focus
+    {
+        border: 0.5px dotted yellow;
+    }
+}

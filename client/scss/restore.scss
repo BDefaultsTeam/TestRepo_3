@@ -1,0 +1,368 @@
+@charset "UTF-8";
+html {
+    font-family: 'Segoe UI';
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Segoe UI Light';
+    overflow-x: hidden;
+    display: flex;
+    align-items: center;
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+body.show {
+    opacity: 1;
+}
+
+#language {
+    opacity: 0;
+    position: absolute;
+}
+
+#divFavoritesSection,
+#divHistorySection,
+#divExtensionSection {
+    float: left;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#divFavoritesSection {
+    margin-left: 3%;
+}
+
+#divHistorySection {
+    margin-left: -4%;
+}
+
+#divExtensionSection {
+    margin-left: -0.5%;
+}
+
+#imgUnderline {
+    margin-left: 59%;
+}
+
+#imgFavourites,
+#imgLogin,
+#imgSettings {
+    height: 136px;
+    width: 368px;
+}
+
+#header {
+    /*margin-top: 6%;*/
+    margin-bottom: 24px;
+}
+
+#hTitle {
+    font-family: 'Segoe UI Light';
+    font-size: 46px;
+    color: #2b2b2b;
+    line-height: 56px;
+}
+
+#hSubTitle {
+    font-family: 'Segoe UI Semibold';
+    font-size: 15px;
+    color: #757575;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+#pageContent {
+    /*position: absolute;*/
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#sectionWrap {
+    height: 214px;
+    min-width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#headerWrap {
+    min-width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#sectionPanel {
+    height: 31.5%;
+    background-color: #f1f1f1;
+    position: relative;
+    width: 100%;
+}
+
+.sectionTitle {
+    margin-top: 48px;
+    margin-left: 10px;
+    font-family: 'Segoe UI';
+    color: #2b2b2b;
+    line-height: 24px;
+}
+
+.sectionContent {
+    margin-top: 245px;
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    height: 40px;
+    font-family: 'Segoe UI';
+    color: #757575;
+    line-height: 20px;
+}
+
+.underline {
+    height: 12px;
+    margin-top: -12px;
+    margin-left: -40px;
+}
+
+#divFavoritesSection .sectionContent {
+    margin-left: 2.5%;
+}
+
+#divHistorySection .sectionContent {
+    margin-top: 32px;
+    margin-left: 7.25%;
+    padding-right: 30%;
+}
+
+#divExtensionSection .sectionContent {
+    margin-left: 3%;
+    padding-right: 27%;
+}
+
+#divHistorySection .secBgColor {
+    margin-left: 5%;
+}
+
+#divTitle {
+    margin-left: 3.75%;
+}
+
+#favSectionContent,
+#hisSectionContent,
+#extSectionContent {
+    font-weight: 100;
+    width: 344px;
+}
+
+@media only screen and (max-width:1199px) and (min-width:992px) {
+    #sectionWrap {
+        height: 214px;
+        min-width: 992px;
+        max-width: 992px;
+        margin: 0 auto;
+    }
+    #headerWrap {
+        min-width: 992px;
+        max-width: 992px;
+        margin: 0 auto;
+    }
+    #divExtensionSection {
+        margin-left: -11%;
+        /* margin-left: -15.5%; */
+        /* margin-right: 135%; */
+        width: 220%;
+        background-color: #f1f1f1;
+    }
+    #divHistorySection {
+        margin-left: -15%;
+    }
+    #divFavoritesSection {
+        margin-left: 13%;
+        margin-bottom: 100px;
+    }
+    #divExtensionSection .secBgColor {
+        float: left;
+        margin-left: 11%;
+    }
+    #divTitle {
+        margin-left: 13.5%;
+    }
+    #divFavoritesSection .sectionContent {
+        margin-left: -10%;
+        height: 40%;
+        top: 0.5%;
+    }
+    #divHistorySection .sectionContent {
+        height: 40%;
+        top: 100%;
+    }
+    #favSectionContent {
+        margin-left: 12.5%;
+    }
+    #hisSectionContent {
+        margin-top: 0%;
+    }
+    #divExtensionSection .sectionContent {
+        margin-left: 11.5%;
+        height: 35%;
+    }
+}
+
+@media only screen and (max-width:991px) and (min-width:768px) {
+    #sectionWrap {
+        height: 214px;
+        min-width: 768px;
+        max-width: 768px;
+        margin: 0 auto;
+    }
+    #headerWrap {
+        min-width: 768px;
+        max-width: 768px;
+        margin: 0 auto;
+    }
+    #divTitle {
+        margin-left: 3.25%;
+        margin-right: 9%;
+    }
+    #divFavoritesSection .secBgColor {
+        margin-left: 29%;
+    }
+    #divFavoritesSection .sectionContent {
+        margin-left: 0%;
+        height: 75px;
+    }
+    #favSectionContent {
+        margin-left: 30%;
+        height: 100px;
+    }
+    #divFavoritesSection {
+        margin-bottom: 100px;
+        margin-left: -12.6%;
+    }
+    #divHistorySection {
+        margin-bottom: 100px;
+        margin-left: 10%;
+    }
+    #divHistorySection .sectionContent {
+        height: 75px;
+        padding-right: 0%;
+    }
+    #divExtensionSection .secBgColor {
+        margin-left: 7%;
+    }
+    #divExtensionSection .sectionContent {
+        margin-left: 7.5%;
+        padding-right: 27%;
+    }
+    #divExtensionSection {
+        margin-left: -14%;
+        width: 220%;
+        background-color: #f1f1f1;
+    }
+}
+
+@media only screen and (max-width:767px) and (min-width:1px) {
+    #sectionWrap {
+        height: 214px;
+        min-width: 400px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    #headerWrap {
+        min-width: 400px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    #divTitle {
+        margin-left: 9%;
+        margin-right: 9%;
+    }
+    #divFavoritesSection {
+        margin-left: 6%;
+    }
+    #divHistorySection {
+        background-color: #f1f1f1;
+        margin-top: 75px;
+        width: 200%;
+        margin-left: -45%;
+    }
+    #divHistorySection .secBgColor {
+        margin-left: 25%;
+    }
+    #divHistorySection .sectionContent {
+        margin-left: 26.5%;
+    }
+    #divExtensionSection {
+        background-color: #f1f1f1;
+        margin-top: 75px;
+        width: 200%;
+        margin-left: -45%;
+    }
+    #divExtensionSection .secBgColor {
+        margin-left: 25%;
+    }
+    #divExtensionSection .sectionContent {
+        margin-left: 26.5%;
+        width: 70%;
+    }
+}
+
+:root #header + #content > #left > #rlblock_left { display: none !important; }
+
+.sr-latn-cs h4 { font-size: 16px; }
+.el-gr h4 { font-size: 14px; }
+.fr-be h4 { font-size: 16px; }
+.fr-ca h4 { font-size: 14px; }
+.fr-ch h4 { font-size: 16px; }
+.fr-fr h4 { font-size: 16px; }
+.fr-xf h4 { font-size: 16px; }
+.ja-jp h4 { font-size: 15px; }
+.lt-lt h4 { font-size: 15px; }
+.vi-vn h4 { font-size: 16px; }
+
+.sr-latn-cs #imgUnderline { margin-left: 17%; }
+.bg-bg #imgUnderline { margin-left: 82%; }
+.cs-cz #imgUnderline { margin-left: 72%; }
+.da-dk #imgUnderline { margin-left: 61%; }
+.de-at #imgUnderline { margin-left: 61%; }
+.de-ch #imgUnderline { margin-left: 61%; }
+.de-de #imgUnderline { margin-left: 61%; }
+.el-gr #imgUnderline { margin-left: 76%; }
+.et-ee #imgUnderline { margin-left: 71%; }
+.fr-be #imgUnderline { margin-left: 74%; }
+.fr-ca #imgUnderline { margin-left: 74%; }
+.fr-ch #imgUnderline { margin-left: 74%; }
+.fr-fr #imgUnderline { margin-left: 74%; }
+.fr-xf #imgUnderline { margin-left: 74%; }
+.he-il #imgUnderline { margin-left: 69%; }
+.hr-hr #imgUnderline { margin-left: 45%; }
+.hu-hu #imgUnderline { margin-left: 63%; }
+.id-id #imgUnderline { margin-left: 68%; }
+.is-is #imgUnderline { margin-left: 70%; }
+.ko-kr #imgUnderline { margin-left: 46%; }
+.lt-lt #imgUnderline { margin-left: 69%; }
+.lv-lv #imgUnderline { margin-left: 54%; }
+.nb-no #imgUnderline { margin-left: 49%; }
+.nl-be #imgUnderline { margin-left: 66%; }
+.nl-nl #imgUnderline { margin-left: 75%; }
+.pl-pl #imgUnderline { margin-left: 54%; }
+.pt-br #imgUnderline { margin-left: 48%; }
+.pt-pt #imgUnderline { margin-left: 74%; }
+.ro-ro #imgUnderline { margin-left: 65%; }
+.ru-ru #imgUnderline { margin-left: 62%; }
+.sk-sk #imgUnderline { margin-left: 71%; }
+.sl-si #imgUnderline { margin-left: 50%; }
+.sv-se #imgUnderline { margin-left: 56%; }
+.th-th #imgUnderline { margin-left: 56%; }
+.tr-tr #imgUnderline { margin-left: 69%; }
+.vi-vn #imgUnderline { margin-left: 67%; }
+.zh-cn #imgUnderline { margin-left: 24%; }
+.zh-hk #imgUnderline { margin-left: 26%; }
+.zh-tw #imgUnderline { margin-left: 26%; }

@@ -1,0 +1,24 @@
+{
+    "groupId": "speed",
+    "locale": "en-us",
+    "schema": "localeStrings",
+    "strings": {
+        "speedWelcomeToEdge": "Welcome to Microsoft Edge",
+        "speedWelcomeWindows10": "<span class=\"g1\">The <strong>faster</strong>,</span>&nbsp;<span class=\"g1\"><strong>safer</strong> browser</span>&nbsp;<span class=\"g2\">designed for Windows 10.</span>",
+        "speedFaster": "Faster than both Chrome and Firefox",
+        "speedGooglesBenchmark": "according to Google’s benchmark.",
+        "speedMicrosoftEdge": "Microsoft Edge",
+        "speedFastest": "Fastest",
+        "speedScore": "Speed Score",
+        "speedChrome": "Google Chrome",
+        "speedChromeSlower": "8.3% Slower",
+        "speedFirefox": "Mozilla Firefox",
+        "speedFirefoxSlower": "17.1% Slower",
+        "speedBasedOn": "Scores based upon Google’s Octane 2.0 test results:",
+        "speedDetailsHere": "See details here.",
+        "speedGetStarted": "Get started now",
+        "importBookmarks": "Import your bookmarks",
+        "customizeWithExtensions": "Customize with extensions",
+        "seeWhatsNew": "See what's new"
+    }
+}

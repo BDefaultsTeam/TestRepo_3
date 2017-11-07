@@ -1,0 +1,17 @@
+﻿{
+	"speedWelcomeToEdge": "Microsoft Edge へようこそ",
+	"speedGetStarted": "今すぐ使ってみる",
+	"importBookmarks": "ブックマークをインポートする",
+	"customizeWithExtensions": "拡張機能を使ってカスタマイズする",
+	"seeWhatsNew": "新機能を確認する",
+	"tabsWelcomeWindows10": "<span class=\"g1\">Windows 10 用の</span><span class=\"g1\"><strong>高速</strong>で</span><span class=\"g2\"><strong>安全な</strong>ブラウザー。</span>",
+	"tabsWelcomeClaim": "<strong>タブの混雑</strong>を解決しました",
+	"tabsTabPreviews": "タブのプレビューで目的のページを見つけましょう",
+	"tabsOneAtATime": "1 つずつ",
+	"tabsAllAtOnce": "またはまとめて",
+	"tabsForLater": "後で閲覧するためにタブを取っておき",
+	"tabsBringBack": "ワンクリックで再び表示できます",
+    "welcomeTagline1":"Windows 10 用の",
+    "welcomeTagline2":"<strong>高速</strong>で",
+    "welcomeTagline3":"<strong>安全な</strong>ブラウザー。"
+}

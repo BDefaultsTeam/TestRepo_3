@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge សូម​ស្វាគមន៍",
+    "speedGetStarted": "ចាប់​ផ្ដើម​ឥឡូវ​នេះ",
+    "importBookmarks": "បញ្ចូល​បញ្ជី​កត់​ត្រា​របស់អ្នក",
+    "customizeWithExtensions": "ធ្វើតាម​តំរូវការ​ជាមួយ​ផ្នែក​បន្ថែម",
+    "seeWhatsNew": "មើល​ព័ត៌មាន​ថ្មី",
+    "tabsWelcomeWindows10": "<span class=\"g1\">កម្មវិធី​មើលវិប​ដែល <strong>កាន់តែលឿន</strong>,</span>&nbsp;<span class=\"g1\"><strong>កាន់តែមានសុវត្ថិភាព</strong> ត្រូវ​បាន</span>&nbsp;<span class=\"g2\">ឌីស្សាញ​សម្រាប់ Windows 10។</span>",
+    "tabsWelcomeClaim": "<strong>បញ្ហាលើផ្ទាំង</strong> &mdash; បានដោះស្រាយរួច!",
+    "tabsTabPreviews": "ស្វែងរក​ទំព័រ​របស់អ្នក​ជាមួយនឹង​ការមើល​ផ្ទាំង​ជាមុន",
+    "tabsOneAtATime": "ម្ដង​មួយ",
+    "tabsAllAtOnce": "ឬ​ម្ដង​ទាំងអស់",
+    "tabsForLater": "ទុកផ្ទាំង​មួយឡែក​សម្រាប់​ពេលក្រោយ",
+    "tabsBringBack": "យកវាមកវិញ​ដោយ​គ្រាន់តែ​ចុចមួយ",
+    "welcomeTagline1":"កម្មវិធី​មើលវិប​ដែល <strong>កាន់តែលឿន</strong>,&nbsp;",
+    "welcomeTagline2":"<strong>កាន់តែមានសុវត្ថិភាព</strong> ត្រូវ​បាន&nbsp;",
+    "welcomeTagline3":"ឌីស្សាញ​សម្រាប់ Windows 10។"
+}

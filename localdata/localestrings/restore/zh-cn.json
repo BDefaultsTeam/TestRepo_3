@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "zh-cn",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "出现某种错误，但我们已解决",
+        "clearedData": "Microsoft Edge 无法正确启动，我们不得不清除了部分数据以便您能够返回以浏览网页。",
+        "favoritesOK": "收藏夹和密码没问题",
+        "favoritesSaved": "我们为您保存了这些信息，所以无需担心。",
+        "historyAndCookies": "历史记录和 Cookie",
+        "signBackIn": "这些内容被清除，因此您需要重新登录相关网站。",
+        "settingsExtensions": "设置与扩展程序",
+        "changedSettings": "如果您曾更改过任何设置或扩展程序，您需要重新执行这些操作。"
+    }
+}

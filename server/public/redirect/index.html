@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Microsoft Edge</title>
+    <link href="../img/favicon.png" rel="icon" />
+    <script>
+        var name = getQryStrParamValues('source');
+        if (name == "firstrun") {
+            var browserVersion = (navigator.userAgent.substr(navigator.userAgent.length - 5, 5));
+
+            // TH1 or TH2
+            if (browserVersion == 10240 || browserVersion == 10586) {
+                window.location.replace("https://go.microsoft.com/fwlink/?LinkId=822218");
+            }
+            // RS1
+            else if (browserVersion == 14393) {
+                window.location.replace("https://go.microsoft.com/fwlink/?linkid=846100");
+            }
+            // RS2
+            else if (browserVersion == 15063) {
+
+                var OS_SKU_Value = JSON.parse(window.external.getHostEnvironmentValue("os-sku"))["os-sku"];
+
+                if (OS_SKU_Value == 178 || OS_SKU_Value == 179) {
+                    window.location.replace("https://go.microsoft.com/fwlink/?linkid=851289");
+                }
+                else {
+                    window.location.replace("https://go.microsoft.com/fwlink/?linkid=846101");
+                }
+            }
+            // RS3
+            else if (browserVersion == 16299) {
+
+                var OS_SKU_Value = JSON.parse(window.external.getHostEnvironmentValue("os-sku"))["os-sku"];
+
+                if (OS_SKU_Value == 178 || OS_SKU_Value == 179) {
+                    window.location.replace("https://go.microsoft.com/fwlink/?linkid=851289");
+                }
+                else {
+                    window.location.replace("https://go.microsoft.com/fwlink/?linkid=860508");
+                }
+            }
+            else {
+                window.location.replace("https://go.microsoft.com/fwlink/?linkid=846102");
+            }
+        }
+
+        function getQryStrParamValues(param) {
+            var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for (var i = 0; i < url.length; i++) {
+                var urlparam = url[i].split('=');
+                if (urlparam[0].toLowerCase() == param.toLowerCase()) {
+                    return urlparam[1].toLowerCase();
+                }
+            }
+        }
+    </script> 
+</head>
+<body>
+
+</body>
+</html>

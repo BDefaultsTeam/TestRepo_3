@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "እንኳዕ Microsoft Edgeደሓን መጻእኻ",
+    "speedGetStarted": "ሕጂ ጀምር",
+    "importBookmarks": "ቡክ ማርክታት ውሰድ",
+    "customizeWithExtensions": "ብምስፍሕፋሕ ኣዋድድ",
+    "seeWhatsNew": "ሓዱሽ ነገር ተዓዘብ",
+    "tabsWelcomeWindows10": "<span class=\"g1\"> እቲ <strong>ዝቀልጠፈ</strong>,</span>&nbsp;<span class=\"g1\"><strong>ድሕቱ ዝተሓለወ</strong> መድለይ</span>&nbsp;<span class=\"g2\">ንWindows 10 ተዳልዩ ኣሎ፡፡</span>",
+    "tabsWelcomeClaim": "<strong>ታብ ዕግርግ</strong> &mdash; ፈትሒዎ!",
+    "tabsTabPreviews": "ብታብ ኣቢልካ ሕሉፍ ገጻትካ ድለ",
+    "tabsOneAtATime": "ኣብ ሓደ ጊዜ ሓደ",
+    "tabsAllAtOnce": "ወይ ብሓደ ጊዜ ኩሉ",
+    "tabsForLater": "ንድሓር ናይ ጎኒ ታባት ኣዳሉ",
+    "tabsBringBack": "በምጥዋቕ ናብ ድሕሪት መልሶም",
+	"welcomeTagline1":" እቲ <strong>ዝቀልጠፈ</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>ድሕቱ ዝተሓለወ</strong> መድለይ&nbsp;",
+	"welcomeTagline3":"ንWindows 10 ተዳልዩ ኣሎ፡፡"
+}

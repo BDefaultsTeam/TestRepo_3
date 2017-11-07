@@ -1,0 +1,16 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge 소개",
+    "speedGetStarted": "지금 시작하세요.",
+    "GetApps": "Windows 스토어에서 앱 받기",
+    "customizeWithExtensions": "추가 기능으로 사용자 지정",
+    "seeWhatsNew": "새로운 기능",    
+    "tabsWelcomeClaim": "<strong>어지럽게 열려 있던 탭</strong>을 깔끔하게 정리하세요.",
+    "tabsTabPreviews": "한 번에 하나씩",
+    "tabsOneAtATime": "또는 한 번에 모든 페이지를",
+    "tabsAllAtOnce": "탭 미리 보기 기능으로 찾아보세요.",
+    "tabsForLater": "나중에 사용할 수 있도록 탭을 한쪽으로 치워놓았다가",
+    "tabsBringBack": "필요할 때 클릭하여 다시 가져오세요.",
+	"welcomeTagline1":"Windows 10 S용으로 설계된&nbsp;",
+	"welcomeTagline2":"<strong>더 빠르고</strong>&nbsp;",
+	"welcomeTagline3":"<strong>안전한</strong> 브라우저."
+}

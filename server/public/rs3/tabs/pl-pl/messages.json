@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Przedstawiamy Microsoft Edge",
+    "speedGetStarted": "Zacznij już teraz",
+    "importBookmarks": "Zaimportuj swoje zakładki",
+    "customizeWithExtensions": "Dostosuj za pomocą rozszerzeń",
+    "seeWhatsNew": "Zobacz nowości",
+    "tabsWelcomeWindows10": "<span class=\"g1\"><strong>Szybsza</strong> i</span>&nbsp;<span class=\"g1\"><strong>bezpieczniejsza</strong> przeglądarka</span>&nbsp;<span class=\"g2\">stworzona z myślą o Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Problem bałaganu z kartami</strong> &mdash; rozwiązany!",
+    "tabsTabPreviews": "Znajduj strony za pomocą podglądów kart",
+    "tabsOneAtATime": "Pojedynczo",
+    "tabsAllAtOnce": "Lub wszystkie naraz",
+    "tabsForLater": "Odkładaj karty na później",
+    "tabsBringBack": "I wracaj do nich jednym kliknięciem",
+	"welcomeTagline1":"<strong>Szybsza</strong> i&nbsp;",
+	"welcomeTagline2":"<strong>bezpieczniejsza</strong> przeglądarka&nbsp;",
+	"welcomeTagline3":"stworzona z myślą o Windows 10."
+}

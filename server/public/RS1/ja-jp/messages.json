@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "Microsoft Edge へようこそ",
+        "Secondary": "セットアップを始めましょう"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "お気に入りをインポートする",
+        "Tab2": "安全にネットサーフィンする",
+        "Tab3": "拡張機能を使ってカスタマイズする",
+        "Tab4": "お疲れさまでした!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "他の Web ブラウザーのお気に入りを簡単にインポートして、ハブ <span id=\"lblHubIcon\"></span> で確認できます。",
+        "Tab2": "Microsoft Edge は、ユーザーがオンラインのときにフィッシング詐欺や悪意のあるソフトウェアから保護し、安心して Web サイトを閲覧できるようにします。",
+        "Tab3": "Pinterest の Pin It ボタン、Amazon Assistant、AdBlock、Adblock Plus、LastPass など、人気の拡張機能で Microsoft Edge をカスタマイズしましょう。 ",
+        "Tab4": "ヒントは他にもあります。以下のボタンをクリックして Microsoft Edge の新機能をご確認ください。"
+    }
+    ,
+    "Button":
+    {
+        "Button1": "今すぐインポート",
+        "Button2": "確実にセキュリティで保護する",
+        "Button3": "拡張機能を入手",
+        "Button4": "他のヒントを確認"
+    }
+    ,
+    "Alt":
+    {
+        "One": "1",
+        "Two": "2",
+        "Three": "3",
+        "Favoritesillustration": "お気に入りフォルダーの図",
+        "Favoritesfolder": "お気に入りフォルダー",
+        "Safetyillustration": "セーフティ シールドの図",
+        "Safetyshield": "セーフティ シールド",
+        "Extensionsillustration": "Microsoft Edge の拡張機能の図",
+        "Extensions": "拡張機能"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Microsoft Edge へようこそ. セットアップを始めましょう. 1. お気に入りをインポートする. 2. 安全にネットサーフィンする. 3. 拡張機能を使ってカスタマイズする.",
+        "AriaLabel2": "お気に入りフォルダー. 1. お気に入りをインポートする. 他の Web ブラウザーのお気に入りを簡単にインポートして、ハブ で確認できます。",
+        "AriaLabel3": "セーフティ シールドの図. 2. 安全にネットサーフィンする. Microsoft Edge の Windows Defender および SmartScreen テクノロジがあれば、お使いの PC は悪意のあるソフトウェア、Web サイト、ダウンロードからあらかじめ保護されます。",
+        "AriaLabel4": "Microsoft Edge の拡張機能の図. 3. 拡張機能を使ってカスタマイズする. Pinterest の Pin It ボタン、Amazon Assistant、AdBlock、Adblock Plus、LastPass など、人気の拡張機能で Microsoft Edge をカスタマイズしましょう。",
+        "AriaLabel5": "お疲れさまでした!. ヒントは他にもあります。以下のボタンをクリックして Microsoft Edge の新機能をご確認ください。",
+        "AriaLabel6": "他のヒントを確認."
+    }
+
+}

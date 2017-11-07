@@ -1,0 +1,18 @@
+﻿{
+    "speedWelcomeToEdge": "እንኳን ወደ Microsoft Edge በደህናመጡ",
+    "speedGetStarted": "አሁን ይጀምሩ",
+    "importBookmarks": "ቡክ ማርኮችን ይውሰዱ",
+    "customizeWithExtensions": "በማስፋፋት ያስተካክሉ",
+    "seeWhatsNew": "አዲሱን ነገር ይመለክቱ",
+
+    "tabsWelcomeWindows10": "<span class=\"g1\">የ <strong> ፋጣኑ</strong>,</span>&nbsp;<span class=\"g1\"><strong>ደሕንነቱ የተጠበቀ</strong> ማሰሻ</span>&nbsp;<span class=\"g2\">ለWindows 10 ተዘጋጅቷል፡፡</span>",
+    "tabsWelcomeClaim": " <strong> ታብ አለመረጋጋት</strong> &mdash; ተፈትቷል!",
+    "tabsTabPreviews": "በዚህ በፊት ታብ ገጾችዎን ይፈልጉ",
+    "tabsOneAtATime": "አንድ ጊዜ አንድ",
+    "tabsAllAtOnce": "ወይም ሁሉም በአንድ ጊዜ ",
+    "tabsForLater": "ለበኃላ የጎን ታቦችን ያዘጋጁ",
+    "tabsBringBack": "ጫን ብለው ወደ ኃላ ይመልስዋቸው",
+    "welcomeTagline1":"የ <strong> ፋጣኑ</strong>,&nbsp;",
+    "welcomeTagline2":"<strong>ደሕንነቱ የተጠበቀ</strong> ማሰሻ&nbsp;",
+    "welcomeTagline3":"ለWindows 10 ተዘጋጅቷል፡፡"
+}

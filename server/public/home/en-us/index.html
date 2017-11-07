@@ -1,0 +1,158 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Welcome to Microsoft Edge</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link href="../css/support.css" rel="stylesheet" />
+    <link href="../img/favicon.png" rel="icon">
+    <script type='text/javascript' src='../js/jquery-1.12.3.min.js'></script>
+    <script type='text/javascript' src='../js/QTransform.js'></script>
+    <script type='text/javascript' src="../js/jquery-ui.js"></script>
+    <script type='text/javascript' src="../js/jquery-ui.min.js"></script>
+</head>
+
+<body>
+    <input type="hidden" name="market" id="marketId" value="en-us" />
+    <div id="scaleWrap" tabindex="-1" role="article" aria-label="Welcome to Microsoft Edge. Let's get you set up. One. Import your favorites. Two. Surf safely. Three. Customize with extensions.">
+        <div id="welcome">
+            <div id="title-section">
+                <h1 class="title">Welcome to Microsoft Edge</h1>
+                <p class="subtitle">Let's get you set up</p>
+            </div>
+
+            <div class="btn-wrap">
+                <main>
+                <ul>
+                <li>
+                <!-- Improt Favorites Section  -->
+                <div id="divFavoritesSection" class="btn favorites"  role="article" style="float: left;">
+
+                    <div id="divFavoritesBox"> 
+                        <img id="imgStar" role="presentation" src="../img/FRE_RS1_icon_star_EN-US.png" />
+                        <img id="imgOpenFav" src="../img/FRE_RS1_icon_folder_open_EN-US.png" />
+                        <img id="imgFavorites" tabindex="1" role="article" alt="Favorites folder Illustration" src="../img/FRE_RS1_icon_fav_EN-US.png" aria-label="Favorites folder Illustration. One. Import your favorites. Grab your favorites from other browsers and see them in the Hub icon."/>
+                    </div>
+
+                    <div id="divImgNumber1" >
+                        <p>
+                            <img id="imgNumber1" role="presentation" alt="One" src="../img/FRE_RS1_icon_1.png"><label id="lblNumber1">Import your favorites</label>
+                        </p>
+                    </div>
+
+                    <div id="favorites-box" class="hvr-box">
+                        <h2 role="presentation">Import your favorites</h2>
+                        <div class="bottom-wrap">
+                            <p role="presentation">Grab your favorites from other browsers and see them in the Hub <span id="lblHubIcon"></span>.</p>
+                            <div>
+                                <a id="fav" class="more-btn" href="https://go.microsoft.com/fwlink/p/?LinkId=691010" target="_blank" role="button" tabindex="2">Import now</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                </li>
+                <li>                
+                 <!-- Surf Safely Section  -->
+                <div id="divSurfSafelySection" class="btn secure"  role="article" style="float: left;">
+                    <div id="divSurfSafelyBox" >
+                        <img id="imgSurfExpand" alt="Safety shield illustration" role="presentation" src="../img/FRE_RS1_expand_safety_screen_EN-US.png" />
+                        <img id="imgSurfSafely" tabindex="3" role="article" aria-label="Safety shield illustration. Two. Surf safely. With Windows Defender and SmartScreen technology in Microsoft Edge, your PC is already protected from malicious software, websites, and downloads." alt="Safety shield" src="../img/FRE_RS1_icon_safe_EN-US.png" />
+                    </div>
+
+                    <div id="divImgNumber2">
+                        <p>
+                            <img id="imgNumber2" alt="Two" role="presentation"  src="../img/FRE_RS1_icon_2.png"><label id="lblNumber2">Surf safely</label>
+                        </p>
+                    </div>
+
+                    <div id="divImgSurfSafelyContent" class="hvr-box">
+                        <h2 role="presentation">Surf safely</h2>
+                        <div class="bottom-wrap">
+                            <p role="presentation">With Windows Defender and SmartScreen technology in Microsoft Edge, your PC is already protected from malicious software, websites, and downloads.</p>
+                            
+                            <div>
+                               <a id="learn" class="more-btn" href="https://go.microsoft.com/fwlink/?LinkId=822003" target="_blank" role="button" tabindex="4">Learn more</a>
+                            </div>
+                                
+                        </div>
+                    </div>
+                </div>
+
+                    
+               </li>
+                <li>                
+                <!-- Customize Extension Section  -->
+                <div id="divExtensionSection" class="btn extension"  role="article" >
+                    <div id="divExtensionBox">
+                        <img id="UL" src="../img/FRE_RS1_puzzle_pieces_UL_EN-US.png" role="presentation"/>
+                        <img id="UR" src="../img/FRE_RS1_puzzle_pieces_UR_EN-US.png" role="presentation"/>
+                        <img id="LL" src="../img/FRE_RS1_puzzle_pieces_LL_EN-US.png" role="presentation"/>
+                        <img id="LR" alt="Extensions Illustration" tabindex="5" role="article" aria-label="Extensions Illustration. Three. Customize with extensions. Personalize Microsoft Edge with popular extensions like Pinterest's Pin It button, Amazon Assistant, AdBlock, Adblock Plus, LastPass, and more." src="../img/FRE_RS1_puzzle_pieces_LR_EN-US.png" />
+                    </div>
+
+                    <div id="divImgNumber3" style="display: inline-block" >
+                        <p>
+                            <img id="imgNumber3" alt="Three" role="presentation"  src="../img/FRE_RS1_icon_3.png"><label id="lblNumber3">Customize with extensions</label>
+                        </p>
+                    </div>
+
+
+                    <div id="divExtensionContent" class="hvr-box">
+                        <h2 id="extension-heading" role="presentation">Customize with extensions</h2>
+                        <div class="bottom-wrap" id="bottom-wrap3">
+                            <p role="presentation">Personalize Microsoft Edge with popular extensions like Pinterest's Pin It button, Amazon Assistant, AdBlock, Adblock Plus, LastPass, and more.</p>
+                            
+                            <div>
+                                <a id="extension" href="ms-windows-store://collection/?CollectionId=EdgeExtensions&OCID=edgefreextall" target="_blank" role="button" class="more-btn" tabindex="6">Get extensions</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+
+               </li>
+                    
+                </ul>
+        </main>
+            </div>
+            <!-- Discovery Center Section  -->
+            <div id="divDiscoverySection" role="article" aria-hidden="true" aria-label="You're good to go. Want more tips? Click below to see what's new with Microsoft Edge." tabindex="7">
+                <div id="Div2">
+                    <h2 id="final_text" role="presentation">You're good to go!</h2>
+                </div>
+                <div id="divDiscoveryContent">
+                    <p id="pDiscoveryContent" role="presentation">Want more tips? Click below to see what's new with Microsoft Edge.</p>
+                    <div id="tips">
+                        <a id="more-tips" class="more-btn" href="https://go.microsoft.com/fwlink/?LinkId=821166" role="button" aria-hidden="true" aria-label="Get more tips" tabindex="8">Get more tips</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+    <script type='text/javascript' src='../js/demo_en-us.js'></script>
+    <script type="text/javascript">
+        var varAutoFirePV = 1;
+        var varClickTracking = 1;
+        var varCustomerTracking = 1;
+        var Route = "34593";
+        var Ctrl = "";
+        documentWriteMsccScript('//c.microsoft.com/ms.js');
+    </script>
+    <script type='text/javascript' src='https://az725175.vo.msecnd.net/scripts/jsll-4.2.1.js'></script>
+    <script>
+        var market = document.getElementById('marketId').value;
+        var jsllConfig = {
+            coreData: {
+                appId: "Msedgefre",
+                market: market,
+                pageName: "EDGEFREControl"
+            }
+        };
+        awa.init(jsllConfig);
+    </script>
+</body>
+</html>

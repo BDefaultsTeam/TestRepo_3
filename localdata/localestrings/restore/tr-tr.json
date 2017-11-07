@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "tr-tr",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Bir sorun oluştu ancak çözdük",
+        "clearedData": "Microsoft Edge düzgün başlatılamadı, bu nedenle webde gezinebilmeniz için bazı verileri silmek zorundayız.",
+        "favoritesOK": "Sık kullanılanlar ve parolalar KAYDEDİLDİ",
+        "favoritesSaved": "Bunları sizin için kaydettik, böylece her şey yolunda.",
+        "historyAndCookies": "Geçmiş ve tanımlama bilgileri",
+        "signBackIn": "Geçmiş ve tanımlama bilgileri silindi. Bu nedenle web sitelerinde yeniden oturum açmalısınız.",
+        "settingsExtensions": "Ayarlar ve Uzantılar",
+        "changedSettings": "Herhangi bir ayarı veya uzantıyı değiştirdiyseniz, bu işlemi yeniden yapmanız gerekiyor."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "pt-pt",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Ocorreu um erro, mas já o resolvemos",
+        "clearedData": "O Microsoft Edge não conseguia iniciar corretamente, pelo que tivemos de limpar alguns dados para poder voltar a navegar na Web.",
+        "favoritesOK": "Os favoritos e as palavras-passe estão OK",
+        "favoritesSaved": "Guardámos estes dados para si e não tem de fazer nada.",
+        "historyAndCookies": "Histórico e cookies",
+        "signBackIn": "Estas informações foram limpas, pelo que tem de voltar a iniciar sessão nos Web sites.",
+        "settingsExtensions": "Definições e extensões",
+        "changedSettings": "Se alterou alguma definição ou extensão, terá de o voltar a fazer."
+    }
+}

@@ -1,0 +1,56 @@
+﻿{
+    "Header":
+    {
+        "Main": "Te damos la bienvenida a Microsoft Edge",
+        "Secondary": "Configura tus preferencias"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Llévate tus cosas",
+        "Tab2": "Deja que Cortana te ayude",
+        "Tab3": "Personalízalo con extensiones",
+        "Tab4": "¡Ya estás listo!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Trasladaremos tus marcadores y más información desde otro navegador para que te sientas como en casa.",
+        "Tab2": "Accede al instante a recomendaciones, análisis y cupones o busca el significado de palabras sin salir de la página en la que estás.",
+        "Tab3": "Personaliza Microsoft Edge con extensiones populares, como el botón de Pinterest Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass y muchas más.",
+        "Tab4": "¿Quieres recibir más sugerencias? Haz clic abajo para consultar las novedades de Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Vamos allá",
+        "Button2": "Configura Cortana",
+        "Button3": "Conseguir extensiones",
+        "Button4": "Consigue más sugerencias"
+    }
+    
+    ,
+    
+    "Alt":    
+    {        
+		"One": "Una",        
+		"Two": "Dos",        
+		"Three": "Tres",        
+		"Favoritesillustration": "Ilustración de la carpeta de favoritos",        
+		"Favoritesfolder": "Carpeta de favoritos",        
+		"Safetyillustration": "Ilustración del escudo de seguridad",        
+		"Safetyshield": "Escudo de seguridad",        
+		"Extensionsillustration": "Ilustración de las extensiones en Microsoft Edge",        
+		"Extensions": "Extensiones"    
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Te damos la bienvenida a Microsoft Edge. Configura tus preferencias. Una. Llévate tus cosas. Dos. Deja que Cortana te ayude. Tres. Personalízalo con extensiones.",
+        "AriaLabel2": "Ilustración de la carpeta de favoritos. Una. Llévate tus cosas. Trasladaremos tus marcadores y más información desde otro navegador para que te sientas como en casa.",
+        "AriaLabel3": "Ilustración del escudo de seguridad. Dos. Deja que Cortana te ayude. Accede al instante a recomendaciones, análisis y cupones o busca el significado de palabras sin salir de la página en la que estás.",
+        "AriaLabel4": "Ilustración de las extensiones en Microsoft Edge. Tres. Personalízalo con extensiones. Personaliza Microsoft Edge con extensiones populares, como el botón de Pinterest Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass y muchas más.",
+        "AriaLabel5": "¡Ya estás listo!. ¿Quieres recibir más sugerencias? Haz clic abajo para consultar las novedades de Microsoft Edge.",
+        "AriaLabel6": "Consigue más sugerencias"
+    }
+}

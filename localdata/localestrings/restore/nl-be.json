@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "nl-be",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Er is iets fout gegaan, maar we hebben het opgelost",
+        "clearedData": "Microsoft Edge is niet correct opgestart. Een aantal gegevens werd gewist zodat je terug kan browsen op het internet.",
+        "favoritesOK": "Favorieten en wachtwoorden zijn OK",
+        "favoritesSaved": "We hebben deze opgeslagen voor jou om het je gemakkelijk te maken.",
+        "historyAndCookies": "Geschiedenis en cookies",
+        "signBackIn": "Deze zijn gewist. Je moet je dus terug aanmelden bij websites.",
+        "settingsExtensions": "Instellingen en extensies",
+        "changedSettings": "Als je instellingen of extensies hebt gewijzigd, zal je dat opnieuw moeten doen."
+    }
+}

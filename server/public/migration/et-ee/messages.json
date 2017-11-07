@@ -1,0 +1,53 @@
+﻿{
+    "Header":
+    {
+        "Main": "Tere tulemast kasutama Microsoft Edge'i!",
+        "Secondary": "Seadistamine"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Hankige oma teave",
+        "Tab2": "Turvaline veebi sirvimine",
+        "Tab3": "Brauseri kohandamine laiendustega",
+        "Tab4": "Saate julgelt alustada!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Toome teisest brauserist üle teie järjehoidjad ja muu teabe, et tunneksite end koduselt.",
+        "Tab2": "Microsoft Edge'i integreeritud Windows Defenderi ja SmartScreen-tehnoloogia abil on teie arvuti juba kaitstud ründetarkvara, pahatahtlike veebisaitide ja allalaaditavate failide eest.",
+        "Tab3": "Microsoft Edge'i on võimalik isikupärastada mitmesuguste populaarsete laiendustega (nt Pinteresti nupp Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass ja palju muud). ",
+        "Tab4": "Kas soovite veel näpunäiteid? Klõpsake siin, et teada saada, mis on Microsoft Edge'is uut."       
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Alustame!",
+        "Button2": "Kinnitage, et olete kaetud",
+        "Button3": "Hankige laiendused",
+        "Button4": "Rohkem näpunäiteid"
+    }
+    ,
+    "Alt":
+    {
+        "One": "Üks",
+        "Two": "Kaks",
+        "Three": "Kolm",
+        "Favoritesillustration": "Lemmikute kausta illustratsioon",
+        "Favoritesfolder": "Lemmikute kaust",
+        "Safetyillustration": "Kaitsekilbi illustratsioon",
+        "Safetyshield": "Kaitsekilp",
+        "Extensionsillustration": "Microsoft Edge'i laienduste illustratsioon",
+        "Extensions": "Laiendused"
+    }
+,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Tere tulemast kasutama Microsoft Edge'i!. Seadistamine. Üks. Hankige oma teave. Kaks. Turvaline veebi sirvimine. Kolm. Brauseri kohandamine laiendustega.",
+        "AriaLabel2": "Lemmikute kausta illustratsioon. Üks. Hankige oma teave. Toome teisest brauserist üle teie järjehoidjad ja muu teabe, et tunneksite end koduselt.",
+        "AriaLabel3": "Kaitsekilbi illustratsioon. Kaks. Turvaline veebi sirvimine. Microsoft Edge'i integreeritud Windows Defenderi ja SmartScreen-tehnoloogia abil on teie arvuti juba kaitstud ründetarkvara, pahatahtlike veebisaitide ja allalaaditavate failide eest.",
+        "AriaLabel4": "Microsoft Edge'i laienduste illustratsioon. Kolm. Brauseri kohandamine laiendustega. Microsoft Edge'i on võimalik isikupärastada mitmesuguste populaarsete laiendustega (nt Pinteresti nupp Pin It, Amazon Assistant, AdBlock, Adblock Plus, LastPass ja palju muud).",
+        "AriaLabel5": "Saate julgelt alustada! Kas soovite veel näpunäiteid? Klõpsake siin, et teada saada, mis on Microsoft Edge'is uut.",
+        "AriaLabel6": "Rohkem näpunäiteid"
+    }}

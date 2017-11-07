@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Error</title>
+        <style>
+
+            body {
+                background-color: #eee;
+                padding: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .errorStack {
+                background-color: #fff;
+                border-radius: 10px;
+                margin: 10px 0 0 0;
+                padding: 25px;
+                font-family: monospace;
+                text-align: left;
+            }
+        </style>
+    </head>
+    <body id="errorPage">
+        <div id="main" class="dots">
+            <div class="container">
+                <h2>Oops, sorry about the error!</h2>
+                <h3>You might consider visiting the <a href="/">homepage</a>.</h3>
+
+                {{#if error.status}}
+                <h3>Error Status</h3>
+                <p>{{error.status}}</p>
+                {{/if}}
+
+                {{#if error.stack}}
+                <h3>Call Stack</h3>
+                <pre class="errorStack"><code>{{error.stack}}</code></pre>
+                {{/if}}
+            </div>
+        </div>
+    </body>
+</html>

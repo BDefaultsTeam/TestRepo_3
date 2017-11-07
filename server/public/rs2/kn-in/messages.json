@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge ಗೆ ಸ್ವಾಗತ",
+    "speedGetStarted": "ಈಗ ಪ್ರಾರಂಭಿಸೋಣ",
+    "importBookmarks": "ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಿ",
+    "customizeWithExtensions": "ವಿಸ್ತರಣೆಗಳ ಮೂಲಕ ಗ್ರಾಹಕೀಯಗೊಳಿಸಿ",
+    "seeWhatsNew": "ಹೊಸತೇನಿದೆ ನೋಡಿ",
+    "tabsWelcomeWindows10": "<span class=\"g1\"> <strong>ವೇಗವಾದ</strong>,</span>&nbsp;<span class=\"g1\"><strong>ಸುರಕ್ಷಿತ</strong> ಬ್ರೌಸರ್‌ನಲ್ಲಿ</span>&nbsp;<span class=\"g2\">Windows 10ಗೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.</span>",
+    "tabsWelcomeClaim": "<strong>Tab chaos</strong> &mdash; ಪರಿಹರಿಸಲಾಗಿದೆ!",
+    "tabsTabPreviews": "ಟ್ಯಾಬ್ ಪ್ರಿವ್ಯೂಗಳ ಜೊತೆಗೆ ನಿಮ್ಮ ಪುಟಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಿ",
+    "tabsOneAtATime": "ಒಮ್ಮೆಗೆ ಒಂದು ಮಾತ್ರ",
+    "tabsAllAtOnce": "ಅಥವಾ ಒಮ್ಮೆಗೇ ಎಲ್ಲಾ",
+    "tabsForLater": "ನಂತರಕ್ಕಾಗಿ ಟ್ಯಾಬ್ ಗಳನ್ನು ಬದಿಗಿಡಿ",
+    "tabsBringBack": "ಒಂದು ಕ್ಲಿಕ್ ಮೂಲಕ ಅವುಗಳನ್ನು ಮರಳಿ ತನ್ನಿ",
+	"welcomeTagline1":"<strong>ವೇಗವಾದ</strong>,&nbsp;",
+	"welcomeTagline2":"<strong>ಸುರಕ್ಷಿತ</strong> ಬ್ರೌಸರ್‌ನಲ್ಲಿ&nbsp; ",
+	"welcomeTagline3":"Windows 10ಗೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ."
+}

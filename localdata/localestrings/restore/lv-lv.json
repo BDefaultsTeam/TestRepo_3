@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "lv-lv",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Radās problēma, bet mēs to atrisinājām",
+        "clearedData": "Pārlūkprogrammu Microsoft Edge nevarēja pareizi startēt, tāpēc bija jādzēš daļa datu, lai jūs varētu turpināt pārlūkot tīmekli.",
+        "favoritesOK": "Izlase un paroles netika dzēstas",
+        "favoritesSaved": "Viss kārtībā — šie dati ir saglabāti.",
+        "historyAndCookies": "Vēsture un sīkfaili",
+        "signBackIn": "Šie dati tika izdzēsti, tāpēc jums būs vēlreiz jāpierakstās vietnēs.",
+        "settingsExtensions": "Iestatījumi un paplašinājumi",
+        "changedSettings": "Ja bijāt mainījis iestatījumus vai paplašinājumus, tas būs jādara vēlreiz."
+    }
+}

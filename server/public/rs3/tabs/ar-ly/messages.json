@@ -1,0 +1,20 @@
+﻿{
+
+    "speedWelcomeToEdge": "مرحبًا بكم في Microsoft Edge",
+    "speedGetStarted": "ابدأ الآن",
+    "importBookmarks": "قم باستيراد الإشارات المرجعية&nbsp;&nbsp;",
+    "customizeWithExtensions": "قم بالتغيير باستخدام الوظائف الملحقة&nbsp;&nbsp;",
+    "seeWhatsNew": "تعرف على الجديد&nbsp;&nbsp;",
+
+
+    "tabsWelcomeWindows10": "<span class=\"g1\">المستعرض <strong>الأسرع</strong>و</span>&nbsp;<span class=\"g1\"><strong>الأكثر أمانًا</strong>والمصمم</span>&nbsp;<span class=\"g2\">لـ Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>الفوضى في علامات التبويب</strong> &mdash; تم حلها!",
+    "tabsTabPreviews": "العثور على صفحاتك باستخدام معاينات علامات التبويب",
+    "tabsOneAtATime": "واحد في كل مرة",
+    "tabsAllAtOnce": "أو الجميع مرة واحدة",
+    "tabsForLater": "وضع علامات التبويب جانبًا للتعامل معها في وقت لاحق",
+    "tabsBringBack": "إرجاعها مرة أخرى بنقرة",
+	"welcomeTagline1":"المستعرض <strong>الأسرع</strong>و&nbsp;",
+	"welcomeTagline2":"<strong>الأكثر أمانًا</strong>والمصمم&nbsp;",
+	"welcomeTagline3":"لـ Windows 10."
+}

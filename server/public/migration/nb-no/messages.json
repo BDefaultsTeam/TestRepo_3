@@ -1,0 +1,55 @@
+﻿{
+    "Header":
+    {
+        "Main": "Velkommen til Microsoft Edge",
+        "Secondary": "Kom i gang med konfigureringen"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Hent innholdet ditt",
+        "Tab2": "Surf trygt",
+        "Tab3": "Tilpass med utvidelser",
+        "Tab4": "Nå er alt klart!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Vi henter bokmerker og annen informasjon fra en annen nettleser, slik at du kan føle deg som hjemme.",
+        "Tab2": "Med Windows Defender og SmartScreen-teknologi i Microsoft Edge er PC-en din allerede beskyttet mot skadelig programvare samt skadelige nettsteder og nedlastinger.",
+        "Tab3": "Skreddersy Microsoft Edge med populære utvidelser slik som Pin It-knappen fra Pinterest, Amazon Assistant, AdBlock, Adblock Plus og LastPass.",
+        "Tab4": "Vil du ha flere tips? Klikk nedenfor for å se hva som er nytt med Microsoft Edge."
+    
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Sett i gang",
+        "Button2": "Bekreft du er dekket",
+        "Button3": "Hent utvidelser",
+        "Button4": "Få flere tips"
+    }
+	,
+    "Alt":
+    {
+        "One": "Én",
+        "Two": "To",
+		"Three": "Tre",
+		"Favoritesillustration": "Illustrasjon av Favoritter-mappen",
+		"Favoritesfolder": "Favoritter-mappen",
+		"Safetyillustration": "Illustrasjon av sikkerhetsskjold",
+		"Safetyshield": "Sikkerhetsskjold",
+		"Extensionsillustration": "Illustrasjon av utvidelser i Microsoft Edge",
+		"Extensions": "Utvidelser"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Velkommen til Microsoft Edge. Kom i gang med konfigureringen. Én. Hent innholdet ditt. To. Surf trygt. Tre. Tilpass med utvidelser.",
+        "AriaLabel2": "Favoritter-mappen. Én. Hent innholdet ditt. Vi henter bokmerker og annen informasjon fra en annen nettleser, slik at du kan føle deg som hjemme.",
+        "AriaLabel3": "Illustrasjon av sikkerhetsskjold. To. Surf trygt. Med Windows Defender og SmartScreen-teknologi i Microsoft Edge er PC-en din allerede beskyttet mot skadelig programvare samt skadelige nettsteder og nedlastinger.",
+        "AriaLabel4": "Illustrasjon av utvidelser i Microsoft Edge. Tre. Tilpass med utvidelser. Skreddersy Microsoft Edge med populære utvidelser slik som Pin It-knappen fra Pinterest, Amazon Assistant, AdBlock, Adblock Plus og LastPass.",
+        "AriaLabel5": "Nå er alt klart!. Vil du ha flere tips? Klikk nedenfor for å se hva som er nytt med Microsoft Edge.",
+        "AriaLabel6": "Få flere tips."
+    }
+}

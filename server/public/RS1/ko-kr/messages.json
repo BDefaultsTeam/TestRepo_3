@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Microsoft Edge 소개",
+        "Secondary": "설정하기"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "즐겨찾기 가져오기",
+        "Tab2": "안전한 웹 서핑",
+        "Tab3": "추가 기능으로 사용자 지정",
+        "Tab4": "모든 준비를 마쳤습니다!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "허브 <span id=\"lblHubIcon\"></span> 에서 다른 브라우저에서 즐겨찾기 설정한 사이트를 쉽게 가져와 볼 수 있습니다.",
+        "Tab2": "Microsoft Edge의 Windows Defender와 SmartScreen 기술로 여러분의 PC는 이미 악성 소프트웨어와 웹 사이트 및 다운로드로부터 보호되고 있습니다.",
+        "Tab3": "Pinterest의 Pin It 버튼, Amazon Assistant, AdBlock, Adblock Plus, LastPass 등의 인기 추가 기능으로 Microsoft Edge를 개인 설정하세요. ",
+        "Tab4": "팁을 더 보고 싶으시다면, 아래를 클릭하여 Microsoft Edge에 대한 새로운 소식을 확인해 보세요."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "지금 가져오기",
+        "Button2": "사용 가능 여부 확인",
+        "Button3": "추가 기능 받기",
+        "Button4": "팁 더 보기"
+    }
+	,
+    "Alt":
+    {
+        "One": "1",
+        "Two": "2",
+		"Three": "3",
+		"Favoritesillustration": "즐겨찾기 폴더 일러스트레이션",
+		"Favoritesfolder": "즐겨찾기 폴더",
+		"Safetyillustration": "안전 실드 일러스트레이션",
+		"Safetyshield": "안전 실드",
+		"Extensionsillustration": "Microsoft Edge 추가 기능 일러스트레이션",
+		"Extensions": "추가 기능"
+    }
+	,
+	"AriaLabel":
+    {
+        "AriaLabel1": "Microsoft Edge 소개. 설정하기. 1. 즐겨찾기 가져오기. 2. 안전한 웹 서핑. 3. 추가 기능으로 사용자 지정.",
+        "AriaLabel2": "즐겨찾기 폴더 일러스트레이션. 1. 즐겨찾기 가져오기. 허브 에서 다른 브라우저에서 즐겨찾기 설정한 사이트를 쉽게 가져와 볼 수 있습니다.",
+        "AriaLabel3": "안전 실드 일러스트레이션. 2. 안전한 웹 서핑. Microsoft Edge의 Windows Defender와 SmartScreen 기술로 여러분의 PC는 이미 악성 소프트웨어와 웹 사이트 및 다운로드로부터 보호되고 있습니다.",
+        "AriaLabel4": "Microsoft Edge 추가 기능 일러스트레이션. 3. 추가 기능으로 사용자 지정. Pinterest의 Pin It 버튼, Amazon Assistant, AdBlock, Adblock Plus, LastPass 등의 인기 추가 기능으로 Microsoft Edge를 개인 설정하세요.",
+        "AriaLabel5": "모든 준비를 마쳤습니다! 팁을 더 보고 싶으시다면, 아래를 클릭하여 Microsoft Edge에 대한 새로운 소식을 확인해 보세요.",
+        "AriaLabel6": "팁 더 보기"
+    }
+}

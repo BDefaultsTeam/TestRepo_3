@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "id-id",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Ada masalah, tetapi kami telah mengatasinya",
+        "clearedData": "Microsoft Edge tidak dapat memulai dengan benar, jadi kami harus menghapus beberapa data agar Anda dapat kembali menjelajahi web.",
+        "favoritesOK": "Favorit dan kata sandi tidak akan hilang",
+        "favoritesSaved": "Kami menyimpannya, sehingga semua tetap aman.",
+        "historyAndCookies": "Riwayat dan cookie",
+        "signBackIn": "Semuanya dihapus sehingga Anda harus masuk kembali ke situs web.",
+        "settingsExtensions": "Pengaturan dan Ekstensi",
+        "changedSettings": "Jika Anda mengubah pengaturan atau ekstensi, Anda harus melakukannya lagi."
+    }
+}

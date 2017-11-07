@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "sl-si",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Prišlo je do težav, vendar smo jih odpravili",
+        "clearedData": "Microsoft Edge se ni mogel pravilno zagnati, zato smo morali počistiti nekaj podatkov, da smo vam lahko znova omogočili brskanje po spletu.",
+        "favoritesOK": "Priljubljene in gesla so v redu",
+        "favoritesSaved": "Shranili smo jih za vas, zato vam ni treba skrbeti.",
+        "historyAndCookies": "Zgodovina in piškotki",
+        "signBackIn": "To smo počistili, zato se boste morali znova vpisati na spletna mesta.",
+        "settingsExtensions": "Nastavitve in razširitve",
+        "changedSettings": "Če ste spremenili nastavitve ali razširitve, boste to morali narediti znova."
+    }
+}

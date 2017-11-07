@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Üdvözöl a Microsoft Edge!",
+        "Secondary": "Állítsuk be a fontos dolgokat!"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Érd el anyagaidat!",
+        "Tab2": "Szörfölj biztonságosan!",
+        "Tab3": "Testreszabás bővítményekkel",
+        "Tab4": "Minden készen áll ahhoz, hogy belevágj a kalandba!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Áthozzuk a könyvjelzőidet és egyéb adataidat a másik böngészőből, hogy máris otthon érezhesd magad.",
+        "Tab2": "A Microsoft Edge-be beépített Windows Defendernek és SmartScreen technológiának köszönhetően a számítógéped máris védelmet élvez a kártékony szoftverekkel, webhelyekkel és letöltésekkel szemben.",
+        "Tab3": "Tedd személyessé a Microsoft Edge-et olyan népszerű bővítményekkel, mint például a Pinterest Pin It gombja, az Amazon Assistant, az AdBlock, az Adblock Plus és a LastPass. ",
+        "Tab4": "További tippeket szeretnél kapni? Kattints az alábbi gombra a Microsoft Edge-dzsel kapcsolatos újdonságokért."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Láss hozzá!",
+        "Button2": "Biztosítsd a védelmet!",
+        "Button3": "Bővítmények letöltése",
+        "Button4": "További tippek kérése"
+    }
+	,
+    "Alt":
+    {
+		"One": "Egy",
+		"Two": "Kettő",
+		"Three": "Három",
+		"Favoritesillustration": "Kedvencek mappa – ábra",
+		"Favoritesfolder": "Kedvencek mappa",
+		"Safetyillustration": "Védőpajzs – ábra",
+		"Safetyshield": "Védőpajzs",
+		"Extensionsillustration": "Bővítmények a Microsoft Edge-ben – ábra",
+		"Extensions": "Bővítmények"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Üdvözöl a Microsoft Edge!. Állítsuk be a fontos dolgokat!. Egy. Érd el anyagaidat!. Kettő. Szörfölj biztonságosan!. Három. Testreszabás bővítményekkel.",
+        "AriaLabel2": "Kedvencek mappa. Egy. Érd el anyagaidat!. Áthozzuk a könyvjelzőidet és egyéb adataidat a másik böngészőből, hogy máris otthon érezhesd magad.",
+        "AriaLabel3": "Védőpajzs – ábra. Kettő. Szörfölj biztonságosan!. A Microsoft Edge-be beépített Windows Defendernek és SmartScreen technológiának köszönhetően a számítógéped máris védelmet élvez a kártékony szoftverekkel, webhelyekkel és letöltésekkel szemben.",
+        "AriaLabel4": "Bővítmények a Microsoft Edge-ben – ábra. Három. Testreszabás bővítményekkel. Tedd személyessé a Microsoft Edge-et olyan népszerű bővítményekkel, mint például a Pinterest Pin It gombja, az Amazon Assistant, az AdBlock, az Adblock Plus és a LastPass.",
+        "AriaLabel5": "Minden készen áll ahhoz, hogy belevágj a kalandba!. További tippeket szeretnél kapni? Kattints az alábbi gombra a Microsoft Edge-dzsel kapcsolatos újdonságokért.",
+        "AriaLabel6": "További tippek kérése"
+    }
+}

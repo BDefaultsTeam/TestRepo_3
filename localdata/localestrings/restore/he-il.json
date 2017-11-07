@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "he-il",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "משהו השתבש, אבל פתרנו את הבעיה",
+        "clearedData": "לא הייתה אפשרות להפעיל את Microsoft Edge כראוי, לכן היינו צריכים לנקות חלק מהנתונים, כדי לאפשר לכם להמשיך ולגלוש באינטרנט.",
+        "favoritesOK": "המועדפים והסיסמאות שלכם לא הושפעו",
+        "favoritesSaved": "שמרנו אותם עבורכם, כך שהכל בסדר איתם.",
+        "historyAndCookies": "היסטוריה וקבצי Cookie",
+        "signBackIn": "ניקינו את ההיסטוריה וקבצי ה- Cookie, לכן תצטרכו להיכנס מחדש לאתרים.",
+        "settingsExtensions": "הגדרות והרחבות",
+        "changedSettings": "אם שיניתם את ההגדרות או את ההרחבות, תצטרכו לעשות זאת שוב."
+    }
+}

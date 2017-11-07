@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "ko-kr",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "문제가 발생했었지만, 이제 해결되었습니다",
+        "clearedData": "Microsoft Edge가 올바르게 시작되지 않았으므로 돌아가서 웹을 검색하는 데 필요한 일부 데이터를 지워야 했습니다.",
+        "favoritesOK": "즐겨찾기 및 암호는 괜찮습니다",
+        "favoritesSaved": "이들은 저장되었으므로 안심하셔도 좋습니다.",
+        "historyAndCookies": "기록 및 쿠키",
+        "signBackIn": "이들은 지워졌으므로 웹 사이트에 다시 로그인해야 합니다.",
+        "settingsExtensions": "설정 및 확장",
+        "changedSettings": "만일 설정 또는 확장을 변경하였다면 해당 항목을 다시 변경해야 합니다."
+    }
+}

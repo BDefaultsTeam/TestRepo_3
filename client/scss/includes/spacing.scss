@@ -1,0 +1,91 @@
+@mixin generate-spacing-classes-specific($size, $prefix) {
+
+    .p-h-#{$prefix}, .p-v-#{$prefix}, .p-#{$prefix}, .p-t-#{$prefix}, .p-r-#{$prefix}, .p-b-#{$prefix}, .p-l-#{$prefix} {
+        box-sizing: border-box;
+    }
+
+    .p-t-#{$prefix}, .p-v-#{$prefix} {
+        padding-top: $size;
+    }
+
+    .p-b-#{$prefix}, .p-v-#{$prefix} {
+        padding-bottom: $size;
+    }
+
+    .p-l-#{$prefix}, .p-h-#{$prefix} {
+        padding-left: $size;
+    }
+
+    .p-r-#{$prefix}, .p-h-#{$prefix} {
+        padding-right: $size;
+    }
+
+    .m-t-#{$prefix}, .m-v-#{$prefix} {
+        margin-top: $size;
+    }
+
+    .m-b-#{$prefix}, .m-v-#{$prefix} {
+        margin-bottom: $size;
+    }
+
+    .m-l-#{$prefix}, .m-h-#{$prefix} {
+        margin-left: $size;
+    }
+
+    .m-r-#{$prefix}, .m-h-#{$prefix} {
+        margin-right: $size;
+    }
+
+}
+
+@mixin generate-spacing-classes-general($size, $prefix) {
+
+    .p-#{$prefix} {
+        padding: $size;
+    }    
+
+    .m-#{$prefix} {
+        margin: $size;
+    }
+}
+
+$spacing-base: 12px !default;
+$spacing-size-list: (
+    '1x':  $spacing-base * 1,
+    '2x':  $spacing-base * 2,
+    '3x':  $spacing-base * 3,
+    '4x':  $spacing-base * 4,
+    '5x':  $spacing-base * 5,
+    '6x':  $spacing-base * 6,
+    '7x':  $spacing-base * 7,
+    '8x':  $spacing-base * 8,
+    '9x':  $spacing-base * 9,
+    '10x': $spacing-base * 10,
+    'nudge': 4,
+    'none': 0,
+) !default;
+
+$sp1: $spacing-base * 1;
+$sp2: $spacing-base * 2;
+$sp3: $spacing-base * 3;
+$sp4: $spacing-base * 4;
+$sp5: $spacing-base * 5;
+$sp6: $spacing-base * 6;
+$sp7: $spacing-base * 7;
+$sp8: $spacing-base * 8;
+$sp9: $spacing-base * 9;
+
+body {
+
+    // we want to generate the more general classes first and then 
+    // the more specific classes so that the specific ones can override
+    // the general ones
+
+    @each $prefix, $size in $spacing-size-list {
+        @include generate-spacing-classes-general($size, $prefix);
+    }
+    
+    @each $prefix, $size in $spacing-size-list {
+        @include generate-spacing-classes-specific($size, $prefix);
+    }
+}

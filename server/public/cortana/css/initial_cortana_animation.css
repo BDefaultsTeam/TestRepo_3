@@ -1,0 +1,39 @@
+
+#imgCortanaInitial {
+    width: 224px;
+    height: 260px;
+    display: block;
+    background-image: url("../img/animation1-blue2-224.png");
+    animation: initialsprite 1.7s steps(51);
+    animation-iteration-count: 1;
+    transform: scale(1);    
+}
+
+@media only screen and (max-width: 500px) {
+    #imgCortanaInitial {        
+        transform: scale(0.7);
+    }
+}
+
+@media only screen and (max-width: 700px) and (min-width: 501px){
+    #imgCortanaInitial {       
+        transform: scale(0.7);
+    }
+}
+
+#imgCortanaInitial.stopped
+{
+    display: none;
+    position: absolute;
+}
+
+
+@keyframes initialsprite {
+    100% {
+        background-position: -11424px;
+    }
+}
+
+
+
+

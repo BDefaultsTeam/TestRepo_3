@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Bem-vindo ao Microsoft Edge",
+        "Secondary": "Vamos configurar tudo"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Traga todas as suas coisas",
+        "Tab2": "Deixe a Cortana ajudar",
+        "Tab3": "Personalize com extensões",
+        "Tab4": "Você está pronto para começar!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Vamos transferir os seus favoritos e outras informações de outro navegador para que você se sinta em casa.",
+        "Tab2": "Obtenha acesso instantâneo a avaliações, recomendações e cupons ou pesquise palavras desconhecidas sem sair da página.",
+        "Tab3": "Personalize o Microsoft Edge com extensões populares como botão Pin It do Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, entre outras. ",
+        "Tab4": "Quer mais dicas? Clique abaixo para ver as novidades do Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Vamos lá",
+        "Button2": "Configure a Cortana",
+        "Button3": "Obtenha extensões",
+        "Button4": "Obtenha mais dicas"
+    }
+	,
+    "Alt":
+    {
+        "One": "Um",
+        "Two": "Dois",
+		"Three": "Três",
+		"Favoritesillustration": "Ilustração da pasta Favoritos",
+		"Favoritesfolder": "Pasta Favoritos",
+		"Safetyillustration": "Ilustração do escudo de segurança",
+		"Safetyshield": "Escudo de segurança",
+		"Extensionsillustration": "Extensões na ilustração do Microsoft Edge",
+		"Extensions": "Extensões"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Bem-vindo ao Microsoft Edge. Vamos configurar tudo. Um. Traga todas as suas coisas. Dois. Deixe a Cortana ajudar. Três. Personalize com extensões.",        
+        "AriaLabel2": "Ilustração da pasta Favoritos. Um. Traga todas as suas coisas. Vamos transferir os seus favoritos e outras informações de outro navegador para que você se sinta em casa.",
+        "AriaLabel3": "Ilustração do escudo de segurança. Dois. Deixe a Cortana ajudar.Obtenha acesso instantâneo a avaliações, recomendações e cupons ou pesquise palavras desconhecidas sem sair da página.",
+        "AriaLabel4": "Extensões na ilustração do Microsoft Edge. Três.Personalize com extensões. Personalize o Microsoft Edge com extensões populares como botão Pin It do Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass, entre outras.",
+        "AriaLabel5": "Você está pronto para começar. Quer mais dicas? Clique abaixo para ver as novidades do Microsoft Edge.",
+        "AriaLabel6": "Obtenha mais dicas"
+    }
+}

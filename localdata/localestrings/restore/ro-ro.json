@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "ro-ro",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "A apărut o problemă, dar am rezolvat-o",
+        "clearedData": "Microsoft Edge nu a putut porni în bune condiții și de aceea a trebuit să curățăm unele date pentru a vă readuce la navigarea pe web.",
+        "favoritesOK": "Preferințele și parolele sunt în regulă",
+        "favoritesSaved": "Le-am salvat pentru dvs., deci totul este bine aici.",
+        "historyAndCookies": "Istoricul și modulele cookie",
+        "signBackIn": "Acestea au fost curățate, așa că va fi necesar să vă reconectați la site-urile web.",
+        "settingsExtensions": "Setările și extensiile",
+        "changedSettings": "Dacă ați modificat vreo setare sau extensie, va trebui să faceți acest lucru din nou."
+    }
+}

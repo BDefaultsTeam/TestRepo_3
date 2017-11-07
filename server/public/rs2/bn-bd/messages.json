@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Microsoft Edge-এ স্বাগতম",
+    "speedGetStarted": "শুরু করুন এখন",
+    "importBookmarks": "আপনার বুকমার্কগুলো ইমপোর্ট করুন",
+    "customizeWithExtensions": "আপনার এক্সটেনশনগুলো কাস্টমাইজ করুন",
+    "seeWhatsNew": "নতুন কি আছে দেখুন",
+    "tabsWelcomeWindows10": "<span class=\"g1\"><strong>সবচেয়ে দ্রুত গতির</strong>,</span>&nbsp;<span class=\"g1\"><strong>আরও নিরাপদ</strong> ব্রাউজার</span>&nbsp;<span class=\"g2\">Windows 10 এর জন্য নকশাকৃত।</span>",
+    "tabsWelcomeClaim": "<strong>ট্যাব বিশৃঙ্খলা</strong> &mdash; মীমাংসিত!",
+    "tabsTabPreviews": "ট্যাব প্রিভিউগুলো-এর সাথে আপনার পেজগুলো খুঁজে নিন",
+    "tabsOneAtATime": "একবারে একটি",
+    "tabsAllAtOnce": "অথবা এক সাথে সব",
+    "tabsForLater": "পরের জন্য সরিয়ে রাখুন",
+    "tabsBringBack": "একটি ক্লিকের মাধ্যমে তাদের ফিরিয়ে আনুন",
+    "welcomeTagline1":"<strong>সবচেয়ে দ্রুত গতির</strong>,&nbsp;",
+    "welcomeTagline2":"<strong>আরও নিরাপদ</strong> ব্রাউজার&nbsp;",
+    "welcomeTagline3":"Windows 10 এর জন্য নকশাকৃত।"
+}

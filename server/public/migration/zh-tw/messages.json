@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "歡迎使用 Microsoft Edge",
+        "Secondary": "我們來幫您設定"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "取得您的最愛內容",
+        "Tab2": "安全瀏覽",
+        "Tab3": "透過擴充功能進行自訂",
+        "Tab4": "輕鬆上手！"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "我們會從另一個瀏覽器匯入您的書籤和其他資訊，讓您有回家的感覺。 ",
+        "Tab2": "透過 Windows Defender 和 Microsoft Edge 的 SmartScreen 技術，您的電腦已受到保護，免於惡意軟體、網站和下載的威脅。",
+        "Tab3": "使用 Pinterest Pin It 按鈕、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等熱門擴充功能，個人化 Microsoft Edge。",
+        "Tab4": "想要更多秘訣？請在下方按一下，查看 Microsoft Edge 的新功能。"
+    }
+    ,
+    "Button":
+    {
+        "Button1": "開始執行",
+        "Button2": "確認您受到保護",
+        "Button3": "取得擴充功能",
+        "Button4": "查看更多秘訣"
+    }
+    ,
+    "Alt":
+    {
+        "One": "一",
+        "Two": "二",
+        "Three": "三",
+        "Favoritesillustration": "我的最愛資料夾插圖",
+        "Favoritesfolder": "我的最愛資料夾",
+        "Safetyillustration": "安全保護盾插圖",
+        "Safetyshield": "安全保護盾",
+        "Extensionsillustration": "Microsoft Edge 的擴充功能插圖",
+        "Extensions": "擴充功能"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "歡迎使用 Microsoft Edge。 我們來幫您設定。 一。 取得您的最愛內容。 二。 安全瀏覽。 三。 透過擴充功能進行自訂。",
+        "AriaLabel2": "我的最愛資料夾插圖。 一。 取得您的最愛內容。 我們會從另一個瀏覽器匯入您的書籤和其他資訊，讓您有回家的感覺。",
+        "AriaLabel3": "安全保護盾插圖。 二。 安全瀏覽。 透過 Windows Defender 和 Microsoft Edge 的 SmartScreen 技術，您的電腦已受到保護，免於惡意軟體、網站和下載的威脅。",
+        "AriaLabel4": "Microsoft Edge 的擴充功能插圖。   三。 透過擴充功能進行自訂。 使用 Pinterest Pin It 按鈕、Amazon Assistant、AdBlock、Adblock Plus、LastPass 等熱門擴充功能，個人化 Microsoft Edge。 ",
+        "AriaLabel5": "輕鬆上手！ 想要更多秘訣？請在下方按一下，查看 Microsoft Edge 的新功能。",
+        "AriaLabel6": "查看更多秘訣。"
+    }
+    }

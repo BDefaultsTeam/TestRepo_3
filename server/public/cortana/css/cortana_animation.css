@@ -1,0 +1,45 @@
+#imgCortana.started {
+    width: 224px;
+    height: 260px;
+    display: block;
+    background-image: url("../img/animation2-3-blue-224.png");
+    animation: sprite 3.9s steps(115);
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes sprite {
+    100% {
+        background-position: -25760px;
+    }
+}
+
+#imgCortana.started.stopped {
+    background-image: url("../img/animation2-test-20percent-fixed1-1-comp-224-min.png");
+    animation-play-state: paused;
+    transform: scale(1) !important;
+    top: -113px !important;
+}
+
+
+
+@media only screen and (max-width:915px) and (min-width:701px) {
+    #imgCortana.started.stopped {
+        top: -91px!important;
+    }
+}
+
+@media only screen and (max-width: 700px) and (min-width: 501px) {
+    #imgCortana.started.stopped {
+        top: -89px!important;
+    }
+
+
+}
+
+@media only screen and (max-width: 500px) {
+    #imgCortana.started.stopped {
+        top: -86px!important;
+        transform: scale(0.75)!important;
+    }
+}

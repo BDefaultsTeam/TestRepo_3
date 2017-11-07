@@ -1,0 +1,386 @@
+// base styles
+@import "includes/mixins.scss";
+
+// mwf partials
+@import "includes/mwf-reset.scss";
+@import "includes/mwf-typography.scss";
+@import "includes/mwf-fonts-local.scss";
+
+// color vars
+$teal: #008770;
+$lightblue: #4295d1;
+$purple: #5459a7;
+$yellow: #FDB813;
+$green: #1EA249;
+$overlay: rgba(#b0b0b0, 0.8);
+$blue: #0078D7;
+$nearblack: #2f2f2f;
+$lightgray: #f8f8f8;
+$darkblue: #131536;
+
+
+// shared styles
+@import "welcome-shared.scss";
+
+$darkblue: #031732;
+$blue: #0078DE;
+$green: #2BA257;
+$orange: #E85B20;
+$vw-max: 1400/100px;
+$dialsize: 24;
+
+// override shared.less
+
+h1, h2 {
+    line-height: 0.7;
+    position: relative;
+}
+h1#welcome-heading {
+    margin-bottom: 0.67em;
+}
+
+.contentContainer {
+    @include abs(0, 0, 70px, 0);
+}
+
+.content {
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    box-sizing: border-box;
+    width: 80rem;
+    left: 50%;
+    margin-left: -40rem;
+    height: 34rem;
+    top: 50%;
+    margin-top: -17rem;
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-color: $darkblue;
+}
+
+// page specific stuff
+
+.dials {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 7em;
+    text-align: center;
+    h3 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        width: 100%;
+        font-size: (22/$fs) * 1rem;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        strong {
+            font-weight: 400;
+        }
+    }
+    .edge-dial-column h3 {
+        top: -7rem;
+        font-size: (38/$fs) * 1rem;
+        font-weight: 200;
+        line-height: 1.1;
+        white-space: nowrap;
+        strong {
+            font-size: (24/$fs) * 1rem;
+            font-weight: 400;
+            color: $blue;
+        }
+    }
+    .chrome-dial-column h3 {
+        strong {
+            color: $green;
+        }
+    }
+    .ff-dial-column h3 {
+        strong {
+            color: $orange;
+        }
+    }
+}
+
+.dial-column {
+    position: relative;
+    width: $dialsize * 1rem;
+    text-align: center;
+}
+
+.dial-label {
+    position: absolute;
+    top: 31%;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 20px;
+    font-size: (32/$fs) * 1rem;
+    font-weight: 100;
+    line-height: 0.7em;
+    color: $blue;;
+    .dial-text-label {
+        font-size: (16/$fs) * 1rem;
+        font-weight: 400;
+        color: $blue;;
+    }
+    &#edge-dial-text {
+        top: 30%;
+        .dial-text-value {
+            font-size: 1.3em;
+        }
+    }
+    &#chrome-dial-text .dial-text-label, &#chrome-dial-text .dial-text-value {
+        color: $green;
+    }
+    &#ff-dial-text .dial-text-label, &#ff-dial-text .dial-text-value {
+        color: $orange;
+    }
+}
+
+.edge-dial-column {
+    display: inline-block;
+}
+
+.chrome-dial-column {
+    @include left-top(0,0);
+}
+
+.ff-dial-column {
+    @include right-top(0,0);
+}
+
+.dial-canvas {
+    width: $dialsize * 1rem;
+    height: $dialsize * 1rem;
+}
+
+
+// column label animations
+
+.dial-column {
+    h3 span {
+        opacity: 0;
+    }
+}
+
+.edge-dial-column {
+    h3 {
+        margin-top: (42/$fs) * 1rem;
+        transition: all 800ms cubic-bezier(1.000, -1.0, 0.1, 2.5);
+        span {
+            position: relative;
+            top: 50px;
+            opacity: 0;
+            transition: all 700ms cubic-bezier(1.000, -1.0, 0.1, 1.5);
+        }
+    }
+    &.show-final h3 {
+        margin-top: 0;
+        span {
+            top: 0;
+            opacity: 1;
+        }
+    }
+}
+
+.chrome-dial-column, .ff-dial-column {
+    h3 {
+        left: (73/$fs) * 1rem;
+        transition: all 1200ms cubic-bezier(1.000, -1, 0.35, 1.0);
+        span {
+            position: relative;
+            left: 30px;
+            opacity: 0;
+            transition: all 1000ms cubic-bezier(1.000, -1, 0.35, 1.0);
+        }
+    }
+    &.show-final h3 {
+        left: 0;
+        span {
+            left: 0;
+            opacity: 1;
+        }
+    }
+}
+
+.ff-dial-column {
+    h3 {
+        left: (77/$fs) * 1rem;
+    }
+}
+
+// intro animation state
+
+.dial-column {
+    opacity: 0;
+}
+
+
+#welcome-windows, #welcome-faster {
+    position: relative;
+    opacity: 0;
+    span {
+        display: inline-block;
+    }
+}
+
+#welcome-faster {
+    top: -0.8em;
+}
+
+@media (max-aspect-ratio: 14/9) {
+    .content {
+        height: 36rem;
+        margin-top: -18rem;
+    }
+    .dials {
+        margin-top: 9rem;
+    }
+}
+
+@media (max-aspect-ratio: 1/1) {
+    .content {
+        height: 38rem;
+        margin-top: -19rem;
+    }
+    .dials {
+        margin-top: 10rem;
+    }
+}
+
+
+$linksHeight: 68px;
+
+#links {
+    position: absolute;
+    bottom: -60px;
+    width: 100%;
+    height: $linksHeight + 60px; // we animate this 40 px beyond it's height during the bounce
+    margin: 0;
+    background-color: $blue;
+}
+
+
+#links {
+    text-align: center;
+    white-space: nowrap;
+    opacity: 0;
+    span, .links-button {
+        display: inline-block;
+        margin: 8px;
+        margin-top: 12px;
+        text-align: center;
+    }
+    span {
+        position: relative;
+        top: 0.2em;
+        margin-right: 16px;
+    }
+    .links-button {
+        height: 44px;
+        padding: 0 1.5em;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 40px;
+        color: white;
+        text-transform: uppercase;
+        white-space: nowrap;
+        background-color: rgba($darkblue, 0.3);
+        &:hover {
+            color: $blue;
+            background-color: white;
+            svg {
+                path {
+                    fill: $blue;
+                }
+            }
+        }
+        &:after {
+            position: relative;
+            top: 0.06em;
+            margin-left: 0.3em;
+            font-family: "MWF-MDL2";
+            content: "";
+        }
+    }
+    svg {
+        position: relative;
+        top: 0.4em;
+        margin-right: 0.2em;
+    }
+    span {
+        font-size: 19px;
+        font-weight: 300;
+    }
+}
+
+#link-bookmarks {
+    svg {
+        top: 0.3em;
+    }
+}
+
+.welcome {
+    position: relative;
+    margin-top: 0;
+}
+
+#source-links {
+    position: absolute;
+    top: -32px;
+    left: 20px;
+    font-size: 13px;
+    color: rgba(white, 0.5);
+    a {
+        color: rgba($blue, 0.6);
+        &:hover {
+            color: $blue;
+        }
+    }
+}
+
+// new dial labels
+
+.dial-min, .dial-max {
+    font-size: 0.85em;
+    font-weight: 600;
+    position: absolute;
+    top: 73%;
+    left: 16%;
+    color: rgba(255,255,255,0.25);
+}
+.dial-max {
+    left: auto;
+    right: 16%;
+}
+
+.edge-dial-column .dial-min {
+    top: 80.5%;
+    left: 3%;
+    color: rgba(0, 120, 222, 0.5);
+} 
+
+.edge-dial-column .dial-max {
+    top: 80.5%;
+    right: 3%;
+    color: rgba(0, 120, 222, 0.5);
+}
+
+.ff-dial-column .dial-min, .ff-dial-column .dial-max {
+    color: rgba(232, 91, 32, 0.5)
+}
+
+.chrome-dial-column .dial-min, .chrome-dial-column .dial-max {
+    color: rgba(43, 162, 87, 0.5)
+}
+
+

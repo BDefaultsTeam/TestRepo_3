@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Bienvenue sur Microsoft Edge",
+        "Secondary": "Commençons votre préparation"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Importez vos favoris",
+        "Tab2": "Naviguez en toute sécurité",
+        "Tab3": "Personnalisez-le à l’aide d’extensions",
+        "Tab4": "Vous êtes prêt à démarrer!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Récupérez vos favoris d’autres navigateurs et consultez-les dans le Centre <span id=\"lblHubIcon\"></span>.",
+        "Tab2": "Grâce aux technologies Windows Defender et SmartScreen de Microsoft Edge, votre PC est déjà protégé contre les logiciels, les sites Web et les téléchargements malveillants.",
+        "Tab3": "Personnalisez Microsoft Edge avec des extensions populaires comme le bouton Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass et plus encore. ",
+        "Tab4": "Vous désirez obtenir davantage de conseils? Cliquez ci-dessous pour découvrir les nouveautés de Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Importer",
+        "Button2": "Confirmer que vous êtes couvert",
+        "Button3": "Obtenez des extensions",
+        "Button4": "Obtenez plus de conseils"
+    }
+	,
+    "Alt":
+    {
+        "One": "Un",
+        "Two": "Deux",
+		"Three": "Trois",
+		"Favoritesillustration": "Illustration du dossier Favoris",
+		"Favoritesfolder": "Dossier Favoris",
+		"Safetyillustration": "Illustration du bouclier de sécurité",
+		"Safetyshield": "Bouclier de sécurité",
+		"Extensionsillustration": "Illustration d’extensions dans Microsoft Edge",
+		"Extensions": "Extensions"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Bienvenue sur Microsoft Edge. Commençons votre préparation. Un. Importez vos favoris. Deux. Naviguez en toute sécurité. Trois. Personnalisez-le à l’aide d’extensions.",
+        "AriaLabel2": "Illustration du dossier Favoris. Un. Importez vos favoris. Récupérez vos favoris d’autres navigateurs et consultez-les dans le Centre.",
+        "AriaLabel3": "Illustration du bouclier de sécurité. Deux. Naviguez en toute sécurité. Grâce aux technologies Windows Defender et SmartScreen de Microsoft Edge, votre PC est déjà protégé contre les logiciels, les sites Web et les téléchargements malveillants.",
+        "AriaLabel4": "Illustration d’extensions dans Microsoft Edge. Trois. Personnalisez-le à l’aide d’extensions. Personnalisez Microsoft Edge avec des extensions populaires comme le bouton Pin It de Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass et plus encore.",
+        "AriaLabel5": "Vous êtes prêt à démarrer!Vous désirez obtenir davantage de conseils? Cliquez ci-dessous pour découvrir les nouveautés de Microsoft Edge.",
+        "AriaLabel6": "Obtenez plus de conseils"
+    }
+}

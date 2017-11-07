@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "is-is",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Eitthvað fór úrskeiðis en við leystum úr því",
+        "clearedData": "Microsoft Edge opnaðist ekki rétt og því þurftum við að hreinsa einhver gögn til að koma þér aftur á vefinn.",
+        "favoritesOK": "Eftirlætisatriði og aðgangsorð eru óhult",
+        "favoritesSaved": "Við vistuðum þau fyrir þig.",
+        "historyAndCookies": "Ferill og kökur",
+        "signBackIn": "Þetta var hreinsað og því þarftu að skrá þig inn aftur á þessu vefsvæði.",
+        "settingsExtensions": "Stillingar og viðbætur",
+        "changedSettings": "Ef þú hefur breytt stillingum eða viðbótum þarftu að gera það aftur."
+    }
+}

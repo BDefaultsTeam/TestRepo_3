@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Dobro došli u Microsoft Edge",
+    "speedGetStarted": "Počnite odmah",
+    "importBookmarks": "Uvezite obeleživače",
+    "customizeWithExtensions": "Prilagodite pomoću proširenja",
+    "seeWhatsNew": "Pogledajte šta je novo",
+    "tabsWelcomeWindows10": "<span class=\"g1\"><strong>Brži</strong> i</span>&nbsp;<span class=\"g1\"><strong>bezbedniji</strong> pregledač</span>&nbsp;<span class=\"g2\">stvoren za Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Haos sa karticama</strong> je rešen!",
+    "tabsTabPreviews": "Pronađite stranice koristeći preglede kartica",
+    "tabsOneAtATime": "Kartice po karticu",
+    "tabsAllAtOnce": "Ili svih kartica odjednom",
+    "tabsForLater": "Sklonite sve kartice za posle",
+    "tabsBringBack": "Vratite ih jednim klikom",
+	"welcomeTagline1":"<strong>Brži</strong> i&nbsp;",
+	"welcomeTagline2":"<strong>bezbedniji</strong> pregledač&nbsp;",
+	"welcomeTagline3":"stvoren za Windows 10."
+}

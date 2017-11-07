@@ -1,0 +1,16 @@
+﻿{
+    "speedWelcomeToEdge": "ยินดีต้อนรับสู่ Microsoft Edge",
+    "speedGetStarted": "เริ่มต้นใช้งานเลย",
+    "GetApps": "ดาวน์โหลดแอปจาก Windows Store",
+    "customizeWithExtensions": "ปรับแต่งการทำงานด้วยส่วนขยาย",
+    "seeWhatsNew": "ดูว่ามีอะไรใหม่",    
+    "tabsWelcomeClaim": "<strong>แท็บอันวุ่นวาย</strong> &mdash; ได้รับการแก้ไขแล้ว",
+    "tabsTabPreviews": "หาเพจที่คุณต้องการด้วยตัวอย่างแท็บ",
+    "tabsOneAtATime": "ดูทีละแท็บ",
+    "tabsAllAtOnce": "หรือดูทั้งหมดในคราวเดียว",
+    "tabsForLater": "เก็บแท็บไว้ดูทีหลัง",
+    "tabsBringBack": "กู้คืนแท็บได้ในคลิกเดียว",
+	"welcomeTagline1":"เบราว์เซอร์ที่<strong>รวดเร็ว</strong>และ",
+	"welcomeTagline2":"<strong>ปลอดภัย</strong>ยิ่งขึ้น",
+	"welcomeTagline3":"ซึ่งได้รับการออกแบบมาสำหรับ Windows 10 S"
+}

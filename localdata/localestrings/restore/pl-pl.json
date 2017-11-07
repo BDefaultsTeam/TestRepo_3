@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "pl-pl",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Wystąpił problem, ale rozwiązaliśmy go",
+        "clearedData": "Nie udało się poprawnie uruchomić programu Microsoft Edge, więc musieliśmy wyczyścić niektóre dane, aby ponownie umożliwić Ci przeglądanie Internetu.",
+        "favoritesOK": "Ulubione i hasła są w porządku",
+        "favoritesSaved": "Zapisaliśmy je dla Ciebie, nic się tu nie zmieniło.",
+        "historyAndCookies": "Historia i pliki cookie",
+        "signBackIn": "Zostały wyczyszczone, więc musisz zalogować się w witrynach.",
+        "settingsExtensions": "Ustawienia i rozszerzenia",
+        "changedSettings": "Jeśli jakiekolwiek ustawienia lub rozszerzenia były przez Ciebie zmieniane, trzeba będzie zrobić to ponownie."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "groupId": "restore",
+    "locale": "vi-vn",
+    "schema": "localeStrings",
+    "strings": {
+        "weResolvedIt": "Đã xảy ra sự cố, nhưng chúng tôi đã khắc phục",
+        "clearedData": "Microsoft Edge không thể khởi động đúng cách, vì vậy chúng tôi đã phải xóa một số dữ liệu để giúp bạn duyệt web bình thường trở lại.",
+        "favoritesOK": "Mục yêu thích và mật khẩu vẫn bình thường",
+        "favoritesSaved": "Chúng tôi đã lưu các mục này cho bạn, vì vậy các mục này sẽ hoạt động bình thường.",
+        "historyAndCookies": "Lịch sử và cookie",
+        "signBackIn": "Chúng tôi đã xóa các mục này, vì vậy bạn sẽ cần phải đăng nhập lại vào các trang web.",
+        "settingsExtensions": "Cài đặt và Tiện ích mở rộng",
+        "changedSettings": "Nếu đã thay đổi bất kỳ cài đặt hoặc tiện ích mở rộng nào, bạn sẽ cần thực hiện lại."
+    }
+}

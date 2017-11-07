@@ -1,0 +1,59 @@
+<input type="hidden" name="market" id="marketId" value="en-us"> 
+<div id="pageContent" class="container-fluid" style="margin-top: 104.5px;">
+    <header id="header">
+        <div id="headerWrap">
+            <div id="divTitle">
+                <h1 id="hTitle">{{strings.restore.weResolvedIt}}</h1>
+                <h2 id="hSubTitle">{{strings.restore.clearedData}}</h2></div>
+        </div>
+    </header>
+    <div id="sectionPanel">
+        <div id="sectionWrap">
+
+            <!-- Favorites Section  -->
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4" id="divFavoritesSection">
+                <div class="secBgColor" style="float: left">
+                    <div class="sectionTitle">
+                        <h4 id="section1_title">{{strings.restore.favoritesOK}}</h4>
+                    </div>
+                    <div class="underline">
+                        <img id="imgUnderline" src="{{cdnVer "images/restore/Edge_BackupRestore_Assets_Underline.png"}}">
+                    </div>
+                    <div>
+                        <img id="imgFavourites" src="{{cdnVer "images/restore/Edge_BackupRestore_Assets_Favorites.png"}}">
+                    </div>
+                </div>
+                <div class="sectionContent">
+                    <label id="favSectionContent">{{strings.restore.favoritesSaved}}</label></div>
+            </div>
+            
+            <!-- History Section  -->
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4" id="divHistorySection">
+                <div class="secBgColor">
+                    <div class="sectionTitle">
+                        <h4 id="section2_title">{{strings.restore.historyAndCookies}}</h4></div>
+                        <div class="underline"></div>
+                    <div>
+                        <img id="imgLogin" src="{{cdnVer "images/restore/Edge_BackupRestore_Assets_Login.png"}}">
+                    </div>
+                </div>
+                <div class="sectionContent">
+                    <label id="hisSectionContent">{{strings.restore.signBackIn}}</label></div>
+            </div>
+
+            <!-- Extension Section  -->
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4" id="divExtensionSection">
+                <div class="secBgColor" style="float: left">
+                    <div class="sectionTitle">
+                        <h4 id="section3_title">{{strings.restore.settingsExtensions}}</h4></div>
+                        <div class="underline"></div>
+                    <div>
+                        <img id="imgSettings" src="{{cdnVer "images/restore/Edge_BackupRestore_Assets_Settings.png"}}">
+                    </div>
+                </div>
+                <div class="sectionContent">
+                    <label id="extSectionContent">{{strings.restore.changedSettings}}</label></div>
+            </div>
+        </div>
+    </div>
+</div>

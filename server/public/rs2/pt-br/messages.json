@@ -1,0 +1,17 @@
+﻿{
+    "speedWelcomeToEdge": "Bem-vindo ao Microsoft Edge",
+    "speedGetStarted": "Comece agora",
+    "importBookmarks": "Importe seus indicadores",
+    "customizeWithExtensions": "Personalize com extensões",
+    "seeWhatsNew": "Veja as novidades",
+    "tabsWelcomeWindows10": "<span class=\"g1\">O navegador <strong>mais rápido</strong> e</span>&nbsp;<span class=\"g1\"><strong>mais seguro</strong></span>&nbsp;<span class=\"g2\">criado para o Windows 10.</span>",
+    "tabsWelcomeClaim": "<strong>Caos de guias</strong> &mdash; resolvido!",
+    "tabsTabPreviews": "Localize suas páginas com as visualizações das guias",
+    "tabsOneAtATime": "Uma de cada vez",
+    "tabsAllAtOnce": "Ou todas de uma vez",
+    "tabsForLater": "Guarde as guias para acessá-las mais tarde",
+    "tabsBringBack": "Ou traga-as de volta com apenas um clique",
+	"welcomeTagline1":"O navegador <strong>mais rápido</strong> e&nbsp;",
+	"welcomeTagline2":"<strong>mais seguro</strong>&nbsp;",
+	"welcomeTagline3":"criado para o Windows 10."
+}

@@ -1,0 +1,139 @@
+// Example:
+// https://codepen.io/ingebretsen/pen/d5a9d5ee1e45f5301bc2b5c1bb808dfb
+
+// Helper classes:
+//   .row.full (removes the left and right gutters on a row)
+//   .row.snap-full (same as full but only if container is full-bleed)
+//   .row.stack-early (columns will stack at wider widths)
+//   .row.stack-late (columns will stack at narrower widths)
+//   .offset-by-two.columns (offsets the column by n columns)
+//   .container.no-columns (acts the same as adding a row and full width column, but avoids the elements)
+
+// Customizable variables:
+// (Note that additional break points can be added with the grid-stack-break mixin (see below)
+
+$grid-max-width: 1600px !default;           // outer container max-width
+$grid-gutter: 2% !default;                 // gutters (must be %)
+$grid-stack-early-break: 1024px !default;   // early break point
+$grid-stack-normal-break: 768px !default;   // normal break point
+$grid-stack-late-break: 480px !default;     // late break point
+
+// Reusable function for calculating the width of a column span within the grid
+
+@function grid-colspan-width($span) {
+    $one-column: ((100% - $grid-gutter) / 12);
+    @return ($span * $one-column) - $grid-gutter;
+}
+
+// Local mixins
+
+@mixin grid-column($span-name, $span) {
+    .column, .columns {
+        &.#{$span-name} {
+            width: grid-colspan-width($span);
+        }
+        &.offset-by-#{$span-name} {
+            margin-left: grid-colspan-width($span);
+        }
+    }
+}
+
+@mixin grid-stack-break($stack-selector, $stack-break) {
+    @media screen and (max-width: $stack-break) {
+        #{$stack-selector} {
+            .column, .columns {
+                width: 100% - ($grid-gutter * 2);
+                margin-left: $grid-gutter;
+            }
+        }
+        .container.debug {
+            .column, .columns {
+                border-top: 1px dashed rgba(purple, 0.5);
+            }
+        }
+    }
+}
+
+// Grid
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: $grid-max-width;
+    box-sizing: border-box;
+    margin: 0 auto;
+    &.no-columns {
+        width: 100% - (2 * $grid-gutter);
+        max-width: $grid-max-width * (100% - (2 * $grid-gutter)) / 100%;
+    }
+    &.no-columns-padded {
+        padding: 0 ($grid-gutter * 0.9);
+    }
+    &.keep-left {
+        margin-left: 0;
+    }
+    
+}
+
+.row {
+    $grid-adjust-margin: ((100% / (100% - ($grid-gutter * 2))) - 1) * -50%;
+    position: relative;
+    margin-right: 0;
+    margin-left: 0;
+    &.full {
+        width: 100% + $grid-adjust-margin * -2;
+        margin-left: $grid-adjust-margin;
+    }
+    &.snap-full {
+        @media screen and (max-width: $grid-max-width) {
+            width: 100% + $grid-adjust-margin * -2;
+            margin-left: $grid-adjust-margin;
+        }
+    }
+}
+
+.container:after, .row:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+
+.column, .columns {
+    position: relative;
+    float: left;
+    margin-left: $grid-gutter;
+}
+
+@include grid-column('one', 1);
+@include grid-column('two', 2);
+@include grid-column('three', 3);
+@include grid-column('four', 4);
+@include grid-column('five', 5);
+@include grid-column('six', 6);
+@include grid-column('seven', 7);
+@include grid-column('eight', 8);
+@include grid-column('nine', 9);
+@include grid-column('ten', 10);
+@include grid-column('eleven', 11);
+@include grid-column('twelve', 12);
+
+@include grid-stack-break('.row:not([class*="stack-"]), .row-stack-normal', $grid-stack-normal-break);
+@include grid-stack-break('.row.stack-early', $grid-stack-early-break);
+@include grid-stack-break('.row.stack-late', $grid-stack-late-break);
+
+// debug
+
+.container.debug {
+    $debug-min-height: 50px;
+    min-height: $debug-min-height;
+    border-right: 1px solid red;
+    border-left: 1px solid red;
+    .row {
+        border-top: 1px dashed rgba(blue, 0.5);
+        border-bottom: 1px dashed rgba(blue, 0.5);
+    }
+    .column, .columns {
+        min-height: $debug-min-height;
+        background-color: rgba(blue, 0.08);
+    }
+}

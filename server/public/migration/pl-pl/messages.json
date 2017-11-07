@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Przedstawiamy Microsoft Edge",
+        "Secondary": "Teraz pomożemy Ci w konfiguracji"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Przenieś swoje dane",
+        "Tab2": "Bezpieczne przeglądanie Internetu",
+        "Tab3": "Dostosowywanie za pomocą rozszerzeń",
+        "Tab4": "Twoja przeglądarka jest gotowa do pracy!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Twoje zakładki i pozostałe dane z innej przeglądarki zostaną przeniesone, by ułatwić Ci pracę.",
+        "Tab2": "Dzięki zastosowaniu programu Windows Defender i funkcji SmartScreen w przeglądarce Microsoft Edge komputer jest automatycznie chroniony przed złośliwym oprogramowaniem oraz zainfekowanymi witrynami i plikami.",
+        "Tab3": "Przeglądarkę Microsoft Edge można spersonalizować za pomocą popularnych rozszerzeń, takich jak AdBlock, Adblock Plus, Amazon Assistant, LastPass, przycisk Pin It z serwisu Pinterest i wiele innych. ",
+        "Tab4": "Potrzebujesz dodatkowych porad? Kliknij poniżej, aby zapoznać się z nowościami w Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Rozpocznij",
+        "Button2": "Potwierdź ochronę",
+        "Button3": "Pobierz rozszerzenia",
+        "Button4": "Uzyskaj więcej porad"
+    }
+	,
+    "Alt":
+    {
+        "One": "Jeden",
+        "Two": "Dwa",
+		"Three": "Trzy",
+		"Favoritesillustration": "Ilustracja folderu Ulubione",
+		"Favoritesfolder": "Folder Ulubione",
+		"Safetyillustration": "Ilustracja osłony zabezpieczającej",
+		"Safetyshield": "Osłona zabezpieczająca",
+		"Extensionsillustration": "Ilustracja rozszerzeń w przeglądarce Microsoft Edge",
+		"Extensions": "Rozszerzenia"
+    }
+    ,
+    "AriaLabel":
+    {
+        "AriaLabel1": "Przedstawiamy Microsoft Edge. Teraz pomożemy Ci w konfiguracji. Jeden. Przenieś swoje dane. Dwa. Bezpieczne przeglądanie Internetu. Trzy. Dostosowywanie za pomocą rozszerzeń.",
+        "AriaLabel2": "Ilustracja folderu Ulubione. Jeden. Przenieś swoje dane. Twoje zakładki i pozostałe dane z innej przeglądarki zostaną przeniesone, by ułatwić Ci pracę.",
+        "AriaLabel3": "Ilustracja osłony zabezpieczającej. Dwa. Bezpieczne przeglądanie Internetu. Dzięki zastosowaniu programu Windows Defender i funkcji SmartScreen w przeglądarce Microsoft Edge komputer jest automatycznie chroniony przed złośliwym oprogramowaniem oraz zainfekowanymi witrynami i plikami.",
+        "AriaLabel4": "Ilustracja rozszerzeń w przeglądarce Microsoft Edge. Trzy. Dostosowywanie za pomocą rozszerzeń. Przeglądarkę Microsoft Edge można spersonalizować za pomocą popularnych rozszerzeń, takich jak AdBlock, Adblock Plus, Amazon Assistant, LastPass, przycisk Pin It z serwisu Pinterest i wiele innych.",
+        "AriaLabel5": "Twoja przeglądarka jest gotowa do pracy!. Potrzebujesz dodatkowych porad? Kliknij poniżej, aby zapoznać się z nowościami w Microsoft Edge.",
+        "AriaLabel6": "Uzyskaj więcej porad"
+    }
+}

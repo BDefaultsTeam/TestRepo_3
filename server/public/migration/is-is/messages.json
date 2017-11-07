@@ -1,0 +1,54 @@
+﻿{
+    "Header":
+    {
+        "Main": "Við kynnum Microsoft Edge",
+        "Secondary": "Setjum þetta í gang"
+    }
+    ,
+    "Tabs":
+    {
+        "Tab1": "Náðu í dótið þitt",
+        "Tab2": "Vafraðu áhyggjulaust",
+        "Tab3": "Sérsníða með skrárendingum",
+        "Tab4": "Allt er til reiðu!"
+    }
+    ,
+    "Span":
+    {
+        "Tab1": "Við flytjum bókamerkin þín og aðrar upplýsingar yfir úr öðrum vafra svo að umhverfið verði kunnuglegt.",
+        "Tab2": "Með Windows Defender og SmartScreen-tækni í Microsoft Edge er tölvan þín þegar varin gegn skaðlegum hugbúnaði, vefsvæðum og niðurhali.",
+        "Tab3": "Breyttu Microsoft Edge eftir þínu höfði með vinsælum viðbótum á borð við Pin It-hnappinn frá Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass og fleirum.",
+        "Tab4": "Viltu fá fleiri ábendingar? Smelltu fyrir neðan til að sjá hvað er nýtt í Microsoft Edge."
+    }
+    ,
+    "Button":
+    {
+        "Button1": "Byrja",
+        "Button2": "Staðfestu að þú sért örugg(ur)",
+        "Button3": "Sækja viðbætur",
+        "Button4": "Fá fleiri ábendingar"
+    }
+    ,
+    "Alt":
+    {
+        "One": "einn",
+        "Two": "tveir",
+        "Three": "þrjú",
+        "Favoritesillustration": "Mynd af möppunni Eftirlæti",
+        "Favoritesfolder": "Mappan Eftirlæti",
+        "Safetyillustration": "Mynd af öryggisskyldi",
+        "Safetyshield": "Öryggisskjöldur",
+        "Extensionsillustration": "Mynd af viðbótum í Microsoft Edge",
+        "Extensions": "Viðbætur"
+    }
+	,
+	"AriaLabel":
+    {
+       "AriaLabel1": "Við kynnum Microsoft Edge. Setjum þetta í gang. Einn. Náðu í dótið þitt. Tveir. Vafraðu áhyggjulaust. Þrír. Sérsníða með skrárendingum.",
+        "AriaLabel2": "Mynd af möppunni Eftirlæti. Einn. Náðu í dótið þitt. Við flytjum bókamerkin þín og aðrar upplýsingar yfir úr öðrum vafra svo að umhverfið verði kunnuglegt.",
+        "AriaLabel3": "Mynd af öryggisskyldi. Tveir. Vafraðu áhyggjulaust. Með Windows Defender og SmartScreen-tækni í Microsoft Edge er tölvan þín þegar varin gegn skaðlegum hugbúnaði, vefsvæðum og niðurhali.",
+        "AriaLabel4": "Mynd af viðbótum í Microsoft Edge. Þrír. Sérsníða með skrárendingum. Breyttu Microsoft Edge eftir þínu höfði með vinsælum viðbótum á borð við Pin It-hnappinn frá Pinterest, Amazon Assistant, AdBlock, Adblock Plus, LastPass og fleirum.",
+        "AriaLabel5": "Allt er til reiðu. Viltu fá fleiri ábendingar? Smelltu fyrir neðan til að sjá hvað er nýtt í Microsoft Edge.",
+        "AriaLabel6": "Fá fleiri ábendingar"
+    }
+}

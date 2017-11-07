@@ -1,0 +1,19 @@
+﻿{
+	"speedWelcomeToEdge": "Microsoft Edge へようこそ",
+    "speedWelcomeWindows10": "<span class=\"g2\">Windows 10 用の</span><span class=\"g1\"><strong>高速</strong>で</span><span class=\"g1\"><strong>安全な</strong>ブラウザー。</span>",
+    "speedFaster": "Chrome と Firefox のどちらよりも高速",
+    "speedGooglesBenchmark": "  &mdash; Google によるベンチマーク結果。",
+    "speedMicrosoftEdge": "Microsoft Edge <br>",
+    "speedFastest": "最速",
+    "speedScore": "スピード スコア",
+    "speedChrome": "Google Chrome",
+    "speedChromeSlower": "<strong>&mdash;</strong> 5% 低速",
+    "speedFirefox": "Mozilla Firefox",
+    "speedFirefoxSlower": "<strong>&mdash;</strong> 9% 低速",
+    "speedBasedOn": "Google の Octane 2.0 テスト結果に基づくスコア:",
+    "speedDetailsHere": "詳しくはこちら",
+    "speedGetStarted": "今すぐ使ってみる",
+    "importBookmarks": "ブックマークをインポートする",
+    "customizeWithExtensions": "拡張機能を使ってカスタマイズする",
+    "seeWhatsNew": "新機能を確認する"
+} 
